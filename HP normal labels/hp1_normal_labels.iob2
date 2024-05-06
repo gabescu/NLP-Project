@@ -281,7 +281,7 @@ Now	O
 
 # sent_id = 100018
 # text = Wake up, cousin! We're going to the zoo!
-Wake	B-LOC
+Wake	O
 up	O
 ,	O
 cousin	O
@@ -7798,8 +7798,8 @@ saaa	O
 
 # sent_id = 100423
 # text = Wingardrium Leviosar!
-Wingardrium	B-ORG
-Leviosar	B-ORG
+Wingardrium	O
+Leviosar	O
 !	O
 
 # sent_id = 100424
@@ -12266,7 +12266,7 @@ blood	O
 ...	O
 that	O
 was	O
-Voldemort	O
+Voldemort	B-PER
 ?	O
 
 # sent_id = 100695
@@ -14088,7 +14088,7 @@ chess	O
 
 # sent_id = 100811
 # text = Castle to E-4! Smash! Ron: Pawn to C-3! Smash! Boom! The Queen turns, and smashes a piece! Harry, Ron and Hermione wince. The Queen turns again. Both Ron and Harry study the game.
-Castle	B-LOC
+Castle	O
 to	O
 E	O
 4	O

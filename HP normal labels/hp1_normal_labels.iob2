@@ -6839,7 +6839,7 @@ Potter	B-PER
 the	O
 new	O
 Gryffindor	O
-Seeker	B-PER
+Seeker	O
 .	O
 I	O
 always	O
@@ -6852,7 +6852,7 @@ well	O
 
 # sent_id = 100366
 # text = Seeker? But first years never make their house teams! You must be the youngest Quidditch player in...
-Seeker	B-PER
+Seeker	O
 ?	O
 But	O
 first	O

@@ -1,0 +1,45 @@
+Naming conventions for common labels:
+
+Person
+B-PER
+I-PER
+
+Place
+B-LOC
+I-LOC
+
+Organization
+B-ORG
+I-ORG
+
+Product
+B-PRODUCT
+I-PRODUCT
+
+Naming conventions for custom labels:
+
+All of the above plus:
+
+Magical Creature
+B-CRT
+I-CRT
+
+Potions
+B-POT
+I-POT
+
+Spells
+B-SPL
+I-SPL
+
+Hogwarts Houses
+B-HOUSE
+I-HOUSE
+
+Magical Misc
+B-MAG
+I-MAG
+
+Courses
+B-CRS
+I-CRS

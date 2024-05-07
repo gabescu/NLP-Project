@@ -2504,8 +2504,8 @@ it	O
 s	O
 the	O
 new	O
-Nimbus	B-MAG
-2000	I-MAG
+Nimbus	B-MIT
+2000	I-MIT
 !	O
 It	O
 's	O
@@ -3860,12 +3860,12 @@ Whoa	O
 
 # sent_id = 100210
 # text = Bertie Bott's Every Flavour Beans?
-Bertie	B-MAG
-Bott	I-MAG
-'s	I-MAG
-Every	I-MAG
-Flavour	I-MAG
-Beans	I-MAG
+Bertie	B-MIT
+Bott	I-MIT
+'s	I-MIT
+Every	I-MIT
+Flavour	I-MIT
+Beans	I-MIT
 ?	O
 
 # sent_id = 100211
@@ -6021,7 +6021,7 @@ Neville	B-PER
 's	O
 got	O
 a	O
-Remembrall	B-MAG
+Remembrall	B-MIT
 !	O
 
 # sent_id = 100317
@@ -7058,7 +7058,7 @@ your	O
 father	O
 was	O
 a	O
-Seeker	O
+Seeker	B-MAG
 ,	O
 too	O
 .	O
@@ -7480,16 +7480,16 @@ seven	O
 players	O
 ,	O
 3	O
-chasers	O
+chasers	B-MAG
 ,	O
 2	O
-beaters	O
+beaters	B-MAG
 ,	O
 1	O
-keeper	O
+keeper	B-MAG
 and	O
 a	O
-seeker	O
+seeker	B-MAG
 .	O
 That	O
 's	O
@@ -7507,15 +7507,15 @@ one	O
 's	O
 called	O
 the	O
-Quaffle	O
+Quaffle	B-MIT
 .	O
 Now	O
 ,	O
 the	O
-chasers	O
+chasers	B-MAG
 handle	O
 the	O
-Quaffle	O
+Quaffle	B-MIT
 and	O
 try	O
 to	O
@@ -7529,7 +7529,7 @@ three	O
 hoops	O
 .	O
 The	O
-keeper	O
+keeper	B-MAG
 ,	O
 that	O
 's	O
@@ -7584,7 +7584,7 @@ you	O
 make	O
 a	O
 fair	O
-beater	O
+beater	B-MAG
 ...	O
 Uh	O
 oh	O
@@ -7599,7 +7599,7 @@ that	O
 
 # sent_id = 100413
 # text = Bludger. Nasty little buggers. But you are the seeker, and the only thing I want you to worry about is this... the Golden Snitch.
-Bludger	O
+Bludger	B-MIT
 .	O
 Nasty	O
 little	O
@@ -7609,7 +7609,7 @@ But	O
 you	O
 are	O
 the	O
-seeker	O
+seeker	B-MAG
 ,	O
 and	O
 the	O
@@ -7625,8 +7625,8 @@ is	O
 this	O
 ...	O
 the	O
-Golden	O
-Snitch	O
+Golden	B-MIT
+Snitch	I-MIT
 .	O
 
 # sent_id = 100414
@@ -7682,7 +7682,7 @@ the	O
 other	O
 team	O
 's	O
-seeker	O
+seeker	B-MAG
 .	O
 You	O
 catch	O
@@ -8780,8 +8780,8 @@ Harry	B-PER
 It	O
 's	O
 a	O
-Nimbus	B-MAG
-2000	I-MAG
+Nimbus	B-MIT
+2000	I-MIT
 !	O
 
 # sent_id = 100488
@@ -8841,7 +8841,7 @@ remember	O
 I	O
 took	O
 a	O
-bludger	O
+bludger	B-MIT
 to	O
 the	O
 head	O
@@ -8931,31 +8931,31 @@ you	O
 # sent_id = 100498
 # text = The bludgers are up...followed by the Golden Snitch. Remember, the snitch is worth 150 points. The seeker who catches the Snitch ends the game.
 The	O
-bludgers	O
+bludgers	B-MIT
 are	O
 up	O
 ...	O
 followed	O
 by	O
 the	O
-Golden	O
-Snitch	O
+Golden	B-MIT
+Snitch	I-MIT
 .	O
 Remember	O
 ,	O
 the	O
-snitch	O
+snitch	B-MIT
 is	O
 worth	O
 150	O
 points	O
 .	O
 The	O
-seeker	O
+seeker	B-MAG
 who	O
 catches	O
 the	O
-Snitch	O
+Snitch	B-MIT
 ends	O
 the	O
 game	O
@@ -8964,7 +8964,7 @@ game	O
 # sent_id = 100499
 # text = The Quaffle is released...and the game begins!
 The	O
-Quaffle	O
+Quaffle	B-MIT
 is	O
 released	O
 ...	O
@@ -9006,14 +9006,14 @@ takes	O
 possession	O
 of	O
 the	O
-Quaffle	O
+Quaffle	B-MIT
 .	O
 Bletchley	B-PER
 passes	O
 to	O
 Captain	O
 Marcus	B-PER
-Flint	B-PER
+Flint	I-PER
 .	O
 
 # sent_id = 100504
@@ -9171,7 +9171,7 @@ He	O
 's	O
 got	O
 the	O
-Snitch	O
+Snitch	B-MIT
 !	O
 Harry	B-PER
 Potter	I-PER
@@ -9181,7 +9181,7 @@ points	O
 for	O
 catching	O
 the	O
-Snitch	O
+Snitch	B-MIT
 !	O
 
 # sent_id = 100524
@@ -10146,8 +10146,8 @@ I	O
 'm	O
 holding	O
 the	O
-Quidditch	B-MAG
-cup	I-MAG
+Quidditch	B-MIT
+cup	I-MIT
 !	O
 And	O
 bloody	O
@@ -10283,9 +10283,9 @@ the	O
 delights	O
 of	O
 the	O
-Mirror	B-MAG
-of	I-MAG
-Erised	I-MAG
+Mirror	B-MIT
+of	I-MIT
+Erised	I-MIT
 .	O
 I	O
 trust	O
@@ -10860,9 +10860,9 @@ known	O
 maker	O
 of	O
 the	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 !	O
 
 # sent_id = 100625
@@ -10888,9 +10888,9 @@ two	O
 read	O
 ?	O
 The	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 is	O
 a	O
 legendary	O
@@ -10910,9 +10910,9 @@ gold	O
 and	O
 produces	O
 the	O
-Elixir	B-MAG
-of	I-MAG
-Life	I-MAG
+Elixir	B-POT
+of	I-POT
+Life	I-POT
 ,	O
 which	O
 will	O
@@ -10997,9 +10997,9 @@ the	O
 trapdoor	O
 ...	O
 the	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 !	O
 
 # sent_id = 100633
@@ -11040,9 +11040,9 @@ We	O
 know	O
 about	O
 the	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 !	O
 
 # sent_id = 100636
@@ -11051,9 +11051,9 @@ We	O
 know	O
 about	O
 the	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 !	O
 
 # sent_id = 100637
@@ -11062,9 +11062,9 @@ We	O
 know	O
 about	O
 the	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 !	O
 
 # sent_id = 100638
@@ -12289,9 +12289,9 @@ moment	O
 # sent_id = 100696
 # text = The Philosopher's Stone.
 The	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 .	O
 
 # sent_id = 100697
@@ -12406,9 +12406,9 @@ Voldemort	B-PER
 .	O
 With	O
 the	O
-Elixir	B-MAG
-of	I-MAG
-Life	I-MAG
+Elixir	B-POT
+of	I-POT
+Life	I-POT
 ,	O
 Voldemort	B-PER
 will	O
@@ -12942,9 +12942,9 @@ It	O
 about	O
 ...	O
 the	O
-Philosopher	B-MAG
-'s	I-MAG
-Stone	I-MAG
+Philosopher	B-MIT
+'s	I-MIT
+Stone	I-MIT
 .	O
 
 # sent_id = 100724
@@ -13874,7 +13874,7 @@ You	O
 're	O
 the	O
 youngest	O
-seeker	O
+seeker	B-MAG
 in	O
 a	O
 century	O
@@ -15108,7 +15108,7 @@ he	O
 He	O
 has	O
 enough	O
-Elixir	B-MAG
+Elixir	B-POT
 to	O
 set	O
 his	O
@@ -15316,12 +15316,12 @@ love	O
 .	O
 Ah	O
 .	O
-Bertie	B-MAG
-Bott	I-MAG
-'s	I-MAG
-Every	I-MAG
-Flavor	I-MAG
-Beans	I-MAG
+Bertie	B-MIT
+Bott	I-MIT
+'s	I-MIT
+Every	I-MIT
+Flavor	I-MIT
+Beans	I-MIT
 .	O
 I	O
 was	O

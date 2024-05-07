@@ -12,9 +12,6 @@ Organization
 B-ORG
 I-ORG
 
-Product
-B-PRODUCT
-I-PRODUCT
 
 Naming conventions for custom labels:
 
@@ -43,3 +40,7 @@ I-MAG
 Courses
 B-CRS
 I-CRS
+
+Magical Items
+B-MIT
+I-MIT

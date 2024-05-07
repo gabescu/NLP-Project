@@ -9013,7 +9013,7 @@ passes	O
 to	O
 Captain	O
 Marcus	B-PER
-Flint	B-PER
+Flint	I-PER
 .	O
 
 # sent_id = 100504

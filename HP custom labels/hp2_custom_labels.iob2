@@ -2143,8 +2143,8 @@ Harry	B-PER
 never	O
 traveled	O
 by	O
-Floo	B-MAG
-powder	I-MAG
+Floo	B-MIT
+powder	I-MIT
 before	O
 ,	O
 Mum	O
@@ -2152,8 +2152,8 @@ Mum	O
 
 # sent_id = 200138
 # text = Floo powder?
-Floo	B-MAG
-powder	I-MAG
+Floo	B-MIT
+powder	I-MIT
 ?	O
 
 # sent_id = 200139
@@ -2234,8 +2234,8 @@ right	O
 Now	O
 take	O
 your	O
-Floo	B-MAG
-powder	I-MAG
+Floo	B-MIT
+powder	I-MIT
 .	O
 That	O
 's	O
@@ -2447,11 +2447,11 @@ was	O
 lookin	O
 '	O
 for	O
-Flesh	B-MAG
-Eatin	I-MAG
-'	I-MAG
-Slug	I-MAG
-Repellent	I-MAG
+Flesh	B-MIT
+Eatin	I-MIT
+'	I-MIT
+Slug	I-MIT
+Repellent	I-MIT
 .	O
 They	O
 're	O
@@ -3376,8 +3376,8 @@ Oh	O
 no	O
 !	O
 The	O
-Invisibility	B-MAG
-Booster	I-MAG
+Invisibility	B-MIT
+Booster	I-MIT
 must	O
 be	O
 faulty	O
@@ -4466,7 +4466,7 @@ Weasley	B-PER
 got	O
 himself	O
 a	O
-Howler	B-MAG
+Howler	B-MIT
 !	O
 
 # sent_id = 200288
@@ -5036,11 +5036,11 @@ year	O
 # text = Those are Nimbus Two Thousand and Ones! How did you get those?
 Those	O
 are	O
-Nimbus	B-MAG
-Two	I-MAG
-Thousand	I-MAG
-and	I-MAG
-Ones	I-MAG
+Nimbus	B-MIT
+Two	I-MIT
+Thousand	I-MIT
+and	I-MIT
+Ones	I-MIT
 !	O
 How	O
 did	O
@@ -7229,7 +7229,7 @@ got	O
 himself	O
 a	O
 rogue	O
-Bludger	B-MAG
+Bludger	B-MIT
 !	O
 That	O
 's	O
@@ -7304,7 +7304,7 @@ Potter	I-PER
 has	O
 caught	O
 the	O
-Snitch	B-MAG
+Snitch	B-MIT
 !	O
 Gryffindor	B-HOUSE
 wins	O
@@ -7716,7 +7716,7 @@ home	O
 Dobby	B-PER
 thought	O
 his	O
-Bludger	B-MAG
+Bludger	B-MIT
 would	O
 be	O
 enough	O
@@ -7730,12 +7730,12 @@ that	O
 # sent_id = 200471
 # text = Your Bludger? You made that Bludger chase after me?
 Your	O
-Bludger	B-MAG
+Bludger	B-MIT
 ?	O
 You	O
 made	O
 that	O
-Bludger	B-MAG
+Bludger	B-MIT
 chase	O
 after	O
 me	O

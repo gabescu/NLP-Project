@@ -2688,7 +2688,7 @@ madam	O
 
 # sent_id = 200175
 # text = Nice big smile, Harry. Together you and I rate the front page! Ladies and gentlemen, what an extraordinary moment this is. When young Harry stepped into Flourish and Blotts this morning to purchase my autobiography, Magical Me,… which, incidentally is currently celebrating its 27th week atop the Daily Prophet bestseller list, he had no idea that he would, in fact, be leaving… with my entire collected works, free of charge. Now, ladies?
-Nice	B-ORG
+Nice	O
 big	O
 smile	O
 ,	O
@@ -2960,7 +2960,7 @@ And	O
 you	O
 must	O
 be	O
-Miss	B-MISC
+Miss	O
 Granger	B-PER
 .	O
 Yes	O
@@ -3683,7 +3683,7 @@ Ahh	O
 
 # sent_id = 200253
 # text = Scabbers, you OK? The car! …Dad's gonna kill me.
-Scabbers	O
+Scabbers	B-PERS
 ,	O
 you	O
 OK	O
@@ -5822,7 +5822,7 @@ Oh	O
 no	O
 It	O
 's	O
-Filch	O
+Filch	B-PER
 's	O
 cat	O
 .	O
@@ -6174,7 +6174,7 @@ Norris	B-PER
 
 # sent_id = 200387
 # text = Innocent until proven guilty, Severus.
-Innocent	B-PER
+Innocent	0
 until	O
 proven	O
 guilty	O
@@ -6858,7 +6858,7 @@ know	O
 who	O
 thinks	O
 all	O
-Muggle	B-PER
+Muggle	O
 borns	O
 are	O
 scum	O
@@ -7200,7 +7200,7 @@ All	O
 right	O
 there	O
 ,	O
-Scarhead	O
+Scarhead	B-PER
 ?	O
 
 # sent_id = 200433
@@ -7846,12 +7846,12 @@ Harry	B-PER
 Potter	I-PER
 triumphed	O
 over	O
-He	O
-Who	O
-Must	O
-Not	O
-Be	O
-Named	O
+He	B-PER
+Who	I-PER
+Must	I-PER
+Not	I-PER
+Be	I-PER
+Named	I-PER
 .	O
 We	O
 house	O

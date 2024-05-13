@@ -1,89 +1,135 @@
-#import spacy
-#
-# This code uses Spacy pretrained NER model, which is to say it is not trained by us
-#nlp = spacy.load('en_core_web_sm')
-#ner_categories = ["PERSON", "GPE", "LOC"]
-#
-#f = open("en_ewt-ud-test-masked.iob2", "r")
-#text = f.readlines()
-#f.close()
-#phrases = []
-#for line in text:
-#    if line.find("text =") != -1:
-#        phrases.append(line[line.find("text =") + 6 : line.find("\n")])
-#        
-#for phrase in phrases:
-#    doc = nlp(phrase)
-#
-#    entities = []
-#    for ent in doc.ents:
-#        if ent.label_ in ner_categories:
-#            entities.append((ent.text, ent.label_))
-#        
-#    i = 1
-#    f = open("gold_file", "a")
-#    f.write(f"Text = {phrase}\n")
-#    for entity, category in entities:
-#        f.write(f"{i}\t{entity}\t{category}\n")
-#        i += 1
-#    f.write("\n")
-#    f.close()
+from datasets import Dataset
+from datasets import load_metric
+from transformers import AutoTokenizer
+from transformers import DataCollatorForTokenClassification
+from transformers import AutoModelForTokenClassification
+from transformers import TrainingArguments
+from transformers import TrainingArguments, Trainer
+import numpy as np
+import evaluate
+import pandas as pd
 
-#---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+batch_size = 16
 
-# Import necessary libraries
-import torch
-from transformers import BertTokenizer, BertForTokenClassification
-from transformers import AdamW, get_linear_schedule_with_warmup
-from torch.utils.data import DataLoader
+def read_iob2_file(path):
+    data = []
+    current_words = []
+    current_tags = []
 
-# Load the BERT tokenizer and model
-tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
-model = BertForTokenClassification.from_pretrained("bert-base-uncased", num_labels = NUM_LABELS)  # Set NUM_LABELS according to your dataset
+    for line in open(path, encoding='utf-8'):
+        line = line.strip()
 
-# Tokenization
-def tokenize_and_preserve_labels(sentence, text_labels):
-    tokenized_sentence = []
+        if line:
+            if line[0] == '#':
+                continue
+            tok = line.split('\t')
+
+            current_words.append(tok[1])
+            current_tags.append(tok[2])
+        else:
+            if current_words:
+                data.append((current_words, current_tags))
+            current_words = []
+            current_tags = []
+
+    if current_tags != []:
+        data.append((current_words, current_tags))
+
+    df = pd.DataFrame(data, columns=['words', 'tags'])
+    df['id'] = df.index
+    df = df[['id', 'words', 'tags']]
+    
+    return df
+
+def tokenize_and_align_labels(dataset, word_column, tag_column, tokenizer):
+    tokenized_inputs = tokenizer(dataset[word_column].tolist(), truncation = True, is_split_into_words = True, padding = True)
+
     labels = []
+    for i, label in enumerate(dataset[tag_column]):
+        word_ids = tokenized_inputs.word_ids(batch_index=i)
+        previous_word_idx = None
+        label_ids = []
+        for word_idx in word_ids:
+            if word_idx is None:
+                label_ids.append(-100)
+            elif word_idx != previous_word_idx:
+                label_ids.append(label[word_idx])
+            else:
+                label_ids.append(label[word_idx] if True else -100)
+            previous_word_idx = word_idx
 
-    for word, label in zip(sentence, text_labels):
-        tokenized_word = tokenizer.tokenize(word)
-        n_subwords = len(tokenized_word)
-        tokenized_sentence.extend(tokenized_word)
-        labels.extend([label] * n_subwords)
+        labels.append(label_ids)
 
-    return tokenized_sentence, labels
+    tokenized_inputs["labels"] = labels
+    return tokenized_inputs.data
 
-# Assuming `sentences` and `labels` are lists containing sentences and their corresponding labels
-tokenized_texts_and_labels = [tokenize_and_preserve_labels(sent, labs) for sent, labs in zip(sentences, labels)]
-tokenized_texts = [token_label_pair[0] for token_label_pair in tokenized_texts_and_labels]
-labels = [token_label_pair[1] for token_label_pair in tokenized_texts_and_labels]
+dataset_test = read_iob2_file("en_ewt-ud-test-masked.iob2")
+dataset_eval = read_iob2_file("en_ewt-ud-dev.iob2")
+dataset_train = read_iob2_file("en_ewt-ud-train.iob2")
 
-# Convert tokenized text and labels to tensor format
-input_ids = pad_sequences([tokenizer.convert_tokens_to_ids(txt) for txt in tokenized_texts], maxlen=MAX_LEN, dtype="long", value=0.0, truncating="post", padding="post")
-tags = pad_sequences([[tag2idx.get(l) for l in lab] for lab in labels], maxlen=MAX_LEN, value=tag2idx["PAD"], padding="post", dtype="long", truncating="post")
+labels_to_idx = {"O": 0, "B-LOC": 1, 'I-LOC': 2, 'B-PER': 3, 'B-ORG': 4, 'I-ORG': 5, 'I-PER': 6}
 
-# Create attention masks to ignore padded tokens
-attention_masks = [[float(i != 0.0) for i in ii] for ii in input_ids]
+model_checkpoint = "distilbert/distilbert-base-uncased"
+tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, padding = True)
 
-# Split data into train and validation sets and wrap them in DataLoader for efficient batching
+dataset_test['tag_idx'] = dataset_test['tags'].apply(lambda x: [labels_to_idx[tag] for tag in x])
+dataset_train['tag_idx'] = dataset_train['tags'].apply(lambda x: [labels_to_idx[tag] for tag in x])
+dataset_eval['tag_idx'] = dataset_eval['tags'].apply(lambda x: [labels_to_idx[tag] for tag in x])
 
-# Fine-tuning setup
-optimizer = AdamW(model.parameters(), lr=3e-5, eps=1e-8)
-total_steps = len(train_dataloader) * EPOCHS
-scheduler = get_linear_schedule_with_warmup(optimizer, num_warmup_steps=0, num_training_steps=total_steps)
+tokenized_data_test = tokenize_and_align_labels(dataset_test, "words", "tag_idx", tokenizer)
+tokenized_data_train = tokenize_and_align_labels(dataset_train, "words", "tag_idx", tokenizer)
+tokenized_data_eval = tokenize_and_align_labels(dataset_eval, "words", "tag_idx", tokenizer)
 
-# Training loop
-for _ in range(EPOCHS):
-    model.train()
-    for batch in train_dataloader:
-        b_input_ids, b_labels, b_masks = batch
-        outputs = model(b_input_ids, token_type_ids=None, attention_mask=b_masks, labels=b_labels)
-        loss = outputs[0]
-        loss.backward()
-        optimizer.step()
-        scheduler.step()
-        model.zero_grad()
-    # Validation loop can be added here
+model = AutoModelForTokenClassification.from_pretrained(model_checkpoint, num_labels=len(labels_to_idx))
 
-model.save_pretrained("./ner_model")
+training_args = TrainingArguments(output_dir = "test_trainer")
+
+metric = evaluate.load("accuracy")
+
+def compute_metrics(eval_pred):
+    logits, labels = eval_pred
+    predictions = np.argmax(logits, axis = -1)
+    return metric.compute(predictions = predictions, references = labels)
+
+training_args = TrainingArguments(
+    output_dir = "test_trainer",
+    evaluation_strategy = "epoch",
+    learning_rate = 2e-5,
+    per_device_train_batch_size = batch_size,
+    per_device_eval_batch_size = batch_size,
+    num_train_epochs = 3
+)
+
+data_collator = DataCollatorForTokenClassification(tokenizer)
+metric = load_metric("seqeval")
+
+test_dataset = Dataset.from_dict({
+    'id': range(len(tokenized_data_train['input_ids'])),
+    'input_ids': tokenized_data_train['input_ids'],
+    'attention_mask': tokenized_data_train['attention_mask'],
+    'labels': tokenized_data_train['labels']
+})
+train_dataset = Dataset.from_dict({
+    'id': range(len(tokenized_data_train['input_ids'])),
+    'input_ids': tokenized_data_train['input_ids'],
+    'attention_mask': tokenized_data_train['attention_mask'],
+    'labels': tokenized_data_train['labels']
+})
+eval_dataset = Dataset.from_dict({
+    'id': range(len(tokenized_data_eval['input_ids'])),
+    'input_ids': tokenized_data_eval['input_ids'],
+    'attention_mask': tokenized_data_eval['attention_mask'],
+    'labels': tokenized_data_eval['labels']
+})
+
+trainer = Trainer(
+    data_collator = data_collator,
+    tokenizer = tokenizer,
+    model = model,
+    args = training_args,
+    train_dataset = train_dataset,
+    eval_dataset = eval_dataset,
+    compute_metrics = compute_metrics,
+)
+
+trainer.train()

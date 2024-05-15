@@ -16,6 +16,9 @@ Event
 B-EVN
 I-EVN
 
+Titles
+B-TTL
+I-TTL
 
 Naming conventions for custom labels:
 

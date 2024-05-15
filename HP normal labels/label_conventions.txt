@@ -12,6 +12,10 @@ Organization
 B-ORG
 I-ORG
 
+Event
+B-EVN
+I-EVN
+
 
 Naming conventions for custom labels:
 

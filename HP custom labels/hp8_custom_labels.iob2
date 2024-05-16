@@ -1,0 +1,10640 @@
+# newdoc id = hp8diolog.csv
+# sent_id = 800001
+# text = It's beautiful here.
+It	O
+'s	O
+beautiful	O
+here	O
+.	O
+
+# sent_id = 800002
+# text = It was our Aunt's. We used to come here as kids. The Order uses it now as a safe house -- what's left of us, at least.
+It	O
+was	O
+our	O
+Aunt	O
+'s	O
+.	O
+We	O
+used	O
+to	O
+come	O
+here	O
+as	O
+kids	O
+.	O
+The	O
+Order	B-ORG
+uses	O
+it	O
+now	O
+as	O
+a	O
+safe	O
+house	O
+what	O
+'s	O
+left	O
+of	O
+us	O
+,	O
+at	O
+least	O
+.	O
+
+# sent_id = 800003
+# text = Muggles think these keep evil away. But they're wrong...
+Muggles	B-MAG
+think	O
+these	O
+keep	O
+evil	O
+away	O
+.	O
+But	O
+they	O
+'re	O
+wrong	O
+...	O
+
+# sent_id = 800004
+# text = I need to talk to the goblin.
+I	O
+need	O
+to	O
+talk	O
+to	O
+the	O
+goblin	B-CRT
+.	O
+
+# sent_id = 800005
+# text = How are you?
+How	O
+are	O
+you	O
+?	O
+
+# sent_id = 800006
+# text = Alive.
+Alive	O
+.	O
+
+# sent_id = 800007
+# text = You probably don't remember --
+You	O
+probably	O
+do	O
+n't	O
+remember	O
+
+# sent_id = 800008
+# text = Yes.
+Yes	O
+.	O
+
+# sent_id = 800009
+# text = And brought me here.
+And	O
+brought	O
+me	O
+here	O
+.	O
+
+# sent_id = 800010
+# text = You are a very unusual wizard.
+You	O
+are	O
+a	O
+very	O
+unusual	O
+wizard	O
+.	O
+
+# sent_id = 800011
+# text = Why did you leave Gringotts?
+Why	O
+did	O
+you	O
+leave	O
+Gringotts	B-ORG
+?	O
+
+# sent_id = 800012
+# text = Soon the Death Eaters will control it. That was unacceptable to me.
+Soon	O
+the	O
+Death	B-ORG
+Eaters	I-ORG
+will	O
+control	O
+it	O
+.	O
+That	O
+was	O
+unacceptable	O
+to	O
+me	O
+.	O
+
+# sent_id = 800013
+# text = Then you're on our side.
+Then	O
+you	O
+'re	O
+on	O
+our	O
+side	O
+.	O
+
+# sent_id = 800014
+# text = This is a wizard's war. I take no side.
+This	O
+is	O
+a	O
+wizard	O
+'s	O
+war	O
+.	O
+I	O
+take	O
+no	O
+side	O
+.	O
+
+# sent_id = 800015
+# text = It is impossible.
+It	O
+is	O
+impossible	O
+.	O
+
+# sent_id = 800016
+# text = Alone, yes. With you, no.
+Alone	O
+,	O
+yes	O
+.	O
+With	O
+you	O
+,	O
+no	O
+.	O
+
+# sent_id = 800017
+# text = How did you come by this sword?
+How	O
+did	O
+you	O
+come	O
+by	O
+this	O
+sword	O
+?	O
+
+# sent_id = 800018
+# text = It's complicated. Why did Bellatrix Lestrange think it should be in her vault at Gringotts?
+It	O
+'s	O
+complicated	O
+.	O
+Why	O
+did	O
+Bellatrix	B-PER
+Lestrange	I-PER
+think	O
+it	O
+should	O
+be	O
+in	O
+her	O
+vault	O
+at	O
+Gringotts	B-ORG
+?	O
+
+# sent_id = 800019
+# text = It's complicated.
+It	O
+'s	O
+complicated	O
+.	O
+
+# sent_id = 800020
+# text = The sword presented itself to us in a moment of need. We didn't steal it.
+The	O
+sword	O
+presented	O
+itself	O
+to	O
+us	O
+in	O
+a	O
+moment	O
+of	O
+need	O
+.	O
+We	O
+did	O
+n't	O
+steal	O
+it	O
+.	O
+
+# sent_id = 800021
+# text = There is a sword in Madam Lestrange's vault identical to this one, but it is a fake. It was placed there this past summer.
+There	O
+is	O
+a	O
+sword	O
+in	O
+Madam	O
+Lestrange	B-PER
+'s	O
+vault	O
+identical	O
+to	O
+this	O
+one	O
+,	O
+but	O
+it	O
+is	O
+a	O
+fake	O
+.	O
+It	O
+was	O
+placed	O
+there	O
+this	O
+past	O
+summer	O
+.	O
+
+# sent_id = 800022
+# text = And she never suspected?
+And	O
+she	O
+never	O
+suspected	O
+?	O
+
+# sent_id = 800023
+# text = The replica is very convincing. Only a goblin would recognize that this is the true Sword of Gryffindor.
+The	O
+replica	O
+is	O
+very	O
+convincing	O
+.	O
+Only	O
+a	O
+goblin	B-CRT
+would	O
+recognize	O
+that	O
+this	O
+is	O
+the	O
+true	O
+Sword	B-MAG
+of	I-MAG
+Gryffindor	I-MAG
+.	O
+
+# sent_id = 800024
+# text = Who put it there? The fake.
+Who	O
+put	O
+it	O
+there	O
+?	O
+The	O
+fake	O
+.	O
+
+# sent_id = 800025
+# text = It was not my place to ask, nor did I desire to. There are more than a few curious things in the vaults at Gringotts.
+It	O
+was	O
+not	O
+my	O
+place	O
+to	O
+ask	O
+,	O
+nor	O
+did	O
+I	O
+desire	O
+to	O
+.	O
+There	O
+are	O
+more	O
+than	O
+a	O
+few	O
+curious	O
+things	O
+in	O
+the	O
+vaults	O
+at	O
+Gringotts	B-ORG
+.	O
+
+# sent_id = 800026
+# text = And in Madam Lestrange's vault as well?
+And	O
+in	O
+Madam	O
+Lestrange	B-PER
+'s	O
+vault	O
+as	O
+well	O
+?	O
+
+# sent_id = 800027
+# text = Perhaps.
+Perhaps	O
+.	O
+
+# sent_id = 800028
+# text = I have no interest in gold.
+I	O
+have	O
+no	O
+interest	O
+in	O
+gold	O
+.	O
+
+# sent_id = 800029
+# text = Then what? The goblin twists the curl at his chin... then his eyes
+Then	O
+what	O
+?	O
+The	O
+goblin	B-CRT
+twists	O
+the	O
+curl	O
+at	O
+his	O
+chin	O
+...	O
+then	O
+his	O
+eyes	O
+
+# sent_id = 800030
+# text = That is my price.
+That	O
+is	O
+my	O
+price	O
+.	O
+
+# sent_id = 800031
+# text = I have your word, Harry Potter, that you will give me the Sword of Gryffindor if I help you?
+I	O
+have	O
+your	O
+word	O
+,	O
+Harry	B-PER
+Potter	I-PER
+,	O
+that	O
+you	O
+will	O
+give	O
+me	O
+the	O
+Sword	B-MAG
+of	I-MAG
+Gryffindor	I-MAG
+if	O
+I	O
+help	O
+you	O
+?	O
+
+# sent_id = 800032
+# text = Harry, are you thinking there's a Horcrux in Bellatrix's vault?
+Harry	B-PER
+,	O
+are	O
+you	O
+thinking	O
+there	O
+'s	O
+a	O
+Horcrux	B-MAG
+in	O
+Bellatrix	B-PER
+'s	O
+vault	O
+?	O
+
+# sent_id = 800033
+# text = She was terrified when she thought we'd been in there. She kept asking you what else we'd taken. I'd bet anything there's a Horcrux there. If we find it, we can kill it. And if we kill it, we're one step closer to killing him.
+She	O
+was	O
+terrified	O
+when	O
+she	O
+thought	O
+we	O
+'d	O
+been	O
+in	O
+there	O
+.	O
+She	O
+kept	O
+asking	O
+you	O
+what	O
+else	O
+we	O
+'d	O
+taken	O
+.	O
+I	O
+'d	O
+bet	O
+anything	O
+there	O
+'s	O
+a	O
+Horcrux	B-MAG
+there	O
+.	O
+If	O
+we	O
+find	O
+it	O
+,	O
+we	O
+can	O
+kill	O
+it	O
+.	O
+And	O
+if	O
+we	O
+kill	O
+it	O
+,	O
+we	O
+'re	O
+one	O
+step	O
+closer	O
+to	O
+killing	O
+him	O
+.	O
+
+# sent_id = 800034
+# text = And if we find one? How're we supposed to destroy it if we've given Griphook the sword?
+And	O
+if	O
+we	O
+find	O
+one	O
+?	O
+How	O
+'re	O
+we	O
+supposed	O
+to	O
+destroy	O
+it	O
+if	O
+we	O
+'ve	O
+given	O
+Griphook	B-PER
+the	O
+sword	O
+?	O
+
+# sent_id = 800035
+# text = I'm still working on that part.
+I	O
+'m	O
+still	O
+working	O
+on	O
+that	O
+part	O
+.	O
+
+# sent_id = 800036
+# text = He's too weak.
+He	O
+'s	O
+too	O
+weak	O
+.	O
+
+# sent_id = 800037
+# text = Forgive me if I don't get up.
+Forgive	O
+me	O
+if	O
+I	O
+do	O
+n't	O
+get	O
+up	O
+.	O
+
+# sent_id = 800038
+# text = Mr. Ollivander, I need to ask you a few questions.
+Mr.	O
+Ollivander	B-PER
+,	O
+I	O
+need	O
+to	O
+ask	O
+you	O
+a	O
+few	O
+questions	O
+.	O
+
+# sent_id = 800039
+# text = Anything, m'boy, anything.
+Anything	O
+,	O
+m	O
+'	O
+boy	O
+,	O
+anything	O
+.	O
+
+# sent_id = 800040
+# text = Can you identify these, sir?
+Can	O
+you	O
+identify	O
+these	O
+,	O
+sir	O
+?	O
+
+# sent_id = 800041
+# text = Walnut and dragon heartstring. Twelve and three quarter inches. Unyielding. This belongs to Bellatrix Lestrange.
+Walnut	O
+and	O
+dragon	O
+heartstring	O
+.	O
+Twelve	O
+and	O
+three	O
+quarter	O
+inches	O
+.	O
+Unyielding	O
+.	O
+This	O
+belongs	O
+to	O
+Bellatrix	B-PER
+Lestrange	I-PER
+.	O
+
+# sent_id = 800042
+# text = And this?
+And	O
+this	O
+?	O
+
+# sent_id = 800043
+# text = Hawthorn. Unicorn hair. Ten inches. Reasonably pliant. This was the wand of Draco Malfoy.
+Hawthorn	O
+.	O
+Unicorn	O
+hair	O
+.	O
+Ten	O
+inches	O
+.	O
+Reasonably	O
+pliant	O
+.	O
+This	O
+was	O
+the	O
+wand	O
+of	O
+Draco	B-PER
+Malfoy	B-ORG
+.	O
+
+# sent_id = 800044
+# text = Was? Isn't it still?
+Was	O
+?	O
+Is	O
+n't	O
+it	O
+still	O
+?	O
+
+# sent_id = 800045
+# text = Perhaps not -- if you won it from him. I sense its allegiance has changed.
+Perhaps	O
+not	O
+if	O
+you	O
+won	O
+it	O
+from	O
+him	O
+.	O
+I	O
+sense	O
+its	O
+allegiance	O
+has	O
+changed	O
+.	O
+
+# sent_id = 800046
+# text = The wand chooses the wizard, Mr. Potter. That much has always been clear to those of us who have studied wandlore.
+The	O
+wand	O
+chooses	O
+the	O
+wizard	O
+,	O
+Mr.	O
+Potter	B-PER
+.	O
+That	O
+much	O
+has	O
+always	O
+been	O
+clear	O
+to	O
+those	O
+of	O
+us	O
+who	O
+have	O
+studied	O
+wandlore	O
+.	O
+
+# sent_id = 800047
+# text = What do you know about the Deathly Hallows, sir?
+What	O
+do	O
+you	O
+know	O
+about	O
+the	O
+Deathly	B-MAG
+Hallows	I-MAG
+,	O
+sir	O
+?	O
+
+# sent_id = 800048
+# text = There are rumored to be three: The Elder Wand, the Resurrection Stone and the Invisibility Cloak. It is said that to possess them all is to make oneself the Master of Death. But few truly believe such objects exist --
+There	O
+are	O
+rumored	O
+to	O
+be	O
+three	O
+:	O
+The	O
+Elder	B-MAG
+Wand	I-MAG
+,	O
+the	O
+Resurrection	B-MAG
+Stone	I-MAG
+and	O
+the	O
+Invisibility	B-MAG
+Cloak	I-MAG
+.	O
+It	O
+is	O
+said	O
+that	O
+to	O
+possess	O
+them	O
+all	O
+is	O
+to	O
+make	O
+oneself	O
+the	O
+Master	O
+of	O
+Death	O
+.	O
+But	O
+few	O
+truly	O
+believe	O
+such	O
+objects	O
+exist	O
+
+# sent_id = 800049
+# text = But you, sir? Do you believe they exist?
+But	O
+you	O
+,	O
+sir	O
+?	O
+Do	O
+you	O
+believe	O
+they	O
+exist	O
+?	O
+
+# sent_id = 800050
+# text = You're lying. You know one exists and you told him about it. You told him about the Elder Wand and where to go looking for it.
+You	O
+'re	O
+lying	O
+.	O
+You	O
+know	O
+one	O
+exists	O
+and	O
+you	O
+told	O
+him	O
+about	O
+it	O
+.	O
+You	O
+told	O
+him	O
+about	O
+the	O
+Elder	B-MAG
+Wand	I-MAG
+and	O
+where	O
+to	O
+go	O
+looking	O
+for	O
+it	O
+.	O
+
+# sent_id = 800051
+# text = He tortured me! Besides, I conveyed only rumors. There's no guarantee he will find it --
+He	O
+tortured	O
+me	O
+!	O
+Besides	O
+,	O
+I	O
+conveyed	O
+only	O
+rumors	O
+.	O
+There	O
+'s	O
+no	O
+guarantee	O
+he	O
+will	O
+find	O
+it	O
+
+# sent_id = 800052
+# text = He has found it, sir.
+He	O
+has	O
+found	O
+it	O
+,	O
+sir	O
+.	O
+
+# sent_id = 800053
+# text = That's all, sir. We'll leave you to get some rest now.
+That	O
+'s	O
+all	O
+,	O
+sir	O
+.	O
+We	O
+'ll	O
+leave	O
+you	O
+to	O
+get	O
+some	O
+rest	O
+now	O
+.	O
+
+# sent_id = 800054
+# text = He's after you, Mr. Potter. If it's true, what you say, that he has the Elder Wand, I'm afraid you really don't stand a chance.
+He	O
+'s	O
+after	O
+you	O
+,	O
+Mr.	O
+Potter	B-PER
+.	O
+If	O
+it	O
+'s	O
+true	O
+,	O
+what	O
+you	O
+say	O
+,	O
+that	O
+he	O
+has	O
+the	O
+Elder	B-MAG
+Wand	I-MAG
+,	O
+I	O
+'m	O
+afraid	O
+you	O
+really	O
+do	O
+n't	O
+stand	O
+a	O
+chance	O
+.	O
+
+# sent_id = 800055
+# text = Then I guess I'll just have to kill him before he finds me, sir.
+Then	O
+I	O
+guess	O
+I	O
+'ll	O
+just	O
+have	O
+to	O
+kill	O
+him	O
+before	O
+he	O
+finds	O
+me	O
+,	O
+sir	O
+.	O
+
+# sent_id = 800056
+# text = You're sure it's hers?
+You	O
+'re	O
+sure	O
+it	O
+'s	O
+hers	O
+?	O
+
+# sent_id = 800057
+# text = Positive. Harry turns to the two wands on the table -- the ones he showed Ollivander -- and extends the longest to Hermione.
+Positive	O
+.	O
+Harry	B-PER
+turns	O
+to	O
+the	O
+two	O
+wands	O
+on	O
+the	O
+table	O
+the	O
+ones	O
+he	O
+showed	O
+Ollivander	B-PER
+and	O
+extends	O
+the	O
+longest	O
+to	O
+Hermione	B-PER
+.	O
+
+# sent_id = 800058
+# text = I reckon you should take this then.
+I	O
+reckon	O
+you	O
+should	O
+take	O
+this	O
+then	O
+.	O
+
+# sent_id = 800059
+# text = You heard Ollivander. It's Harry's now.
+You	O
+heard	O
+Ollivander	B-PER
+.	O
+It	O
+'s	O
+Harry	B-PER
+'s	O
+now	O
+.	O
+
+# sent_id = 800060
+# text = But I hate that thing -- that's the wand that killed Sirius! How can I hold it and not feel...
+But	O
+I	O
+hate	O
+that	O
+thing	O
+that	O
+'s	O
+the	O
+wand	O
+that	O
+killed	O
+Sirius	B-PER
+!	O
+How	O
+can	O
+I	O
+hold	O
+it	O
+and	O
+not	O
+feel	O
+...	O
+
+# sent_id = 800061
+# text = If I can hold it, you can.
+If	O
+I	O
+can	O
+hold	O
+it	O
+,	O
+you	O
+can	O
+.	O
+
+# sent_id = 800062
+# text = How will we know what it is when we get in there? After all, a Horcrux can be anything.
+How	O
+will	O
+we	O
+know	O
+what	O
+it	O
+is	O
+when	O
+we	O
+get	O
+in	O
+there	O
+?	O
+After	O
+all	O
+,	O
+a	O
+Horcrux	B-MAG
+can	O
+be	O
+anything	O
+.	O
+
+# sent_id = 800063
+# text = I'll know. I can't explain. It's like...
+I	O
+'ll	O
+know	O
+.	O
+I	O
+ca	O
+n't	O
+explain	O
+.	O
+It	O
+'s	O
+like	O
+...	O
+
+# sent_id = 800064
+# text = That's a bit scary.
+That	O
+'s	O
+a	O
+bit	O
+scary	O
+.	O
+
+# sent_id = 800065
+# text = It is, Harry. Did Dumbledore ever say anything to you, something that might explain why --
+It	O
+is	O
+,	O
+Harry	B-PER
+.	O
+Did	O
+Dumbledore	B-PER
+ever	O
+say	O
+anything	O
+to	O
+you	O
+,	O
+something	O
+that	O
+might	O
+explain	O
+why	O
+
+# sent_id = 800066
+# text = No. I just know. When one's near.
+No	O
+.	O
+I	O
+just	O
+know	O
+.	O
+When	O
+one	O
+'s	O
+near	O
+.	O
+
+# sent_id = 800067
+# text = This is the closest I could find to what you described, Hermione.
+This	O
+is	O
+the	O
+closest	O
+I	O
+could	O
+find	O
+to	O
+what	O
+you	O
+described	O
+,	O
+Hermione	B-PER
+.	O
+
+# sent_id = 800068
+# text = It's perfect. Thank you, Fleur.
+It	O
+'s	O
+perfect	O
+.	O
+Thank	O
+you	O
+,	O
+Fleur	B-PER
+.	O
+
+# sent_id = 800069
+# text = You're leaving, aren't you.
+You	O
+'re	O
+leaving	O
+,	O
+are	O
+n't	O
+you	O
+.	O
+
+# sent_id = 800070
+# text = In the morning.
+In	O
+the	O
+morning	O
+.	O
+
+# sent_id = 800071
+# text = And Griphook?
+And	O
+Griphook	B-PER
+?	O
+
+# sent_id = 800072
+# text = He'll be leaving too.
+He	O
+'ll	O
+be	O
+leaving	O
+too	O
+.	O
+
+# sent_id = 800073
+# text = Listen, I don't know what you're up to, but I know goblins. If you've struck any kind of bargain with Griphook, you must be exceptionally careful to live up to it. If you don't... he won't be forgiving.
+Listen	O
+,	O
+I	O
+do	O
+n't	O
+know	O
+what	O
+you	O
+'re	O
+up	O
+to	O
+,	O
+but	O
+I	O
+know	O
+goblins	B-CRT
+.	O
+If	O
+you	O
+'ve	O
+struck	O
+any	O
+kind	O
+of	O
+bargain	O
+with	O
+Griphook	B-PER
+,	O
+you	O
+must	O
+be	O
+exceptionally	O
+careful	O
+to	O
+live	O
+up	O
+to	O
+it	O
+.	O
+If	O
+you	O
+do	O
+n't	O
+...	O
+he	O
+wo	O
+n't	O
+be	O
+forgiving	O
+.	O
+
+# sent_id = 800074
+# text = The sky has lost a star.
+The	O
+sky	O
+has	O
+lost	O
+a	O
+star	O
+.	O
+
+# sent_id = 800075
+# text = My father used to say that when a child died. She looks up, smiles.
+My	O
+father	O
+used	O
+to	O
+say	O
+that	O
+when	O
+a	O
+child	O
+died	O
+.	O
+She	O
+looks	O
+up	O
+,	O
+smiles	O
+.	O
+
+# sent_id = 800076
+# text = Yeah. Funny. Listen, Luna, about your father, I don't want you to think I --
+Yeah	O
+.	O
+Funny	O
+.	O
+Listen	O
+,	O
+Luna	B-PER
+,	O
+about	O
+your	O
+father	O
+,	O
+I	O
+do	O
+n't	O
+want	O
+you	O
+to	O
+think	O
+I	O
+
+# sent_id = 800077
+# text = I know you understand why my father did what he did, Harry. That's why we don't need to talk about it.
+I	O
+know	O
+you	O
+understand	O
+why	O
+my	O
+father	O
+did	O
+what	O
+he	O
+did	O
+,	O
+Harry	B-PER
+.	O
+That	O
+'s	O
+why	O
+we	O
+do	O
+n't	O
+need	O
+to	O
+talk	O
+about	O
+it	O
+.	O
+
+# sent_id = 800078
+# text = Hogwarts?
+Hogwarts	B-ORG
+?	O
+
+# sent_id = 800079
+# text = It's not the place you left, you
+It	O
+'s	O
+not	O
+the	O
+place	O
+you	O
+left	O
+,	O
+you	O
+
+# sent_id = 800080
+# text = Neither am I.
+Neither	O
+am	O
+I	O
+.	O
+
+# sent_id = 800081
+# text = Always good value. I'll miss her.
+Always	O
+good	O
+value	O
+.	O
+I	O
+'ll	O
+miss	O
+her	O
+.	O
+
+# sent_id = 800082
+# text = What d'you think?
+What	O
+d	O
+'	O
+you	O
+think	O
+?	O
+
+# sent_id = 800083
+# text = Wouldn't know you if I didn't know you.
+Would	O
+n't	O
+know	O
+you	O
+if	O
+I	O
+did	O
+n't	O
+know	O
+you	O
+.	O
+
+# sent_id = 800084
+# text = You want to tell me what that is?
+You	O
+want	O
+to	O
+tell	O
+me	O
+what	O
+that	O
+is	O
+?	O
+
+# sent_id = 800085
+# text = Sirius gave it to me. He had a matching piece. He said if I ever needed him, all I had to do was look into it.
+Sirius	B-PER
+gave	O
+it	O
+to	O
+me	O
+.	O
+He	O
+had	O
+a	O
+matching	O
+piece	O
+.	O
+He	O
+said	O
+if	O
+I	O
+ever	O
+needed	O
+him	O
+,	O
+all	O
+I	O
+had	O
+to	O
+do	O
+was	O
+look	O
+into	O
+it	O
+.	O
+
+# sent_id = 800086
+# text = You mean he could see you?
+You	O
+mean	O
+he	O
+could	O
+see	O
+you	O
+?	O
+
+# sent_id = 800087
+# text = Something like that. I don't know. He died before I ever got to use it. The thing is...
+Something	O
+like	O
+that	O
+.	O
+I	O
+do	O
+n't	O
+know	O
+.	O
+He	O
+died	O
+before	O
+I	O
+ever	O
+got	O
+to	O
+use	O
+it	O
+.	O
+The	O
+thing	O
+is	O
+...	O
+
+# sent_id = 800088
+# text = Go on.
+Go	O
+on	O
+.	O
+
+# sent_id = 800089
+# text = You'll think I'm mental, but more than once, when I've looked into it -- I think I've seen Dumbledore.
+You	O
+'ll	O
+think	O
+I	O
+'m	O
+mental	O
+,	O
+but	O
+more	O
+than	O
+once	O
+,	O
+when	O
+I	O
+'ve	O
+looked	O
+into	O
+it	O
+I	O
+think	O
+I	O
+'ve	O
+seen	O
+Dumbledore	B-PER
+.	O
+
+# sent_id = 800090
+# text = Bloody hell... that's a sight.
+Bloody	O
+hell	O
+...	O
+that	O
+'s	O
+a	O
+sight	O
+.	O
+
+# sent_id = 800091
+# text = Well, how do I look?
+Well	O
+,	O
+how	O
+do	O
+I	O
+look	O
+?	O
+
+# sent_id = 800092
+# text = Hideous.
+Hideous	O
+.	O
+
+# sent_id = 800093
+# text = Oh dear, I missed a spot, didn't I? Hold still...
+Oh	O
+dear	O
+,	O
+I	O
+missed	O
+a	O
+spot	O
+,	O
+did	O
+n't	O
+I	O
+?	O
+Hold	O
+still	O
+...	O
+
+# sent_id = 800094
+# text = Couldn't do anything about that bit in the back that's always flipping up, could you? Dead annoying --
+Could	O
+n't	O
+do	O
+anything	O
+about	O
+that	O
+bit	O
+in	O
+the	O
+back	O
+that	O
+'s	O
+always	O
+flipping	O
+up	O
+,	O
+could	O
+you	O
+?	O
+Dead	O
+annoying	O
+
+# sent_id = 800095
+# text = Never mind. I'm good.  That is you in there, isn't it?
+Never	O
+mind	O
+.	O
+I	O
+'m	O
+good	O
+.	O
+That	O
+is	O
+you	O
+in	O
+there	O
+,	O
+is	O
+n't	O
+it	O
+?	O
+
+# sent_id = 800096
+# text = You can give that to Hermione to hold, all right, Griphook?
+You	O
+can	O
+give	O
+that	O
+to	O
+Hermione	B-PER
+to	O
+hold	O
+,	O
+all	O
+right	O
+,	O
+Griphook	B-PER
+?	O
+
+# sent_id = 800097
+# text = Madam Lestrange.
+Madam	O
+Lestrange	B-PER
+.	O
+
+# sent_id = 800098
+# text = Good morning? Good morning? You're Bellatrix Lestrange, not some dewy-eyed schoolgirl!
+Good	O
+morning	O
+?	O
+Good	O
+morning	O
+?	O
+You	O
+'re	O
+Bellatrix	B-PER
+Lestrange	I-PER
+,	O
+not	O
+some	O
+dewy	O
+eyed	O
+schoolgirl	O
+!	O
+
+# sent_id = 800099
+# text = Hey. Easy.
+Hey	O
+.	O
+Easy	O
+.	O
+
+# sent_id = 800100
+# text = She gives us away and we might as well use that sword to slit our own throats. Understand?
+She	O
+gives	O
+us	O
+away	O
+and	O
+we	O
+might	O
+as	O
+well	O
+use	O
+that	O
+sword	O
+to	O
+slit	O
+our	O
+own	O
+throats	O
+.	O
+Understand	O
+?	O
+
+# sent_id = 800101
+# text = He's right. I was being stupid.
+He	O
+'s	O
+right	O
+.	O
+I	O
+was	O
+being	O
+stupid	O
+.	O
+
+# sent_id = 800102
+# text = C'mon. Let's do it.
+C	O
+'m	O
+on	O
+.	O
+Let	O
+'s	O
+do	O
+it	O
+.	O
+
+# sent_id = 800103
+# text = Identification.
+Identification	O
+.	O
+
+# sent_id = 800104
+# text = I wish to enter my vault.
+I	O
+wish	O
+to	O
+enter	O
+my	O
+vault	O
+.	O
+
+# sent_id = 800105
+# text = I see. Very well. Excuse me, won't you?
+I	O
+see	O
+.	O
+Very	O
+well	O
+.	O
+Excuse	O
+me	O
+,	O
+wo	O
+n't	O
+you	O
+?	O
+
+# sent_id = 800106
+# text = I don't like to be kept waiting.
+I	O
+do	O
+n't	O
+like	O
+to	O
+be	O
+kept	O
+waiting	O
+.	O
+
+# sent_id = 800107
+# text = Next.
+Next	O
+.	O
+
+# sent_id = 800108
+# text = He's with me.
+He	O
+'s	O
+with	O
+me	O
+.	O
+
+# sent_id = 800109
+# text = They know!
+They	O
+know	O
+!	O
+
+# sent_id = 800110
+# text = What do you mean?
+What	O
+do	O
+you	O
+mean	O
+?	O
+
+# sent_id = 800111
+# text = They know she's an imposter! They've been warned!
+They	O
+know	O
+she	O
+'s	O
+an	O
+imposter	O
+!	O
+They	O
+'ve	O
+been	O
+warned	O
+!	O
+
+# sent_id = 800112
+# text = Madam Lestrange. Would you mind presenting your wand?
+Madam	O
+Lestrange	B-PER
+.	O
+Would	O
+you	O
+mind	O
+presenting	O
+your	O
+wand	O
+?	O
+
+# sent_id = 800113
+# text = And why should I do that?
+And	O
+why	O
+should	O
+I	O
+do	O
+that	O
+?	O
+
+# sent_id = 800114
+# text = Harry, what do we do? Harry...?
+Harry	B-PER
+,	O
+what	O
+do	O
+we	O
+do	O
+?	O
+Harry	B-PER
+...	O
+?	O
+
+# sent_id = 800115
+# text = It's the bank's policy. I'm sure you understand, given the current climate --
+It	O
+'s	O
+the	O
+bank	O
+'s	O
+policy	O
+.	O
+I	O
+'m	O
+sure	O
+you	O
+understand	O
+,	O
+given	O
+the	O
+current	O
+climate	O
+
+# sent_id = 800116
+# text = No, I most certainly do not understand --
+No	O
+,	O
+I	O
+most	O
+certainly	O
+do	O
+not	O
+understand	O
+
+# sent_id = 800117
+# text = I'm afraid I must insist.
+I	O
+'m	O
+afraid	O
+I	O
+must	O
+insist	O
+.	O
+
+# sent_id = 800118
+# text = Imperio.
+Imperio	B-SPL
+.	O
+
+# sent_id = 800119
+# text = Very well, Madam Lestrange. If you will follow me.
+Very	O
+well	O
+,	O
+Madam	O
+Lestrange	B-PER
+.	O
+If	O
+you	O
+will	O
+follow	O
+me	O
+.	O
+
+# sent_id = 800120
+# text = But... Bogrod, there have been special instructions regarding the Lestrange vault.
+But	O
+...	O
+Bogrod	B-PER
+,	O
+there	O
+have	O
+been	O
+special	O
+instructions	O
+regarding	O
+the	O
+Lestrange	B-PER
+vault	O
+.	O
+
+# sent_id = 800121
+# text = I'm fully aware of that. I'm also aware the Lestranges are one of our oldest and most respected families.
+I	O
+'m	O
+fully	O
+aware	O
+of	O
+that	O
+.	O
+I	O
+'m	O
+also	O
+aware	O
+the	O
+Lestranges	B-PER
+are	O
+one	O
+of	O
+our	O
+oldest	O
+and	O
+most	O
+respected	O
+families	O
+.	O
+
+# sent_id = 800122
+# text = Yes, sir, but our instructions are very specific --
+Yes	O
+,	O
+sir	O
+,	O
+but	O
+our	O
+instructions	O
+are	O
+very	O
+specific	O
+
+# sent_id = 800123
+# text = Let me be specific with you, Ricbert. I've run this bank for forty-five years, long before anyone had even heard of a Death Eater. The day may come that they feel they can run this place better than me, but that day has not yet arrived. Am I understood!
+Let	O
+me	O
+be	O
+specific	O
+with	O
+you	O
+,	O
+Ricbert	B-PER
+.	O
+I	O
+'ve	O
+run	O
+this	O
+bank	O
+for	O
+forty	O
+five	O
+years	O
+,	O
+long	O
+before	O
+anyone	O
+had	O
+even	O
+heard	O
+of	O
+a	O
+Death	B-ORG
+Eater	I-ORG
+.	O
+The	O
+day	O
+may	O
+come	O
+that	O
+they	O
+feel	O
+they	O
+can	O
+run	O
+this	O
+place	O
+better	O
+than	O
+me	O
+,	O
+but	O
+that	O
+day	O
+has	O
+not	O
+yet	O
+arrived	O
+.	O
+Am	O
+I	O
+understood	O
+!	O
+
+# sent_id = 800124
+# text = Madam, if you will, I will escort you myself.
+Madam	O
+,	O
+if	O
+you	O
+will	O
+,	O
+I	O
+will	O
+escort	O
+you	O
+myself	O
+.	O
+
+# sent_id = 800125
+# text = How long before they come after us?
+How	O
+long	O
+before	O
+they	O
+come	O
+after	O
+us	O
+?	O
+
+# sent_id = 800126
+# text = What's that? Up ahead.
+What	O
+'s	O
+that	O
+?	O
+Up	O
+ahead	O
+.	O
+
+# sent_id = 800127
+# text = I should have known --
+I	O
+should	O
+have	O
+known	O
+
+# sent_id = 800128
+# text = What is that, Griphook?
+What	O
+is	O
+that	O
+,	O
+Griphook	B-PER
+?	O
+
+# sent_id = 800129
+# text = Griphook! What is that!
+Griphook	B-PER
+!	O
+What	O
+is	O
+that	O
+!	O
+
+# sent_id = 800130
+# text = Well done. Hey.
+Well	O
+done	O
+.	O
+Hey	O
+.	O
+
+# sent_id = 800131
+# text = The Thief's Downfall. Washes away all enchantments. Can be deadly.
+The	O
+Thief	B-MAG
+'s	I-MAG
+Downfall	B-MAG
+.	O
+Washes	O
+away	O
+all	O
+enchantments	O
+.	O
+Can	O
+be	O
+deadly	O
+.	O
+
+# sent_id = 800132
+# text = You don't say.  Just out of interest... is there any other way out of here?
+You	O
+do	O
+n't	O
+say	O
+.	O
+Just	O
+out	O
+of	O
+interest	O
+...	O
+is	O
+there	O
+any	O
+other	O
+way	O
+out	O
+of	O
+here	O
+?	O
+
+# sent_id = 800133
+# text = No.
+No	O
+.	O
+
+# sent_id = 800134
+# text = What the devil are you all doing down here!
+What	O
+the	O
+devil	O
+are	O
+you	O
+all	O
+doing	O
+down	O
+here	O
+!	O
+
+# sent_id = 800135
+# text = We need him!
+We	O
+need	O
+him	O
+!	O
+
+# sent_id = 800136
+# text = Is this your doing, Griphook? You have no rights here anymore. When you gave up your keys, you --
+Is	O
+this	O
+your	O
+doing	O
+,	O
+Griphook	B-PER
+?	O
+You	O
+have	O
+no	O
+rights	O
+here	O
+anymore	O
+.	O
+When	O
+you	O
+gave	O
+up	O
+your	O
+keys	O
+,	O
+you	O
+
+# sent_id = 800137
+# text = Imperio!
+Imperio	B-SPL
+!	O
+
+# sent_id = 800138
+# text = Well done.
+Well	O
+done	O
+.	O
+
+# sent_id = 800139
+# text = No. It's not possible...
+No	O
+.	O
+It	O
+'s	O
+not	O
+possible	O
+...	O
+
+# sent_id = 800140
+# text = Bloody hell. That's a Welsh Green.
+Bloody	O
+hell	O
+.	O
+That	O
+'s	O
+a	O
+Welsh	B-CRT
+Green	B-CRT
+.	O
+
+# sent_id = 800141
+# text = It looks like it's been down here forever.
+It	O
+looks	O
+like	O
+it	O
+'s	O
+been	O
+down	O
+here	O
+forever	O
+.	O
+
+# sent_id = 800142
+# text = Go on.
+Go	O
+on	O
+.	O
+
+# sent_id = 800143
+# text = It's been trained to expect pain when it hears the noise.
+It	O
+'s	O
+been	O
+trained	O
+to	O
+expect	O
+pain	O
+when	O
+it	O
+hears	O
+the	O
+noise	O
+.	O
+
+# sent_id = 800144
+# text = That's barbaric. I...
+That	O
+'s	O
+barbaric	O
+.	O
+I	O
+...	O
+
+# sent_id = 800145
+# text = We'll only have a few seconds. In other words... they'll be no do-
+We	O
+'ll	O
+only	O
+have	O
+a	O
+few	O
+seconds	O
+.	O
+In	O
+other	O
+words	O
+...	O
+they	O
+'ll	O
+be	O
+no	O
+do	O
+
+# sent_id = 800146
+# text = Ready, Bogrod?
+Ready	O
+,	O
+Bogrod	B-PER
+?	O
+
+# sent_id = 800147
+# text = Hm? Oh. Yes. Of course.
+Hm	O
+?	O
+Oh	O
+.	O
+Yes	O
+.	O
+Of	O
+course	O
+.	O
+
+# sent_id = 800148
+# text = Lumos !
+Lumos	B-SPL
+!	O
+
+# sent_id = 800149
+# text = Lumos !
+Lumos	B-SPL
+!	O
+
+# sent_id = 800150
+# text = Lumos !
+Lumos	B-SPL
+!	O
+
+# sent_id = 800151
+# text = Blimey...
+Blimey	O
+...	O
+
+# sent_id = 800152
+# text = Look.
+Look	O
+.	O
+
+# sent_id = 800153
+# text = No wonder Bellatrix thought it was real.
+No	O
+wonder	O
+Bellatrix	B-PER
+thought	O
+it	O
+was	O
+real	O
+.	O
+
+# sent_id = 800154
+# text = Is it here, Harry? Can you feel anything?
+Is	O
+it	O
+here	O
+,	O
+Harry	B-PER
+?	O
+Can	O
+you	O
+feel	O
+anything	O
+?	O
+
+# sent_id = 800155
+# text = It's hot! All eyes turn to the bowl, WOBBLING MADLY on the floor, when... it SPLITS APART and begins to MULTIPLY.
+It	O
+'s	O
+hot	O
+!	O
+All	O
+eyes	O
+turn	O
+to	O
+the	O
+bowl	O
+,	O
+WOBBLING	O
+MADLY	O
+on	O
+the	O
+floor	O
+,	O
+when	O
+...	O
+it	O
+SPLITS	O
+APART	O
+and	O
+begins	O
+to	O
+MULTIPLY	O
+.	O
+
+# sent_id = 800156
+# text = Ron, your foot!
+Ron	B-PER
+,	O
+your	O
+foot	O
+!	O
+
+# sent_id = 800157
+# text = We'll be crushed! Hurry!
+We	O
+'ll	O
+be	O
+crushed	O
+!	O
+Hurry	O
+!	O
+
+# sent_id = 800158
+# text = That's it. Up there.
+That	O
+'s	O
+it	O
+.	O
+Up	O
+there	O
+.	O
+
+# sent_id = 800159
+# text = How're we going to reach it?
+How	O
+'re	O
+we	O
+going	O
+to	O
+reach	O
+it	O
+?	O
+
+# sent_id = 800160
+# text = Give me the sword! The real one.
+Give	O
+me	O
+the	O
+sword	O
+!	O
+The	O
+real	O
+one	O
+.	O
+
+# sent_id = 800161
+# text = Keep going!
+Keep	O
+going	O
+!	O
+
+# sent_id = 800162
+# text = Harry! Behind you!
+Harry	B-PER
+!	O
+Behind	O
+you	O
+!	O
+
+# sent_id = 800163
+# text = The cup!
+The	O
+cup	O
+!	O
+
+# sent_id = 800164
+# text = In here!
+In	O
+here	O
+!	O
+
+# sent_id = 800165
+# text = We have a deal, Griphook.
+We	O
+have	O
+a	O
+deal	O
+,	O
+Griphook	B-PER
+.	O
+
+# sent_id = 800166
+# text = I said I'd get you in. I never said anything about getting you out.
+I	O
+said	O
+I	O
+'d	O
+get	O
+you	O
+in	O
+.	O
+I	O
+never	O
+said	O
+anything	O
+about	O
+getting	O
+you	O
+out	O
+.	O
+
+# sent_id = 800167
+# text = Griphook! Griphook!
+Griphook	B-PER
+!	O
+Griphook	B-PER
+!	O
+
+# sent_id = 800168
+# text = Thieves! Help! Thieves!
+Thieves	O
+!	O
+Help	O
+!	O
+Thieves	O
+!	O
+
+# sent_id = 800169
+# text = Foul little git. Least we've got Bogrod.
+Foul	O
+little	O
+git	O
+.	O
+Least	O
+we	O
+'ve	O
+got	O
+Bogrod	B-PER
+.	O
+
+# sent_id = 800170
+# text = That's unfortunate.
+That	O
+'s	O
+unfortunate	O
+.	O
+
+# sent_id = 800171
+# text = We can't just stand here! Who's got an idea?
+We	O
+ca	O
+n't	O
+just	O
+stand	O
+here	O
+!	O
+Who	O
+'s	O
+got	O
+an	O
+idea	O
+?	O
+
+# sent_id = 800172
+# text = You're asking us? You're the brilliant one.
+You	O
+'re	O
+asking	O
+us	O
+?	O
+You	O
+'re	O
+the	O
+brilliant	O
+one	O
+.	O
+
+# sent_id = 800173
+# text = I've got something. But it's mad.
+I	O
+'ve	O
+got	O
+something	O
+.	O
+But	O
+it	O
+'s	O
+mad	O
+.	O
+
+# sent_id = 800174
+# text = Relashio!
+Relashio	B-SPL
+!	O
+
+# sent_id = 800175
+# text = That's your idea?
+That	O
+'s	O
+your	O
+idea	O
+?	O
+
+# sent_id = 800176
+# text = Come on!
+Come	O
+on	O
+!	O
+
+# sent_id = 800177
+# text = It doesn't realize it's free!
+It	O
+does	O
+n't	O
+realize	O
+it	O
+'s	O
+free	O
+!	O
+
+# sent_id = 800178
+# text = That was brilliant! BRILLIANT!
+That	O
+was	O
+brilliant	O
+!	O
+BRILLIANT	O
+!	O
+
+# sent_id = 800179
+# text = Bloody hell.
+Bloody	O
+hell	O
+.	O
+
+# sent_id = 800180
+# text = We're dropping!
+We	O
+'re	O
+dropping	O
+!	O
+
+# sent_id = 800181
+# text = I say we jump!
+I	O
+say	O
+we	O
+jump	O
+!	O
+
+# sent_id = 800182
+# text = When?
+When	O
+?	O
+
+# sent_id = 800183
+# text = The boy has discovered our secret, Nagini. We must find out just how much he knows. We must return to our hiding places and see if the others are safe.
+The	O
+boy	O
+has	O
+discovered	O
+our	O
+secret	O
+,	O
+Nagini	B-PER
+.	O
+We	O
+must	O
+find	O
+out	O
+just	O
+how	O
+much	O
+he	O
+knows	O
+.	O
+We	O
+must	O
+return	O
+to	O
+our	O
+hiding	O
+places	O
+and	O
+see	O
+if	O
+the	O
+others	O
+are	O
+safe	O
+.	O
+
+# sent_id = 800184
+# text = He knows.
+He	O
+knows	O
+.	O
+
+# sent_id = 800185
+# text = How is it you --
+How	O
+is	O
+it	O
+you	O
+
+# sent_id = 800186
+# text = I saw him.
+I	O
+saw	O
+him	O
+.	O
+
+# sent_id = 800187
+# text = You let him in! Harry, you can't --
+You	O
+let	O
+him	O
+in	O
+!	O
+Harry	B-PER
+,	O
+you	O
+ca	O
+n't	O
+
+# sent_id = 800188
+# text = I can't always help it, Hermione!
+I	O
+ca	O
+n't	O
+always	O
+help	O
+it	O
+,	O
+Hermione	B-PER
+!	O
+
+# sent_id = 800189
+# text = Never mind! What did you see?
+Never	O
+mind	O
+!	O
+What	O
+did	O
+you	O
+see	O
+?	O
+
+# sent_id = 800190
+# text = He's angry. But he's scared too. He's going to make sure the other Horcruxes are safe.
+He	O
+'s	O
+angry	O
+.	O
+But	O
+he	O
+'s	O
+scared	O
+too	O
+.	O
+He	O
+'s	O
+going	O
+to	O
+make	O
+sure	O
+the	O
+other	O
+Horcruxes	O
+are	O
+safe	O
+.	O
+
+# sent_id = 800191
+# text = What happens when he finds out four are gone?
+What	O
+happens	O
+when	O
+he	O
+finds	O
+out	O
+four	O
+are	O
+gone	O
+?	O
+
+# sent_id = 800192
+# text = I reckon he'll do anything to stop us from finding the rest. There's more: one of them's at Hogwarts.
+I	O
+reckon	O
+he	O
+'ll	O
+do	O
+anything	O
+to	O
+stop	O
+us	O
+from	O
+finding	O
+the	O
+rest	O
+.	O
+There	O
+'s	O
+more	O
+:	O
+one	O
+of	O
+them	O
+'s	O
+at	O
+Hogwarts	B-ORG
+.	O
+
+# sent_id = 800193
+# text = What?
+What	O
+?	O
+
+# sent_id = 800194
+# text = What?
+What	O
+?	O
+
+# sent_id = 800195
+# text = You saw it?
+You	O
+saw	O
+it	O
+?	O
+
+# sent_id = 800196
+# text = Tonight? But we have to plan. We have to figure out what --
+Tonight	O
+?	O
+But	O
+we	O
+have	O
+to	O
+plan	O
+.	O
+We	O
+have	O
+to	O
+figure	O
+out	O
+what	O
+
+# sent_id = 800197
+# text = Honestly, Hermione, when have any of our plans actually worked? We plan, we get there and all hell breaks loose.
+Honestly	O
+,	O
+Hermione	B-PER
+,	O
+when	O
+have	O
+any	O
+of	O
+our	O
+plans	O
+actually	O
+worked	O
+?	O
+We	O
+plan	O
+,	O
+we	O
+get	O
+there	O
+and	O
+all	O
+hell	O
+breaks	O
+loose	O
+.	O
+
+# sent_id = 800198
+# text = 'Fraid he's right. One problem: Snape's Headmaster now. We can't just walk in the front door.
+'	O
+Fraid	O
+he	O
+'s	O
+right	O
+.	O
+One	O
+problem	O
+:	O
+Snape	B-PER
+'s	O
+Headmaster	O
+now	O
+.	O
+We	O
+ca	O
+n't	O
+just	O
+walk	O
+in	O
+the	O
+front	O
+door	O
+.	O
+
+# sent_id = 800199
+# text = We'll go to Hogsmeade. To Honeydukes. Take the secret passage in the cellar.
+We	O
+'ll	O
+go	O
+to	O
+Hogsmeade	B-LOC
+.	O
+To	O
+Honeydukes	B-ORG
+.	O
+Take	O
+the	O
+secret	O
+passage	O
+in	O
+the	O
+cellar	O
+.	O
+
+# sent_id = 800200
+# text = There's something wrong with him. In the past, I could always follow his thoughts. Now everything feels disconnected.
+There	O
+'s	O
+something	O
+wrong	O
+with	O
+him	O
+.	O
+In	O
+the	O
+past	O
+,	O
+I	O
+could	O
+always	O
+follow	O
+his	O
+thoughts	O
+.	O
+Now	O
+everything	O
+feels	O
+disconnected	O
+.	O
+
+# sent_id = 800201
+# text = Maybe it's because of the Horcruxes. Maybe he's growing weaker. Maybe he's dying.
+Maybe	O
+it	O
+'s	O
+because	O
+of	O
+the	O
+Horcruxes	B-MAG
+.	O
+Maybe	O
+he	O
+'s	O
+growing	O
+weaker	O
+.	O
+Maybe	O
+he	O
+'s	O
+dying	O
+.	O
+
+# sent_id = 800202
+# text = No. It's more like he's wounded. If anything, he feels more
+No	O
+.	O
+It	O
+'s	O
+more	O
+like	O
+he	O
+'s	O
+wounded	O
+.	O
+If	O
+anything	O
+,	O
+he	O
+feels	O
+more	O
+
+# sent_id = 800203
+# text = They were ready for us.
+They	O
+were	O
+ready	O
+for	O
+us	O
+.	O
+
+# sent_id = 800204
+# text = We know you're here, Potter. There's no getting away.
+We	O
+know	O
+you	O
+'re	O
+here	O
+,	O
+Potter	B-PER
+.	O
+There	O
+'s	O
+no	O
+getting	O
+away	O
+.	O
+
+# sent_id = 800205
+# text = Perhaps you need some convincing.
+Perhaps	O
+you	O
+need	O
+some	O
+convincing	O
+.	O
+
+# sent_id = 800206
+# text = What's he mean by that?
+What	O
+'s	O
+he	O
+mean	O
+by	O
+that	O
+?	O
+
+# sent_id = 800207
+# text = No, you'll give us away.
+No	O
+,	O
+you	O
+'ll	O
+give	O
+us	O
+away	O
+.	O
+
+# sent_id = 800208
+# text = Expecto Patronum!
+Expecto	B-SPL
+Patronum	I-SPL
+!	O
+
+# sent_id = 800209
+# text = In here, Potter.
+In	O
+here	O
+,	O
+Potter	B-PER
+.	O
+
+# sent_id = 800210
+# text = Did you get a look at him! Fora second I thought it was --
+Did	O
+you	O
+get	O
+a	O
+look	O
+at	O
+him	O
+!	O
+Fora	O
+second	O
+I	O
+thought	O
+it	O
+was	O
+
+# sent_id = 800211
+# text = I know.
+I	O
+know	O
+.	O
+
+# sent_id = 800212
+# text = Harry! I can see you! In here!
+Harry	B-PER
+!	O
+I	O
+can	O
+see	O
+you	O
+!	O
+In	O
+here	O
+!	O
+
+# sent_id = 800213
+# text = You bloody fools! What were you thinking coming here? Do you have any idea how dangerous it is --
+You	O
+bloody	O
+fools	O
+!	O
+What	O
+were	O
+you	O
+thinking	O
+coming	O
+here	O
+?	O
+Do	O
+you	O
+have	O
+any	O
+idea	O
+how	O
+dangerous	O
+it	O
+is	O
+
+# sent_id = 800214
+# text = You're Aberforth.
+You	O
+'re	O
+Aberforth	B-PERS
+.	O
+
+# sent_id = 800215
+# text = Dumbledore's brother. It's you I've been seeing -- here. It's
+Dumbledore	B-PERS
+'s	O
+brother	O
+.	O
+It	O
+'s	O
+you	O
+I	O
+'ve	O
+been	O
+seeing	O
+here	O
+.	O
+It	O
+'s	O
+
+# sent_id = 800216
+# text = Where've you left him?
+Where	O
+'ve	O
+you	O
+left	O
+him	O
+?	O
+
+# sent_id = 800217
+# text = He's dead.
+He	O
+'s	O
+dead	O
+.	O
+
+# sent_id = 800218
+# text = Sorry to hear it. I liked that elf.
+Sorry	O
+to	O
+hear	O
+it	O
+.	O
+I	O
+liked	O
+that	O
+elf	O
+.	O
+
+# sent_id = 800219
+# text = Mundungus Fletcher, 'bout a year ago.
+Mundungus	B-PER
+Fletcher	I-PER
+,	O
+'	O
+bout	O
+a	O
+year	O
+ago	O
+.	O
+
+# sent_id = 800220
+# text = Dung had no right selling you that. It belonged to --
+Dung	B-PER
+had	O
+no	O
+right	O
+selling	O
+you	O
+that	O
+.	O
+It	O
+belonged	O
+to	O
+
+# sent_id = 800221
+# text = Sirius. Albus told me. He also told me that you'd likely be hacked off if you ever found out I had it. But ask yourself where you'd be if I didn't.
+Sirius	B-PER
+.	O
+Albus	B-PER
+told	O
+me	O
+.	O
+He	O
+also	O
+told	O
+me	O
+that	O
+you	O
+'d	O
+likely	O
+be	O
+hacked	O
+off	O
+if	O
+you	O
+ever	O
+found	O
+out	O
+I	O
+had	O
+it	O
+.	O
+But	O
+ask	O
+yourself	O
+where	O
+you	O
+'d	O
+be	O
+if	O
+I	O
+did	O
+n't	O
+.	O
+
+# sent_id = 800222
+# text = Right then. Reckon you're hungry. Let's get you fed, then think of the best way to get you out of here.
+Right	O
+then	O
+.	O
+Reckon	O
+you	O
+'re	O
+hungry	O
+.	O
+Let	O
+'s	O
+get	O
+you	O
+fed	O
+,	O
+then	O
+think	O
+of	O
+the	O
+best	O
+way	O
+to	O
+get	O
+you	O
+out	O
+of	O
+here	O
+.	O
+
+# sent_id = 800223
+# text = Do you hear much from the others? From the Order?
+Do	O
+you	O
+hear	O
+much	O
+from	O
+the	O
+others	O
+?	O
+From	O
+the	O
+Order	B-ORG
+?	O
+
+# sent_id = 800224
+# text = The Order is finished. You-Know- Who's won. Anyone who says otherwise is kidding themselves.
+The	O
+Order	B-ORG
+is	O
+finished	O
+.	O
+You	B-PER
+Know	I-PER
+Who	I-PER
+'s	O
+won	O
+.	O
+Anyone	O
+who	O
+says	O
+otherwise	O
+is	O
+kidding	O
+themselves	O
+.	O
+
+# sent_id = 800225
+# text = We need to get into Hogwarts. Dumbledore gave us a job to do.
+We	O
+need	O
+to	O
+get	O
+into	O
+Hogwarts	B-ORG
+.	O
+Dumbledore	B-PER
+gave	O
+us	O
+a	O
+job	O
+to	O
+do	O
+.	O
+
+# sent_id = 800226
+# text = Did he now? Nice job? Easy?
+Did	O
+he	O
+now	O
+?	O
+Nice	O
+job	O
+?	O
+Easy	O
+?	O
+
+# sent_id = 800227
+# text = We've been hunting Horcruxes. We think the last one's in the school. But we'll need your help getting in.
+We	O
+'ve	O
+been	O
+hunting	O
+Horcruxes	O
+.	O
+We	O
+think	O
+the	O
+last	O
+one	O
+'s	O
+in	O
+the	O
+school	O
+.	O
+But	O
+we	O
+'ll	O
+need	O
+your	O
+help	O
+getting	O
+in	O
+.	O
+
+# sent_id = 800228
+# text = If we can find it and kill it, then we kill him, and then we can end this war once and for all. We need to get into Hogwarts tonight.
+If	O
+we	O
+can	O
+find	O
+it	O
+and	O
+kill	O
+it	O
+,	O
+then	O
+we	O
+kill	O
+him	O
+,	O
+and	O
+then	O
+we	O
+can	O
+end	O
+this	O
+war	O
+once	O
+and	O
+for	O
+all	O
+.	O
+We	O
+need	O
+to	O
+get	O
+into	O
+Hogwarts	B-ORG
+tonight	O
+.	O
+
+# sent_id = 800229
+# text = It's not a job my brother's given you, it's a suicide mission. Do yourself a favor boy. Go home. Live a little longer.
+It	O
+'s	O
+not	O
+a	O
+job	O
+my	O
+brother	O
+'s	O
+given	O
+you	O
+,	O
+it	O
+'s	O
+a	O
+suicide	O
+mission	O
+.	O
+Do	O
+yourself	O
+a	O
+favor	O
+boy	O
+.	O
+Go	O
+home	O
+.	O
+Live	O
+a	O
+little	O
+longer	O
+.	O
+
+# sent_id = 800230
+# text = Dumbledore trusted me, to see this through.
+Dumbledore	B-PER
+trusted	O
+me	O
+,	O
+to	O
+see	O
+this	O
+through	O
+.	O
+
+# sent_id = 800231
+# text = Why should he...
+Why	O
+should	O
+he	O
+...	O
+
+# sent_id = 800232
+# text = Keep secrets? You tell me.
+Keep	O
+secrets	O
+?	O
+You	O
+tell	O
+me	O
+.	O
+
+# sent_id = 800233
+# text = I only care about the Dumbledore I knew. I trusted him.
+I	O
+only	O
+care	O
+about	O
+the	O
+Dumbledore	B-PER
+I	O
+knew	O
+.	O
+I	O
+trusted	O
+him	O
+.	O
+
+# sent_id = 800234
+# text = Did you now? And why is that?
+Did	O
+you	O
+now	O
+?	O
+And	O
+why	O
+is	O
+that	O
+?	O
+
+# sent_id = 800235
+# text = I had no reason not to  -
+I	O
+had	O
+no	O
+reason	O
+not	O
+to	O
+ 	O
+
+# sent_id = 800236
+# text = That's a boy's answer. A boy who goes chasing Horcruxes on the word of a man who won't even tell him where to start. You're lying. Not just to me, which doesn't matter, but to yourself as well. That's what a fool does.
+That	O
+'s	O
+a	O
+boy	O
+'s	O
+answer	O
+.	O
+A	O
+boy	O
+who	O
+goes	O
+chasing	O
+Horcruxes	B-MAG
+on	O
+the	O
+word	O
+of	O
+a	O
+man	O
+who	O
+wo	O
+n't	O
+even	O
+tell	O
+him	O
+where	O
+to	O
+start	O
+.	O
+You	O
+'re	O
+lying	O
+.	O
+Not	O
+just	O
+to	O
+me	O
+,	O
+which	O
+does	O
+n't	O
+matter	O
+,	O
+but	O
+to	O
+yourself	O
+as	O
+well	O
+.	O
+That	O
+'s	O
+what	O
+a	O
+fool	O
+does	O
+.	O
+
+# sent_id = 800237
+# text = You're drunk.
+You	O
+'re	O
+drunk	O
+.	O
+
+# sent_id = 800238
+# text = You don't strike me as a fool, Mr. Potter. So I'll ask you again. There must be a reason. Why do you trust anything my brother ever said to you? Why?
+You	O
+do	O
+n't	O
+strike	O
+me	O
+as	O
+a	O
+fool	O
+,	O
+Mr.	O
+Potter	B-PER
+.	O
+So	O
+I	O
+'ll	O
+ask	O
+you	O
+again	O
+.	O
+There	O
+must	O
+be	O
+a	O
+reason	O
+.	O
+Why	O
+do	O
+you	O
+trust	O
+anything	O
+my	O
+brother	O
+ever	O
+said	O
+to	O
+you	O
+?	O
+Why	O
+?	O
+
+# sent_id = 800239
+# text = You know what to do...
+You	O
+know	O
+what	O
+to	O
+do	O
+...	O
+
+# sent_id = 800240
+# text = Where've you sent her?
+Where	O
+'ve	O
+you	O
+sent	O
+her	O
+?	O
+
+# sent_id = 800241
+# text = You'll see soon enough.
+You	O
+'ll	O
+see	O
+soon	O
+enough	O
+.	O
+
+# sent_id = 800242
+# text = That's Ariana, isn't it? Your sister. She's beautiful.
+That	O
+'s	O
+Ariana	B-PER
+,	O
+is	O
+n't	O
+it	O
+?	O
+Your	O
+sister	O
+.	O
+She	O
+'s	O
+beautiful	O
+.	O
+
+# sent_id = 800243
+# text = She'll always be beautiful.
+She	O
+'ll	O
+always	O
+be	O
+beautiful	O
+.	O
+
+# sent_id = 800244
+# text = She died very young, didn't she.
+She	O
+died	O
+very	O
+young	O
+,	O
+did	O
+n't	O
+she	O
+.	O
+
+# sent_id = 800245
+# text = My brother sacrificed many things, Mr. Potter, in his journey to find power, including her. She was devoted to him -- he gave her everything, but time.
+My	O
+brother	O
+sacrificed	O
+many	O
+things	O
+,	O
+Mr.	O
+Potter	B-PER
+,	O
+in	O
+his	O
+journey	O
+to	O
+find	O
+power	O
+,	O
+including	O
+her	O
+.	O
+She	O
+was	O
+devoted	O
+to	O
+him	O
+he	O
+gave	O
+her	O
+everything	O
+,	O
+but	O
+time	O
+.	O
+
+# sent_id = 800246
+# text = Mr. Dumbledore... thank you.
+Mr.	O
+Dumbledore	B-PER
+...	O
+thank	O
+you	O
+.	O
+
+# sent_id = 800247
+# text = Did save our lives twice. Kept an eye on us in that mirror. That doesn't seem like someone who's given up, does it?
+Did	O
+save	O
+our	O
+lives	O
+twice	O
+.	O
+Kept	O
+an	O
+eye	O
+on	O
+us	O
+in	O
+that	O
+mirror	O
+.	O
+That	O
+does	O
+n't	O
+seem	O
+like	O
+someone	O
+who	O
+'s	O
+given	O
+up	O
+,	O
+does	O
+it	O
+?	O
+
+# sent_id = 800248
+# text = She's coming back! And she's got someone with her!
+She	O
+'s	O
+coming	O
+back	O
+!	O
+And	O
+she	O
+'s	O
+got	O
+someone	O
+with	O
+her	O
+!	O
+
+# sent_id = 800249
+# text = Who's that with her? Bloody hell...
+Who	O
+'s	O
+that	O
+with	O
+her	O
+?	O
+Bloody	O
+hell	O
+...	O
+
+# sent_id = 800250
+# text = I knew you'd come! I told them alii! Harry Potter would never abandon Hogwarts!
+I	O
+knew	O
+you	O
+'d	O
+come	O
+!	O
+I	O
+told	O
+them	O
+alii	O
+!	O
+Harry	B-PER
+Potter	I-PER
+would	O
+never	O
+abandon	O
+Hogwarts	B-ORG
+!	O
+
+# sent_id = 800251
+# text = Neville, you look...
+Neville	B-PER
+,	O
+you	O
+look	O
+...	O
+
+# sent_id = 800252
+# text = Like hell? I reckon. This is nothing. Seamus is worse. You'll see. Hermione! Ron!
+Like	O
+hell	O
+?	O
+I	O
+reckon	O
+.	O
+This	O
+is	O
+nothing	O
+.	O
+Seamus	B-PER
+is	O
+worse	O
+.	O
+You	O
+'ll	O
+see	O
+.	O
+Hermione	B-PER
+!	O
+Ron	B-PER
+!	O
+
+# sent_id = 800253
+# text = Hey, Ab. There might be a couple more people on the way.
+Hey	O
+,	O
+Ab	B-PER
+.	O
+There	O
+might	O
+be	O
+a	O
+couple	O
+more	O
+people	O
+on	O
+the	O
+way	O
+.	O
+
+# sent_id = 800254
+# text = Well? Ready?
+Well	O
+?	O
+Ready	O
+?	O
+
+# sent_id = 800255
+# text = I don't remember this being on the Marauder's Map.
+I	O
+do	O
+n't	O
+remember	O
+this	O
+being	O
+on	O
+the	O
+Marauder	B-MAG
+'s	I-MAG
+Map	I-MAG
+.	O
+
+# sent_id = 800256
+# text = That's because it never existed till now. The seven secret passages were sealed off before the start of the year. This is the only way in or out now. The grounds are crawling with Death Eaters and Dementors.
+That	O
+'s	O
+because	O
+it	O
+never	O
+existed	O
+till	O
+now	O
+.	O
+The	O
+seven	O
+secret	O
+passages	O
+were	O
+sealed	O
+off	O
+before	O
+the	O
+start	O
+of	O
+the	O
+year	O
+.	O
+This	O
+is	O
+the	O
+only	O
+way	O
+in	O
+or	O
+out	O
+now	O
+.	O
+The	O
+grounds	O
+are	O
+crawling	O
+with	O
+Death	B-ORG
+Eaters	I-ORG
+and	O
+Dementors	B-CRT
+.	O
+
+# sent_id = 800257
+# text = How bad is it, Neville? With Snape as Headmaster.
+How	O
+bad	O
+is	O
+it	O
+,	O
+Neville	B-PER
+?	O
+With	O
+Snape	B-PER
+as	O
+Headmaster	O
+.	O
+
+# sent_id = 800258
+# text = Hardly ever see him. It's the Carrows you have to watch out for.
+Hardly	O
+ever	O
+see	O
+him	O
+.	O
+It	O
+'s	O
+the	O
+Carrows	B-PER
+you	O
+have	O
+to	O
+watch	O
+out	O
+for	O
+.	O
+
+# sent_id = 800259
+# text = The Carrows?
+The	O
+Carrows	B-PER
+?	O
+
+# sent_id = 800260
+# text = Brother and sister. They're in charge of discipline. Like punishment, the Carrows.
+Brother	O
+and	O
+sister	O
+.	O
+They	O
+'re	O
+in	O
+charge	O
+of	O
+discipline	O
+.	O
+Like	O
+punishment	O
+,	O
+the	O
+Carrows	B-PER
+.	O
+
+# sent_id = 800261
+# text = They did that to you? But why?
+They	O
+did	O
+that	O
+to	O
+you	O
+?	O
+But	O
+why	O
+?	O
+
+# sent_id = 800262
+# text = Today's Dark Arts lesson had us practicing the Cruciatus Curse. On First Years. I refused. Hogwarts has changed.
+Today	O
+'s	O
+Dark	B-CRS
+Arts	I-CRS
+lesson	O
+had	O
+us	O
+practicing	O
+the	O
+Cruciatus	B-SPL
+Curse	I-SPL
+.	O
+On	O
+First	O
+Years	O
+.	O
+I	O
+refused	O
+.	O
+Hogwarts	B-ORG
+has	O
+changed	O
+.	O
+
+# sent_id = 800263
+# text = Aw, c'mon. Don't be grim. We're all used to it by now. And the thing is, it helps when people stand up, gives everyone hope. I used to notice that when you did it, Harry. C'mon, we're almost there.
+Aw	O
+,	O
+c	O
+'m	O
+on	O
+.	O
+Do	O
+n't	O
+be	O
+grim	O
+.	O
+We	O
+'re	O
+all	O
+used	O
+to	O
+it	O
+by	O
+now	O
+.	O
+And	O
+the	O
+thing	O
+is	O
+,	O
+it	O
+helps	O
+when	O
+people	O
+stand	O
+up	O
+,	O
+gives	O
+everyone	O
+hope	O
+.	O
+I	O
+used	O
+to	O
+notice	O
+that	O
+when	O
+you	O
+did	O
+it	O
+,	O
+Harry	B-PER
+.	O
+C	O
+'m	O
+on	O
+,	O
+we	O
+'re	O
+almost	O
+there	O
+.	O
+
+# sent_id = 800264
+# text = Let's have a bit of fun, shall we?  Hey! Listen up, you lot! I've brought you a surprise!
+Let	O
+'s	O
+have	O
+a	O
+bit	O
+of	O
+fun	O
+,	O
+shall	O
+we	O
+?	O
+Hey	O
+!	O
+Listen	O
+up	O
+,	O
+you	O
+lot	O
+!	O
+I	O
+'ve	O
+brought	O
+you	O
+a	O
+surprise	O
+!	O
+
+# sent_id = 800265
+# text = Blimey.
+Blimey	O
+.	O
+
+# sent_id = 800266
+# text = Get the word out to Remus and the others that Harry's back.
+Get	O
+the	O
+word	O
+out	O
+to	O
+Remus	B-PER
+and	O
+the	O
+others	O
+that	O
+Harry	B-PER
+'s	O
+back	O
+.	O
+
+# sent_id = 800267
+# text = River, DA calling. Do you read? We have a new weather report: Lightning has struck. I repeat, lightning has struck...
+River	B-PER
+,	O
+DA	B-ORG
+calling	O
+.	O
+Do	O
+you	O
+read	O
+?	O
+We	O
+have	O
+a	O
+new	O
+weather	O
+report	O
+:	O
+Lightning	O
+has	O
+struck	O
+.	O
+I	O
+repeat	O
+,	O
+lightning	O
+has	O
+struck	O
+...	O
+
+# sent_id = 800268
+# text = Okay, okay! Stand down! lLet's not kill them before You-Know-Who gets the chance!
+Okay	O
+,	O
+okay	O
+!	O
+Stand	O
+down	O
+!	O
+lLet	O
+'s	O
+not	O
+kill	O
+them	O
+before	O
+You	B-PER
+Know	I-PER
+Who	I-PER
+gets	O
+the	O
+chance	O
+!	O
+
+# sent_id = 800269
+# text = Okay. There's something we need to find, something hidden here in the castle. It could help us defeat You-Know-Who.
+Okay	O
+.	O
+There	O
+'s	O
+something	O
+we	O
+need	O
+to	O
+find	O
+,	O
+something	O
+hidden	O
+here	O
+in	O
+the	O
+castle	O
+.	O
+It	O
+could	O
+help	O
+us	O
+defeat	O
+You	B-PER
+Know	I-PER
+Who	I-PER
+.	O
+
+# sent_id = 800270
+# text = What is it?
+What	O
+is	O
+it	O
+?	O
+
+# sent_id = 800271
+# text = We don't know.
+We	O
+do	O
+n't	O
+know	O
+.	O
+
+# sent_id = 800272
+# text = Where is it?
+Where	O
+is	O
+it	O
+?	O
+
+# sent_id = 800273
+# text = I realize it's not much to go on.
+I	O
+realize	O
+it	O
+'s	O
+not	O
+much	O
+to	O
+go	O
+on	O
+.	O
+
+# sent_id = 800274
+# text = That's nothing to go on.
+That	O
+'s	O
+nothing	O
+to	O
+go	O
+on	O
+.	O
+
+# sent_id = 800275
+# text = I think it might have something to do with Ravenclaw. It would be small, easy to conceal, valuable. Any ideas?
+I	O
+think	O
+it	O
+might	O
+have	O
+something	O
+to	O
+do	O
+with	O
+Ravenclaw	B-PER
+.	O
+It	O
+would	O
+be	O
+small	O
+,	O
+easy	O
+to	O
+conceal	O
+,	O
+valuable	O
+.	O
+Any	O
+ideas	O
+?	O
+
+# sent_id = 800276
+# text = Well, there's Rowena Ravenclaw's lost diadem.
+Well	O
+,	O
+there	O
+'s	O
+Rowena	B-PER
+Ravenclaw	I-PER
+'s	O
+lost	O
+diadem	O
+.	O
+
+# sent_id = 800277
+# text = The lost diadem of Ravenclaw? Hasn't anyone ever heard of it? It's quite famous.
+The	O
+lost	O
+diadem	O
+of	O
+Ravenclaw	B-PER
+?	O
+Has	O
+n't	O
+anyone	O
+ever	O
+heard	O
+of	O
+it	O
+?	O
+It	O
+'s	O
+quite	O
+famous	O
+.	O
+
+# sent_id = 800278
+# text = Yes, but Luna, it's lost. For centuries now. There's not a person alive today who's seen it.
+Yes	O
+,	O
+but	O
+Luna	B-PER
+,	O
+it	O
+'s	O
+lost	O
+.	O
+For	O
+centuries	O
+now	O
+.	O
+There	O
+'s	O
+not	O
+a	O
+person	O
+alive	O
+today	O
+who	O
+'s	O
+seen	O
+it	O
+.	O
+
+# sent_id = 800279
+# text = Excuse me. But would someone tell me: what's a bloody diadem?
+Excuse	O
+me	O
+.	O
+But	O
+would	O
+someone	O
+tell	O
+me	O
+:	O
+what	O
+'s	O
+a	O
+bloody	O
+diadem	O
+?	O
+
+# sent_id = 800280
+# text = It's a kind of crown. You know, like a tiara.
+It	O
+'s	O
+a	O
+kind	O
+of	O
+crown	O
+.	O
+You	O
+know	O
+,	O
+like	O
+a	O
+tiara	O
+.	O
+
+# sent_id = 800281
+# text = Ravenclaw's was rumored to have magical properties, to enhance the wisdom of the wearer.
+Ravenclaw	B-PER
+'s	O
+was	O
+rumored	O
+to	O
+have	O
+magical	O
+properties	O
+,	O
+to	O
+enhance	O
+the	O
+wisdom	O
+of	O
+the	O
+wearer	O
+.	O
+
+# sent_id = 800282
+# text = Harry.
+Harry	B-PER
+.	O
+
+# sent_id = 800283
+# text = Hey there. Ron smiles, about to speak, then notices Ginny's eyes have not left Harry. He frowns, speaks to Hermione.
+Hey	O
+there	O
+.	O
+Ron	B-PER
+smiles	O
+,	O
+about	O
+to	O
+speak	O
+,	O
+then	O
+notices	O
+Ginny	B-PER
+'s	O
+eyes	O
+have	O
+not	O
+left	O
+Harry	B-PER
+.	O
+He	O
+frowns	O
+,	O
+speaks	O
+to	O
+Hermione	B-PER
+.	O
+
+# sent_id = 800284
+# text = Six months she hasn't seen me and it's like I'm Frankie First Year. I mean, I'm only her brother.
+Six	O
+months	O
+she	O
+has	O
+n't	O
+seen	O
+me	O
+and	O
+it	O
+'s	O
+like	O
+I	O
+'m	O
+Frankie	B-PER
+First	I-PER
+Year	I-PER
+.	O
+I	O
+mean	O
+,	O
+I	O
+'m	O
+only	O
+her	O
+brother	O
+.	O
+
+# sent_id = 800285
+# text = Got loads of those, though, doesn't she? There's only one Harry.
+Got	O
+loads	O
+of	O
+those	O
+,	O
+though	O
+,	O
+does	O
+n't	O
+she	O
+?	O
+There	O
+'s	O
+only	O
+one	O
+Harry	B-PER
+.	O
+
+# sent_id = 800286
+# text = Shut up, Seamus.
+Shut	O
+up	O
+,	O
+Seamus	B-PER
+.	O
+
+# sent_id = 800287
+# text = What is it, Ginny?
+What	O
+is	O
+it	O
+,	O
+Ginny	B-PER
+?	O
+
+# sent_id = 800288
+# text = Snape knows. He knows that Harry was spotted in Hogsmeade.
+Snape	B-PER
+knows	O
+.	O
+He	O
+knows	O
+that	O
+Harry	B-PER
+was	O
+spotted	O
+in	O
+Hogsmeade	B-LOC
+.	O
+
+# sent_id = 800289
+# text = Put a smile on, Miss Reynolds. Wouldn't want me to have to pay a visit to Daddy again, would you?
+Put	O
+a	O
+smile	O
+on	O
+,	O
+Miss	O
+Reynolds	B-PER
+.	O
+Would	O
+n't	O
+want	O
+me	O
+to	O
+have	O
+to	O
+pay	O
+a	O
+visit	O
+to	O
+Daddy	O
+again	O
+,	O
+would	O
+you	O
+?	O
+
+# sent_id = 800290
+# text = Many of you are surely wondering why I have summoned you here at this hour. It has come to my attention that earlier this evening... Harry Potter was sighted in Hogsmeade.
+Many	O
+of	O
+you	O
+are	O
+surely	O
+wondering	O
+why	O
+I	O
+have	O
+summoned	O
+you	O
+here	O
+at	O
+this	O
+hour	O
+.	O
+It	O
+has	O
+come	O
+to	O
+my	O
+attention	O
+that	O
+earlier	O
+this	O
+evening	O
+...	O
+Harry	B-PER
+Potter	I-PER
+was	O
+sighted	O
+in	O
+Hogsmeade	B-LOC
+.	O
+
+# sent_id = 800291
+# text = I mention this in the hopes that truth will not be supplanted by
+I	O
+mention	O
+this	O
+in	O
+the	O
+hopes	O
+that	O
+truth	O
+will	O
+not	O
+be	O
+supplanted	O
+by	O
+
+# sent_id = 800292
+# text = For myself and a few select members of the staff this comes as little surprise. We have, for some time, considered Mr. Potter's return to Hogwarts to be not only possible but inevitable. Consequently, in the past several months and under my specific direction, exhaustive defensive strategies have been employed to defeat any attempt Mr. Potter might make to breach these walls. But know this. Should anyone -- student or staff -- attempt to aid Mr. Potter, that person will be punished in a manner consistent with the severity of their transgression. Rest assured: So long as I am Headmaster at Hogwarts, Harry Potter will never again step foot in this castle.
+For	O
+myself	O
+and	O
+a	O
+few	O
+select	O
+members	O
+of	O
+the	O
+staff	O
+this	O
+comes	O
+as	O
+little	O
+surprise	O
+.	O
+We	O
+have	O
+,	O
+for	O
+some	O
+time	O
+,	O
+considered	O
+Mr.	O
+Potter	B-PER
+'s	O
+return	O
+to	O
+Hogwarts	B-ORG
+to	O
+be	O
+not	O
+only	O
+possible	O
+but	O
+inevitable	O
+.	O
+Consequently	O
+,	O
+in	O
+the	O
+past	O
+several	O
+months	O
+and	O
+under	O
+my	O
+specific	O
+direction	O
+,	O
+exhaustive	O
+defensive	O
+strategies	O
+have	O
+been	O
+employed	O
+to	O
+defeat	O
+any	O
+attempt	O
+Mr.	O
+Potter	B-PER
+might	O
+make	O
+to	O
+breach	O
+these	O
+walls	O
+.	O
+But	O
+know	O
+this	O
+.	O
+Should	O
+anyone	O
+student	O
+or	O
+staff	O
+attempt	O
+to	O
+aid	O
+Mr.	O
+Potter	B-PER
+,	O
+that	O
+person	O
+will	O
+be	O
+punished	O
+in	O
+a	O
+manner	O
+consistent	O
+with	O
+the	O
+severity	O
+of	O
+their	O
+transgression	O
+.	O
+Rest	O
+assured	O
+:	O
+So	O
+long	O
+as	O
+I	O
+am	O
+Headmaster	O
+at	O
+Hogwarts	B-ORG
+,	O
+Harry	B-PER
+Potter	I-PER
+will	O
+never	O
+again	O
+step	O
+foot	O
+in	O
+this	O
+castle	O
+.	O
+
+# sent_id = 800293
+# text = Now then. If anyone here has knowledge of Mr. Potter's movements this evening... I invite them to step forward now.
+Now	O
+then	O
+.	O
+If	O
+anyone	O
+here	O
+has	O
+knowledge	O
+of	O
+Mr.	O
+Potter	B-PER
+'s	O
+movements	O
+this	O
+evening	O
+...	O
+I	O
+invite	O
+them	O
+to	O
+step	O
+forward	O
+now	O
+.	O
+
+# sent_id = 800294
+# text = I think I can help you out with that... -.. Harry appears.
+I	O
+think	O
+I	O
+can	O
+help	O
+you	O
+out	O
+with	O
+that	O
+...	O
+.	O
+.	O
+Harry	B-PER
+appears	O
+.	O
+
+# sent_id = 800295
+# text = And I'm afraid it's rather extensive.
+And	O
+I	O
+'m	O
+afraid	O
+it	O
+'s	O
+rather	O
+extensive	O
+.	O
+
+# sent_id = 800296
+# text = How dare you stand where he stood.
+How	O
+dare	O
+you	O
+stand	O
+where	O
+he	O
+stood	O
+.	O
+
+# sent_id = 800297
+# text = Tell them how it was that night. Tell then how you looked him in the eye, a man who trusted you... and killed him. Tell them!
+Tell	O
+them	O
+how	O
+it	O
+was	O
+that	O
+night	O
+.	O
+Tell	O
+then	O
+how	O
+you	O
+looked	O
+him	O
+in	O
+the	O
+eye	O
+,	O
+a	O
+man	O
+who	O
+trusted	O
+you	O
+...	O
+and	O
+killed	O
+him	O
+.	O
+Tell	O
+them	O
+!	O
+
+# sent_id = 800298
+# text = I'm a Gryffindor.
+I	O
+'m	O
+a	O
+Gryffindor	B-HOUSE
+.	O
+
+# sent_id = 800299
+# text = I know that many of you will want to fight. Some of you may even think this wise. But this is foily.
+I	O
+know	O
+that	O
+many	O
+of	O
+you	O
+will	O
+want	O
+to	O
+fight	O
+.	O
+Some	O
+of	O
+you	O
+may	O
+even	O
+think	O
+this	O
+wise	O
+.	O
+But	O
+this	O
+is	O
+foily	O
+.	O
+
+# sent_id = 800300
+# text = I wish you no harm. TI have great respect for the students of Hogwarts. I was once one myself after all. I ask for but one thing and if granted no magical blood shail be spiit...
+I	O
+wish	O
+you	O
+no	O
+harm	O
+.	O
+TI	O
+have	O
+great	O
+respect	O
+for	O
+the	O
+students	O
+of	O
+Hogwarts	B-ORG
+.	O
+I	O
+was	O
+once	O
+one	O
+myself	O
+after	O
+all	O
+.	O
+I	O
+ask	O
+for	O
+but	O
+one	O
+thing	O
+and	O
+if	O
+granted	O
+no	O
+magical	O
+blood	O
+shail	O
+be	O
+spiit	O
+...	O
+
+# sent_id = 800301
+# text = Give me Harry Potter. Do this and none shall be harmed. Give me Harry Potter and I shail leave Hogwarts untouched. Give me Harry Potter and you will be rewarded.
+Give	O
+me	O
+Harry	B-PER
+Potter	I-PER
+.	O
+Do	O
+this	O
+and	O
+none	O
+shall	O
+be	O
+harmed	O
+.	O
+Give	O
+me	O
+Harry	B-PER
+Potter	I-PER
+and	O
+I	O
+shail	O
+leave	O
+Hogwarts	B-ORG
+untouched	O
+.	O
+Give	O
+me	O
+Harry	B-PER
+Potter	I-PER
+and	O
+you	O
+will	O
+be	O
+rewarded	O
+.	O
+
+# sent_id = 800302
+# text = But he's there! Potter's there! Someone grab him!
+But	O
+he	O
+'s	O
+there	O
+!	O
+Potter	B-PER
+'s	O
+there	O
+!	O
+Someone	O
+grab	O
+him	O
+!	O
+
+# sent_id = 800303
+# text = Students out of bed! Students in the corridors!
+Students	O
+out	O
+of	O
+bed	O
+!	O
+Students	O
+in	O
+the	O
+corridors	O
+!	O
+
+# sent_id = 800304
+# text = Oh. Sorry, mum.
+Oh	O
+.	O
+Sorry	O
+,	O
+mum	O
+.	O
+
+# sent_id = 800305
+# text = Right away.
+Right	O
+away	O
+.	O
+
+# sent_id = 800306
+# text = Time. As much as you can give me.
+Time	O
+.	O
+As	O
+much	O
+as	O
+you	O
+can	O
+give	O
+me	O
+.	O
+
+# sent_id = 800307
+# text = Is that possible, Professor?
+Is	O
+that	O
+possible	O
+,	O
+Professor	O
+?	O
+
+# sent_id = 800308
+# text = I think you're right.
+I	O
+think	O
+you	O
+'re	O
+right	O
+.	O
+
+# sent_id = 800309
+# text = You, too, Professor.
+You	O
+,	O
+too	O
+,	O
+Professor	O
+.	O
+
+# sent_id = 800310
+# text = Let me get this straight, Professor. You're giving us permission to do this?
+Let	O
+me	O
+get	O
+this	O
+straight	O
+,	O
+Professor	O
+.	O
+You	O
+'re	O
+giving	O
+us	O
+permission	O
+to	O
+do	O
+this	O
+?	O
+
+# sent_id = 800311
+# text = To blow it up. Boom.
+To	O
+blow	O
+it	O
+up	O
+.	O
+Boom	O
+.	O
+
+# sent_id = 800312
+# text = Wicked.
+Wicked	O
+.	O
+
+# sent_id = 800313
+# text = I can bring 'er down.
+I	O
+can	O
+bring	O
+'	O
+er	O
+down	O
+.	O
+
+# sent_id = 800314
+# text = You realize, of course, that nothing we do will be able to keep out You-Know-Who indefinitely.
+You	O
+realize	O
+,	O
+of	O
+course	O
+,	O
+that	O
+nothing	O
+we	O
+do	O
+will	O
+be	O
+able	O
+to	O
+keep	O
+out	O
+You	B-PER
+Know	I-PER
+Who	I-PER
+indefinitely	O
+.	O
+
+# sent_id = 800315
+# text = That doesn't mean we can't hold him up.
+That	O
+does	O
+n't	O
+mean	O
+we	O
+ca	O
+n't	O
+hold	O
+him	O
+up	O
+.	O
+
+# sent_id = 800316
+# text = Protego Maxima... Finato Duri... Repello Inimicum...
+Protego	B-SPL
+Maxima	I-SPL
+...	O
+Finato	B-SPL
+Duri	I-SPL
+...	O
+Repello	B-SPL
+Inimicum	I-SPL
+...	O
+
+# sent_id = 800317
+# text = Harry, Hermione and I have been thinking. It doesn't really matter if we find the Horcrux.
+Harry	B-PER
+,	O
+Hermione	B-PER
+and	O
+I	O
+have	O
+been	O
+thinking	O
+.	O
+It	O
+does	O
+n't	O
+really	O
+matter	O
+if	O
+we	O
+find	O
+the	O
+Horcrux	B-MAG
+.	O
+
+# sent_id = 800318
+# text = Unless we can destroy it.
+Unless	O
+we	O
+can	O
+destroy	O
+it	O
+.	O
+
+# sent_id = 800319
+# text = So we were thinking --
+So	O
+we	O
+were	O
+thinking	O
+
+# sent_id = 800320
+# text = You were thinking. It's Ron's idea. And it's brilliant.
+You	O
+were	O
+thinking	O
+.	O
+It	O
+'s	O
+Ron	B-PER
+'s	O
+idea	O
+.	O
+And	O
+it	O
+'s	O
+brilliant	O
+.	O
+
+# sent_id = 800321
+# text = You destroyed Tom Riddle's Diary with a Basilisk fang, right? Well, we know where we might find one, don't we?
+You	O
+destroyed	O
+Tom	B-PER
+Riddle	I-PER
+'s	O
+Diary	O
+with	O
+a	O
+Basilisk	O
+fang	O
+,	O
+right	O
+?	O
+Well	O
+,	O
+we	O
+know	O
+where	O
+we	O
+might	O
+find	O
+one	O
+,	O
+do	O
+n't	O
+we	O
+?	O
+
+# sent_id = 800322
+# text = Okay. But take this. That way you can find me when you get back.
+Okay	O
+.	O
+But	O
+take	O
+this	O
+.	O
+That	O
+way	O
+you	O
+can	O
+find	O
+me	O
+when	O
+you	O
+get	O
+back	O
+.	O
+
+# sent_id = 800323
+# text = Where are you going?
+Where	O
+are	O
+you	O
+going	O
+?	O
+
+# sent_id = 800324
+# text = Ravenclaw Common Room. Got to start somewhere. Hermione nods, slips the Map in her beaded bag and she and Ron head off. Just before they turn the corner, Ron looks back, holds Harry's glance briefly... and then is
+Ravenclaw	B-HOUSE
+Common	B-LOC
+Room	I-LOC
+.	O
+Got	O
+to	O
+start	O
+somewhere	O
+.	O
+Hermione	B-PER
+nods	O
+,	O
+slips	O
+the	O
+Map	O
+in	O
+her	O
+beaded	O
+bag	O
+and	O
+she	O
+and	O
+Ron	B-PER
+head	O
+off	O
+.	O
+Just	O
+before	O
+they	O
+turn	O
+the	O
+corner	O
+,	O
+Ron	B-PER
+looks	O
+back	O
+,	O
+holds	O
+Harry	B-PER
+'s	O
+glance	O
+briefly	O
+...	O
+and	O
+then	O
+is	O
+
+# sent_id = 800325
+# text = Harry! Wait! I need to talk to
+Harry	B-PER
+!	O
+Wait	O
+!	O
+I	O
+need	O
+to	O
+talk	O
+to	O
+
+# sent_id = 800326
+# text = I'm a bit preoccupied right now, Luna.
+I	O
+'m	O
+a	O
+bit	O
+preoccupied	O
+right	O
+now	O
+,	O
+Luna	B-PER
+.	O
+
+# sent_id = 800327
+# text = We'll talk later, Luna.
+We	O
+'ll	O
+talk	O
+later	O
+,	O
+Luna	B-PER
+.	O
+
+# sent_id = 800328
+# text = Harry --
+Harry	B-PER
+
+# sent_id = 800329
+# text = Later.
+Later	O
+.	O
+
+# sent_id = 800330
+# text = Don't you remember what Cho said about Rowena Ravenclaw's diadem: 'There's not a person alive who's seen it.'
+Do	O
+n't	O
+you	O
+remember	O
+what	O
+Cho	B-PER
+said	O
+about	O
+Rowena	B-PER
+Ravenclaw	I-PER
+'s	O
+diadem	O
+:	O
+'	O
+There	O
+'s	O
+not	O
+a	O
+person	O
+alive	O
+who	O
+'s	O
+seen	O
+it	O
+.	O
+'	O
+
+# sent_id = 800331
+# text = It's obvious, isn't it? We have to talk to someone who's dead.
+It	O
+'s	O
+obvious	O
+,	O
+is	O
+n't	O
+it	O
+?	O
+We	O
+have	O
+to	O
+talk	O
+to	O
+someone	O
+who	O
+'s	O
+dead	O
+.	O
+
+# sent_id = 800332
+# text = He's very impressive, isn't he?
+He	O
+'s	O
+very	O
+impressive	O
+,	O
+is	O
+n't	O
+he	O
+?	O
+
+# sent_id = 800333
+# text = They never learn. Such a pity.
+They	O
+never	O
+learn	O
+.	O
+Such	O
+a	O
+pity	O
+.	O
+
+# sent_id = 800334
+# text = Begin.
+Begin	O
+.	O
+
+# sent_id = 800335
+# text = But, my Lord, shouldn't we wait --
+But	O
+,	O
+my	O
+Lord	O
+,	O
+should	O
+n't	O
+we	O
+wait	O
+
+# sent_id = 800336
+# text = Nice night for it!
+Nice	O
+night	O
+for	O
+it	O
+!	O
+
+# sent_id = 800337
+# text = Okay, Luna. Who've you got in mind?
+Okay	O
+,	O
+Luna	B-PER
+.	O
+Who	O
+'ve	O
+you	O
+got	O
+in	O
+mind	O
+?	O
+
+# sent_id = 800338
+# text = That's it. I want a charge on each and every joist.
+That	O
+'s	O
+it	O
+.	O
+I	O
+want	O
+a	O
+charge	O
+on	O
+each	O
+and	O
+every	O
+joist	O
+.	O
+
+# sent_id = 800339
+# text = You do know what you're doing, don't you, Seamus?
+You	O
+do	O
+know	O
+what	O
+you	O
+'re	O
+doing	O
+,	O
+do	O
+n't	O
+you	O
+,	O
+Seamus	B-PER
+?	O
+
+# sent_id = 800340
+# text = Blimey.
+Blimey	O
+.	O
+
+# sent_id = 800341
+# text = Not good.
+Not	O
+good	O
+.	O
+
+# sent_id = 800342
+# text = If you're to find her, you'll find her down there.
+If	O
+you	O
+'re	O
+to	O
+find	O
+her	O
+,	O
+you	O
+'ll	O
+find	O
+her	O
+down	O
+there	O
+.	O
+
+# sent_id = 800343
+# text = No. I think it best if you two talk alone. She's very shy.
+No	O
+.	O
+I	O
+think	O
+it	O
+best	O
+if	O
+you	O
+two	O
+talk	O
+alone	O
+.	O
+She	O
+'s	O
+very	O
+shy	O
+.	O
+
+# sent_id = 800344
+# text = Tell Professor McGonagall Remus and I will handle this side of the castle.
+Tell	O
+Professor	O
+McGonagall	B-PER
+Remus	B-PER
+and	O
+I	O
+will	O
+handle	O
+this	O
+side	O
+of	O
+the	O
+castle	O
+.	O
+
+# sent_id = 800345
+# text = Yes, sir.
+Yes	O
+,	O
+sir	O
+.	O
+
+# sent_id = 800346
+# text = Dean!
+Dean	B-PER
+!	O
+
+# sent_id = 800347
+# text = It's the quality of one's conviction that determines success, not the number of one's followers.
+It	O
+'s	O
+the	O
+quality	O
+of	O
+one	O
+'s	O
+conviction	O
+that	O
+determines	O
+success	O
+,	O
+not	O
+the	O
+number	O
+of	O
+one	O
+'s	O
+followers	O
+.	O
+
+# sent_id = 800348
+# text = Who said that?
+Who	O
+said	O
+that	O
+?	O
+
+# sent_id = 800349
+# text = Me.
+Me	O
+.	O
+
+# sent_id = 800350
+# text = Speaking of quality.
+Speaking	O
+of	O
+quality	O
+.	O
+
+# sent_id = 800351
+# text = You shouldn't have. It's Teddy who needs you.
+You	O
+should	O
+n't	O
+have	O
+.	O
+It	O
+'s	O
+Teddy	B-PER
+who	O
+needs	O
+you	O
+.	O
+
+# sent_id = 800352
+# text = He'll sleep 'til dawn and snore like his father. It's you who needs me tonight.
+He	O
+'ll	O
+sleep	O
+'	O
+til	O
+dawn	O
+and	O
+snore	O
+like	O
+his	O
+father	O
+.	O
+It	O
+'s	O
+you	O
+who	O
+needs	O
+me	O
+tonight	O
+.	O
+
+# sent_id = 800353
+# text = It's you...
+It	O
+'s	O
+you	O
+...	O
+
+# sent_id = 800354
+# text = Ha! dal
+Ha	O
+!	O
+dal	O
+
+# sent_id = 800355
+# text = Yeah! You and whose army!
+Yeah	O
+!	O
+You	O
+and	O
+whose	O
+army	O
+!	O
+
+# sent_id = 800356
+# text = Woah! Easy up there!
+Woah	O
+!	O
+Easy	O
+up	O
+there	O
+!	O
+
+# sent_id = 800357
+# text = Sorry.
+Sorry	O
+.	O
+
+# sent_id = 800358
+# text = Harry talks in his sleep. Haven't you noticed?
+Harry	B-PER
+talks	O
+in	O
+his	O
+sleep	O
+.	O
+Have	O
+n't	O
+you	O
+noticed	O
+?	O
+
+# sent_id = 800359
+# text = No. Of course not.
+No	O
+.	O
+Of	O
+course	O
+not	O
+.	O
+
+# sent_id = 800360
+# text = I've never got this far before.
+I	O
+'ve	O
+never	O
+got	O
+this	O
+far	O
+before	O
+.	O
+
+# sent_id = 800361
+# text = I'm scared.
+I	O
+'m	O
+scared	O
+.	O
+
+# sent_id = 800362
+# text = Me too. Hermione: I didn't expect it to be like this.
+Me	O
+too	O
+.	O
+Hermione	B-PER
+:	O
+I	O
+did	O
+n't	O
+expect	O
+it	O
+to	O
+be	O
+like	O
+this	O
+.	O
+
+# sent_id = 800363
+# text = Not this.
+Not	O
+this	O
+.	O
+
+# sent_id = 800364
+# text = You're the Grey Lady, the ghost of Ravenclaw Tower.
+You	O
+'re	O
+the	O
+Grey	B-PER
+Lady	I-PER
+,	O
+the	O
+ghost	O
+of	O
+Ravenclaw	B-HOUSE
+Tower	B-LOC
+.	O
+
+# sent_id = 800365
+# text = I do not answer to that name.
+I	O
+do	O
+not	O
+answer	O
+to	O
+that	O
+name	O
+.	O
+
+# sent_id = 800366
+# text = I'm sorry. It's Helena, isn't it? Helena Ravenclaw. Rowena's daughter. Luna told me.
+I	O
+'m	O
+sorry	O
+.	O
+It	O
+'s	O
+Helena	B-PER
+,	O
+is	O
+n't	O
+it	O
+?	O
+Helena	B-PER
+Ravenclaw	I-PER
+.	O
+Rowena	B-PER
+'s	O
+daughter	O
+.	O
+Luna	B-PER
+told	O
+me	O
+.	O
+
+# sent_id = 800367
+# text = Are you a friend of Luna's?
+Are	O
+you	O
+a	O
+friend	O
+of	O
+Luna	B-PER
+'s	O
+?	O
+
+# sent_id = 800368
+# text = Yes. She thought you might be able to help me.
+Yes	O
+.	O
+She	O
+thought	O
+you	O
+might	O
+be	O
+able	O
+to	O
+help	O
+me	O
+.	O
+
+# sent_id = 800369
+# text = You seek my mother's diadem.
+You	O
+seek	O
+my	O
+mother	O
+'s	O
+diadem	O
+.	O
+
+# sent_id = 800370
+# text = Yes! That's right --
+Yes	O
+!	O
+That	O
+'s	O
+right	O
+
+# sent_id = 800371
+# text = Luna is kind. Unlike so many of the others, but she was wrong. I cannot help you.
+Luna	B-PER
+is	O
+kind	O
+.	O
+Unlike	O
+so	O
+many	O
+of	O
+the	O
+others	O
+,	O
+but	O
+she	O
+was	O
+wrong	O
+.	O
+I	O
+cannot	O
+help	O
+you	O
+.	O
+
+# sent_id = 800372
+# text = Wait! Please!
+Wait	O
+!	O
+Please	O
+!	O
+
+# sent_id = 800373
+# text = Many have sought my mother's diadem. Its powers are
+Many	O
+have	O
+sought	O
+my	O
+mother	O
+'s	O
+diadem	O
+.	O
+Its	O
+powers	O
+are	O
+
+# sent_id = 800374
+# text = But I don't care about its powers! Honestly --
+But	O
+I	O
+do	O
+n't	O
+care	O
+about	O
+its	O
+powers	O
+!	O
+Honestly	O
+
+# sent_id = 800375
+# text = I don't seek it for myself! You have to believe me!
+I	O
+do	O
+n't	O
+seek	O
+it	O
+for	O
+myself	O
+!	O
+You	O
+have	O
+to	O
+believe	O
+me	O
+!	O
+
+# sent_id = 800376
+# text = I want to destroy it.
+I	O
+want	O
+to	O
+destroy	O
+it	O
+.	O
+
+# sent_id = 800377
+# text = That's what you want, isn't it, Helena? You want it destroyed.
+That	O
+'s	O
+what	O
+you	O
+want	O
+,	O
+is	O
+n't	O
+it	O
+,	O
+Helena	B-PER
+?	O
+You	O
+want	O
+it	O
+destroyed	O
+.	O
+
+# sent_id = 800378
+# text = But I only wanted to be more like her, clever and wise. She wore it so beautifully, but on me... I grew to hate it... the pain I felt... the pain I feel even now...
+But	O
+I	O
+only	O
+wanted	O
+to	O
+be	O
+more	O
+like	O
+her	O
+,	O
+clever	O
+and	O
+wise	O
+.	O
+She	O
+wore	O
+it	O
+so	O
+beautifully	O
+,	O
+but	O
+on	O
+me	O
+...	O
+I	O
+grew	O
+to	O
+hate	O
+it	O
+...	O
+the	O
+pain	O
+I	O
+felt	O
+...	O
+the	O
+pain	O
+I	O
+feel	O
+even	O
+now	O
+...	O
+
+# sent_id = 800379
+# text = I'll end your pain, Helena. Tell me where it is and I'll destroy it, I swear, on my mother's memory  -
+I	O
+'ll	O
+end	O
+your	O
+pain	O
+,	O
+Helena	B-PER
+.	O
+Tell	O
+me	O
+where	O
+it	O
+is	O
+and	O
+I	O
+'ll	O
+destroy	O
+it	O
+,	O
+I	O
+swear	O
+,	O
+on	O
+my	O
+mother	O
+'s	O
+memory	O
+ 	O
+
+# sent_id = 800380
+# text = Another swore to destroy it, many years ago, a strange boy with a strange name...
+Another	O
+swore	O
+to	O
+destroy	O
+it	O
+,	O
+many	O
+years	O
+ago	O
+,	O
+a	O
+strange	O
+boy	O
+with	O
+a	O
+strange	O
+name	O
+...	O
+
+# sent_id = 800381
+# text = Tom Riddle --
+Tom	B-PER
+Riddle	I-PER
+
+# sent_id = 800382
+# text = But he lied.
+But	O
+he	O
+lied	O
+.	O
+
+# sent_id = 800383
+# text = He's lied to many people --
+He	O
+'s	O
+lied	O
+to	O
+many	O
+people	O
+
+# sent_id = 800384
+# text = I know what he's done! I know who he is! He defiled it! With Dark Magic!
+I	O
+know	O
+what	O
+he	O
+'s	O
+done	O
+!	O
+I	O
+know	O
+who	O
+he	O
+is	O
+!	O
+He	O
+defiled	O
+it	O
+!	O
+With	O
+Dark	O
+Magic	O
+!	O
+
+# sent_id = 800385
+# text = Strange... you remind me of him a bit...
+StrangeO
+...	O
+you	O
+remind	O
+me	O
+of	O
+him	O
+a	O
+bit	O
+...	O
+
+# sent_id = 800386
+# text = It's here. In the castle. In the
+It	O
+'s	O
+here	O
+.	O
+In	O
+the	O
+castle	O
+.	O
+In	O
+the	O
+
+# sent_id = 800387
+# text = If you have to ask, you'll never know. If you know, you need only ask...
+If	O
+you	O
+have	O
+to	O
+ask	O
+,	O
+you	O
+'ll	O
+never	O
+know	O
+.	O
+If	O
+you	O
+know	O
+,	O
+you	O
+need	O
+only	O
+ask	O
+...	O
+
+# sent_id = 800388
+# text = Thank you... -.. then turning...
+Thank	O
+you	O
+...	O
+.	O
+.	O
+then	O
+turning	O
+...	O
+
+# sent_id = 800389
+# text = Thank you... -.. then running.
+Thank	O
+you	O
+...	O
+.	O
+.	O
+then	O
+running	O
+.	O
+
+# sent_id = 800390
+# text = You do it.
+You	O
+do	O
+it	O
+.	O
+
+# sent_id = 800391
+# text = Yes, you can.
+Yes	O
+,	O
+you	O
+can	O
+.	O
+
+# sent_id = 800392
+# text = Not good.
+Not	O
+good	O
+.	O
+
+# sent_id = 800393
+# text = Ready!?
+Ready	O
+!	O
+?	O
+
+# sent_id = 800394
+# text = Are you bloody joking?!
+Are	O
+you	O
+bloody	O
+joking	O
+?	O
+!	O
+
+# sent_id = 800395
+# text = He's good...
+He	O
+'s	O
+good	O
+...	O
+
+# sent_id = 800396
+# text = He's good...
+He	O
+'s	O
+good	O
+...	O
+
+# sent_id = 800397
+# text = What?
+What	O
+?	O
+
+# sent_id = 800398
+# text = That was kind of exciting. Seamus grins and winks knowingly. Ginny shakes her head.
+That	O
+was	O
+kind	O
+of	O
+exciting	O
+.	O
+Seamus	B-PER
+grins	O
+and	O
+winks	O
+knowingly	O
+.	O
+Ginny	B-PER
+shakes	O
+her	O
+head	O
+.	O
+
+# sent_id = 800399
+# text = Mad. The both of you.
+Mad	O
+.	O
+The	O
+both	O
+of	O
+you	O
+.	O
+
+# sent_id = 800400
+# text = Not good.
+Not	O
+good	O
+.	O
+
+# sent_id = 800401
+# text = Night-tee night.
+Night	O
+tee	O
+night	O
+.	O
+
+# sent_id = 800402
+# text = You let us out of here, you filthy squib!
+You	O
+let	O
+us	O
+out	O
+of	O
+here	O
+,	O
+you	O
+filthy	O
+squib	O
+!	O
+
+# sent_id = 800403
+# text = Ginny! Neville! You alright?
+Ginny	B-PER
+!	O
+Neville	B-PER
+!	O
+You	O
+alright	O
+?	O
+
+# sent_id = 800404
+# text = Never better! Feel like I could spit fire! Haven't seen Luna, have you?
+Never	O
+better	O
+!	O
+Feel	O
+like	O
+I	O
+could	O
+spit	O
+fire	O
+!	O
+Have	O
+n't	O
+seen	O
+Luna	B-PER
+,	O
+have	O
+you	O
+?	O
+
+# sent_id = 800405
+# text = Luna -- ?
+Luna	B-PER
+?	O
+
+# sent_id = 800406
+# text = I'm mad for her! Think it's about time I told her, seeing as there's a pretty good chance we'll both be dead by dawn!
+I	O
+'m	O
+mad	O
+for	O
+her	O
+!	O
+Think	O
+it	O
+'s	O
+about	O
+time	O
+I	O
+told	O
+her	O
+,	O
+seeing	O
+as	O
+there	O
+'s	O
+a	O
+pretty	O
+good	O
+chance	O
+we	O
+'ll	O
+both	O
+be	O
+dead	O
+by	O
+dawn	O
+!	O
+
+# sent_id = 800407
+# text = I know.
+I	O
+know	O
+.	O
+
+# sent_id = 800408
+# text = Bloody hell. We/'ll never find him on this.
+Bloody	O
+hell	O
+.	O
+We	O
+'ll	O
+never	O
+find	O
+him	O
+on	O
+this	O
+.	O
+
+# sent_id = 800409
+# text = There he is.
+There	O
+he	O
+is	O
+.	O
+
+# sent_id = 800410
+# text = Brilliant.
+Brilliant	O
+.	O
+
+# sent_id = 800411
+# text = He vanished. Just now. I saw it. Ron glances at MAP -- then:
+He	O
+vanished	O
+.	O
+Just	O
+now	O
+.	O
+I	O
+saw	O
+it	O
+.	O
+Ron	B-PER
+glances	O
+at	O
+MAP	O
+then	O
+:	O
+
+# sent_id = 800412
+# text = That's right. I did.
+That	O
+'s	O
+right	O
+.	O
+I	O
+did	O
+.	O
+
+# sent_id = 800413
+# text = Let's go.
+Let	O
+'s	O
+go	O
+.	O
+
+# sent_id = 800414
+# text = Brilliant.
+Brilliant	O
+.	O
+
+# sent_id = 800415
+# text = Take my hand.
+Take	O
+my	O
+hand	O
+.	O
+
+# sent_id = 800416
+# text = Well, well, what brings you here, Potter? Harry looks slowly over his shoulder. Draco -- Blaise and Goyle at his side -- steps INTO VIEW, his face bisected by light. He holds a wand on Harry.
+Well	O
+,	O
+well	O
+,	O
+what	O
+brings	O
+you	O
+here	O
+,	O
+Potter	B-PER
+?	O
+Harry	B-PER
+looks	O
+slowly	O
+over	O
+his	O
+shoulder	O
+.	O
+Draco	B-PER
+Blaise	B-PER
+and	O
+Goyle	B-PER
+at	O
+his	O
+side	O
+steps	O
+INTO	O
+VIEW	O
+,	O
+his	O
+face	O
+bisected	O
+by	O
+light	O
+.	O
+He	O
+holds	O
+a	O
+wand	O
+on	O
+Harry	B-PER
+.	O
+
+# sent_id = 800417
+# text = I could ask you the same.
+I	O
+could	O
+ask	O
+you	O
+the	O
+same	O
+.	O
+
+# sent_id = 800418
+# text = I virtually lived here last year. Remember?
+I	O
+virtually	O
+lived	O
+here	O
+last	O
+year	O
+.	O
+Remember	O
+?	O
+
+# sent_id = 800419
+# text = I remember.
+I	O
+remember	O
+.	O
+
+# sent_id = 800420
+# text = What's wrong with the one you have?
+What	O
+'s	O
+wrong	O
+with	O
+the	O
+one	O
+you	O
+have	O
+?	O
+
+# sent_id = 800421
+# text = Easy.
+Easy	O
+.	O
+
+# sent_id = 800422
+# text = Why didn't you tell her?
+Why	O
+did	O
+n't	O
+you	O
+tell	O
+her	O
+?	O
+
+# sent_id = 800423
+# text = Bellatrix. You knew it was me. But you didn't say anything.
+Bellatrix	O
+.	O
+You	O
+knew	O
+it	O
+was	O
+me	O
+.	O
+But	O
+you	O
+did	O
+n't	O
+say	O
+anything	O
+.	O
+
+# sent_id = 800424
+# text = Give me my wand.
+Give	O
+me	O
+my	O
+wand	O
+.	O
+
+# sent_id = 800425
+# text = No. I don't think so...
+No	O
+.	O
+I	O
+do	O
+n't	O
+think	O
+so	O
+...	O
+
+# sent_id = 800426
+# text = Besides, its allegiance is to me now. If you want it, you'll have to win it back. Perhaps even kill me...
+Besides	O
+,	O
+its	O
+allegiance	O
+is	O
+to	O
+me	O
+now	O
+.	O
+If	O
+you	O
+want	O
+it	O
+,	O
+you	O
+'ll	O
+have	O
+to	O
+win	O
+it	O
+back	O
+.	O
+Perhaps	O
+even	O
+kill	O
+me	O
+...	O
+
+# sent_id = 800427
+# text = C'mon, Draco. Don't be a prat.
+C	O
+'m	O
+on	O
+,	O
+Draco	B-PER
+.	O
+Do	O
+n't	O
+be	O
+a	O
+prat	O
+.	O
+
+# sent_id = 800428
+# text = Avada Kedavra!
+Avada	B-SPL
+Kedavra	I-SPL
+!	O
+
+# sent_id = 800429
+# text = Expelliarmus!
+Expelliarmus	B-SPL
+!	O
+
+# sent_id = 800430
+# text = Did you see where it went? The diadem!
+Did	O
+you	O
+see	O
+where	O
+it	O
+went	O
+?	O
+The	O
+diadem	O
+!	O
+
+# sent_id = 800431
+# text = Well done. Let's find Ron and get out of here.
+Well	O
+done	O
+.	O
+Let	O
+'s	O
+find	O
+Ron	B-PER
+and	O
+get	O
+out	O
+of	O
+here	O
+.	O
+
+# sent_id = 800432
+# text = RUN! Goyle's set the bioody place on fire!
+RUN	O
+!	O
+Goyle	B-PER
+'s	O
+set	O
+the	O
+bioody	O
+place	O
+on	O
+fire	O
+!	O
+
+# sent_id = 800433
+# text = Split up!
+Split	O
+up	O
+!	O
+
+# sent_id = 800434
+# text = Do we climb!
+Do	O
+we	O
+climb	O
+!	O
+
+# sent_id = 800435
+# text = No, it''ll just follow us!
+No	O
+,	O
+it	O
+'	O
+'ll	O
+just	O
+follow	O
+us	O
+!	O
+
+# sent_id = 800436
+# text = Here! Take one!
+Here	O
+!	O
+Take	O
+one	O
+!	O
+
+# sent_id = 800437
+# text = Serves him right.
+Serves	O
+him	O
+right	O
+.	O
+
+# sent_id = 800438
+# text = C'mon! This way!
+C	O
+'m	O
+on	O
+!	O
+This	O
+way	O
+!	O
+
+# sent_id = 800439
+# text = Wait! What about Malfoy and Blaise!
+Wait	O
+!	O
+What	O
+about	O
+Malfoy	B-PER
+and	O
+Blaise	B-PER
+!	O
+
+# sent_id = 800440
+# text = Brilliant.
+Brilliant	O
+.	O
+
+# sent_id = 800441
+# text = Nagini. Come.
+Nagini	B-PER
+.	O
+Come	O
+.	O
+
+# sent_id = 800442
+# text = You're bloody well welcome!
+You	O
+'re	O
+bloody	O
+well	O
+welcome	O
+!	O
+
+# sent_id = 800443
+# text = Ron, you once asked me if I thought he felt it -- Voldemort -- when we destroy a Horcrux, when we destroy a piece of his soul.
+Ron	B-PER
+,	O
+you	O
+once	O
+asked	O
+me	O
+if	O
+I	O
+thought	O
+he	O
+felt	O
+it	O
+Voldemort	B-PER
+when	O
+we	O
+destroy	O
+a	O
+Horcrux	B-MAG
+,	O
+when	O
+we	O
+destroy	O
+a	O
+piece	O
+of	O
+his	O
+soul	O
+.	O
+
+# sent_id = 800444
+# text = He does.
+He	O
+does	O
+.	O
+
+# sent_id = 800445
+# text = It's the snake. She's the last one. The last Horcrux.
+It	O
+'s	O
+the	O
+snake	O
+.	O
+She	O
+'s	O
+the	O
+last	O
+one	O
+.	O
+The	O
+last	O
+Horcrux	B-MAG
+.	O
+
+# sent_id = 800446
+# text = Where will he take her?
+Where	O
+will	O
+he	O
+take	O
+her	O
+?	O
+
+# sent_id = 800447
+# text = Someplace safe.
+Someplace	O
+safe	O
+.	O
+
+# sent_id = 800448
+# text = No. He'll keep her close.
+No	O
+.	O
+He	O
+'ll	O
+keep	O
+her	O
+close	O
+.	O
+
+# sent_id = 800449
+# text = Look inside him, Harry.
+Look	O
+inside	O
+him	O
+,	O
+Harry	B-PER
+.	O
+
+# sent_id = 800450
+# text = Find out where he is. If we find him, we find the snake. Then we're one step closer to ending this.
+Find	O
+out	O
+where	O
+he	O
+is	O
+.	O
+If	O
+we	O
+find	O
+him	O
+,	O
+we	O
+find	O
+the	O
+snake	O
+.	O
+Then	O
+we	O
+'re	O
+one	O
+step	O
+closer	O
+to	O
+ending	O
+this	O
+.	O
+
+# sent_id = 800451
+# text = Stop looking at her. She smells your fear. It agitates her. Be grateful she's just eaten.
+Stop	O
+looking	O
+at	O
+her	O
+.	O
+She	O
+smells	O
+your	O
+fear	O
+.	O
+It	O
+agitates	O
+her	O
+.	O
+Be	O
+grateful	O
+she	O
+'s	O
+just	O
+eaten	O
+.	O
+
+# sent_id = 800452
+# text = Forgive me, my Lord, but wouldn't it be more prudent to call off this battle and seek the boy yourself?
+Forgive	O
+me	O
+,	O
+my	O
+Lord	O
+,	O
+but	O
+would	O
+n't	O
+it	O
+be	O
+more	O
+prudent	O
+to	O
+call	O
+off	O
+this	O
+battle	O
+and	O
+seek	O
+the	O
+boy	O
+yourself	O
+?	O
+
+# sent_id = 800453
+# text = I do not need to seek the boy! Before the night is out, he will come to me! Do you understand!
+I	O
+do	O
+not	O
+need	O
+to	O
+seek	O
+the	O
+boy	O
+!	O
+Before	O
+the	O
+night	O
+is	O
+out	O
+,	O
+he	O
+will	O
+come	O
+to	O
+me	O
+!	O
+Do	O
+you	O
+understand	O
+!	O
+
+# sent_id = 800454
+# text = Of c-course, my Lord.
+Of	O
+c	O
+course	O
+,	O
+my	O
+Lord	O
+.	O
+
+# sent_id = 800455
+# text = How do you live with yourself, Lucius?  Go. Find Severus. Tell him I need to see him immediately.
+How	O
+do	O
+you	O
+live	O
+with	O
+yourself	O
+,	O
+Lucius	B-PER
+?	O
+Go	O
+.	O
+Find	O
+Severus	B-PER
+.	O
+Tell	O
+him	O
+I	O
+need	O
+to	O
+see	O
+him	O
+immediately	O
+.	O
+
+# sent_id = 800456
+# text = I know where he is.
+I	O
+know	O
+where	O
+he	O
+is	O
+.	O
+
+# sent_id = 800457
+# text = There's more to me than incense and tea leaves, Mr. Finnegan.
+There	O
+'s	O
+more	O
+to	O
+me	O
+than	O
+incense	O
+and	O
+tea	O
+leaves	O
+,	O
+Mr.	O
+Finnegan	B-PER
+.	O
+
+# sent_id = 800458
+# text = Thanks.
+Thanks	O
+.	O
+
+# sent_id = 800459
+# text = Don't mention it.
+Do	O
+n't	O
+mention	O
+it	O
+.	O
+
+# sent_id = 800460
+# text = Why doesn't it work for me?
+Why	O
+does	O
+n't	O
+it	O
+work	O
+for	O
+me	O
+?	O
+
+# sent_id = 800461
+# text = You have performed extraordinary magic with this wand, my Lord. In the last few hours alone --
+You	O
+have	O
+performed	O
+extraordinary	O
+magic	O
+with	O
+this	O
+wand	O
+,	O
+my	O
+Lord	O
+.	O
+In	O
+the	O
+last	O
+few	O
+hours	O
+alone	O
+
+# sent_id = 800462
+# text = No! I am extraordinary! But the wand resists me!
+No	O
+!	O
+I	O
+am	O
+extraordinary	O
+!	O
+But	O
+the	O
+wand	O
+resists	O
+me	O
+!	O
+
+# sent_id = 800463
+# text = There is no wand more powerful. Ollivander himself said it. Tonight, when the boy comes to you, it will not fail you, I am sure. It answers to you and you only.
+There	O
+is	O
+no	O
+wand	O
+more	O
+powerful	O
+.	O
+Ollivander	B-PER
+himself	O
+said	O
+it	O
+.	O
+Tonight	O
+,	O
+when	O
+the	O
+boy	O
+comes	O
+to	O
+you	O
+,	O
+it	O
+will	O
+not	O
+fail	O
+you	O
+,	O
+I	O
+am	O
+sure	O
+.	O
+It	O
+answers	O
+to	O
+you	O
+and	O
+you	O
+only	O
+.	O
+
+# sent_id = 800464
+# text = Does it?
+Does	O
+it	O
+?	O
+
+# sent_id = 800465
+# text = My Lord?
+My	O
+Lord	O
+?	O
+
+# sent_id = 800466
+# text = The wand. Does it truly answer to me?
+The	O
+wand	O
+.	O
+Does	O
+it	O
+truly	O
+answer	O
+to	O
+me	O
+?	O
+
+# sent_id = 800467
+# text = You're a clever man, Severus. Surely you must know.
+You	O
+'re	O
+a	O
+clever	O
+man	O
+,	O
+Severus	B-PER
+.	O
+Surely	O
+you	O
+must	O
+know	O
+.	O
+
+# sent_id = 800468
+# text = Where, Severus? Where does its loyalty lie?
+Where	O
+,	O
+Severus	B-PER
+?	O
+Where	O
+does	O
+its	O
+loyalty	O
+lie	O
+?	O
+
+# sent_id = 800469
+# text = With you, of course, my Lord.
+With	O
+you	O
+,	O
+of	O
+course	O
+,	O
+my	O
+Lord	O
+.	O
+
+# sent_id = 800470
+# text = The Elder Wand cannot serve me properly, Severus, because I am
+The	O
+Elder	B-MAG
+Wand	I-MAG
+cannot	O
+serve	O
+me	O
+properly	O
+,	O
+Severus	B-PER
+,	O
+because	O
+I	O
+am	O
+
+# sent_id = 800471
+# text = The Elder Wand belongs to the wizard who killed its last owner. Ollivander was quite explicit about that. You killed Dumbledore, Severus. While you live, the Elder Wand cannot be truly mine.
+The	O
+Elder	B-MAG
+Wand	I-MAG
+belongs	O
+to	O
+the	O
+wizard	O
+who	O
+killed	O
+its	O
+last	O
+owner	O
+.	O
+Ollivander	B-PER
+was	O
+quite	O
+explicit	O
+about	O
+that	O
+.	O
+You	O
+killed	O
+Dumbledore	B-PER
+,	O
+Severus	B-PER
+.	O
+While	O
+you	O
+live	O
+,	O
+the	O
+Elder	B-MAG
+Wand	I-MAG
+cannot	O
+be	O
+truly	O
+mine	O
+.	O
+
+# sent_id = 800472
+# text = My Lord --
+My	O
+Lord	O
+
+# sent_id = 800473
+# text = You have been a good and faithful servant, Severus.
+You	O
+have	O
+been	O
+a	O
+good	O
+and	O
+faithful	O
+servant	O
+,	O
+Severus	B-PER
+.	O
+
+# sent_id = 800474
+# text = But only I can live forever...
+But	O
+only	O
+I	O
+can	O
+live	O
+forever	O
+...	O
+
+# sent_id = 800475
+# text = Kill.
+Kill	O
+.	O
+
+# sent_id = 800476
+# text = Nagini! Come!
+Nagini	B-PER
+!	O
+Come	O
+!	O
+
+# sent_id = 800477
+# text = Take them...
+Take	O
+them	O
+...	O
+
+# sent_id = 800478
+# text = Take them!
+Take	O
+them	O
+!	O
+
+# sent_id = 800479
+# text = Please.
+Please	O
+.	O
+
+# sent_id = 800480
+# text = Give me something! Quickly! A flask! Anything.
+Give	O
+me	O
+something	O
+!	O
+Quickly	O
+!	O
+A	O
+flask	O
+!	O
+Anything	O
+.	O
+
+# sent_id = 800481
+# text = They are the same...
+They	O
+are	O
+the	O
+same	O
+...	O
+
+# sent_id = 800482
+# text = You have your mother's eyes...
+You	O
+have	O
+your	O
+mother	O
+'s	O
+eyes	O
+...	O
+
+# sent_id = 800483
+# text = He's gone. The snake too.
+He	O
+'s	O
+gone	O
+.	O
+The	O
+snake	O
+too	O
+.	O
+
+# sent_id = 800484
+# text = You have fought valiantly... but in vain. I do not wish this. Every drop of magical bliood
+You	O
+have	O
+fought	O
+valiantly	O
+...	O
+but	O
+in	O
+vain	O
+.	O
+I	O
+do	O
+not	O
+wish	O
+this	O
+.	O
+Every	O
+drop	O
+of	O
+magical	O
+bliood	O
+
+# sent_id = 800485
+# text = I therefore command my forces to retreat. In their absence, dispose of your dead with dignity. Treat your injured.
+I	O
+therefore	O
+command	O
+my	O
+forces	O
+to	O
+retreat	O
+.	O
+In	O
+their	O
+absence	O
+,	O
+dispose	O
+of	O
+your	O
+dead	O
+with	O
+dignity	O
+.	O
+Treat	O
+your	O
+injured	O
+.	O
+
+# sent_id = 800486
+# text = Never! Do you hear me! NEVER!
+Never	O
+!	O
+Do	O
+you	O
+hear	O
+me	O
+!	O
+NEVER	O
+!	O
+
+# sent_id = 800487
+# text = Where is everyone?
+Where	O
+is	O
+everyone	O
+?	O
+
+# sent_id = 800488
+# text = Lily... Then...
+Lily	B-PER
+...	O
+Then	O
+...	O
+
+# sent_id = 800489
+# text = Lily! Come out of there! Now!
+Lily	B-PER
+!	O
+Come	O
+out	O
+of	O
+there	O
+!	O
+Now	O
+!	O
+
+# sent_id = 800490
+# text = We're going home.
+We	O
+'re	O
+going	O
+home	O
+.	O
+
+# sent_id = 800491
+# text = She's jealous. Because she's ordinary and you're special.
+She	O
+'s	O
+jealous	O
+.	O
+Because	O
+she	O
+'s	O
+ordinary	O
+and	O
+you	O
+'re	O
+special	O
+.	O
+
+# sent_id = 800492
+# text = That's mean.
+That	O
+'s	O
+mean	O
+.	O
+
+# sent_id = 800493
+# text = It's true. You know so yourself.
+It	O
+'s	O
+true	O
+.	O
+You	O
+know	O
+so	O
+yourself	O
+.	O
+
+# sent_id = 800494
+# text = No! Don't kill me!
+No	O
+!	O
+Do	O
+n't	O
+kill	O
+me	O
+!	O
+
+# sent_id = 800495
+# text = That wasn't my intention.
+That	O
+was	O
+n't	O
+my	O
+intention	O
+.	O
+
+# sent_id = 800496
+# text = Stand up, Severus. I haven't much time. What message do you bring from Lord Voldemort this time?
+Stand	O
+up	O
+,	O
+Severus	B-PER
+.	O
+I	O
+have	O
+n't	O
+much	O
+time	O
+.	O
+What	O
+message	O
+do	O
+you	O
+bring	O
+from	O
+Lord	B-PER
+Voldemort	I-PER
+this	O
+time	O
+?	O
+
+# sent_id = 800497
+# text = Is this about the Prophecy?
+Is	O
+this	O
+about	O
+the	O
+Prophecy	B-MAG
+?	O
+
+# sent_id = 800498
+# text = Yes.
+Yes	O
+.	O
+
+# sent_id = 800499
+# text = How much did you relay?
+How	O
+much	O
+did	O
+you	O
+relay	O
+?	O
+
+# sent_id = 800500
+# text = Only what I heard. But now... he thinks it refers to her.
+Only	O
+what	O
+I	O
+heard	O
+.	O
+But	O
+now	O
+...	O
+he	O
+thinks	O
+it	O
+refers	O
+to	O
+her	O
+.	O
+
+# sent_id = 800501
+# text = The Prophecy did not refer to a woman. It spoke of a boy born at the end of July --
+The	O
+Prophecy	B-MAG
+did	O
+not	O
+refer	O
+to	O
+a	O
+woman	O
+.	O
+It	O
+spoke	O
+of	O
+a	O
+boy	O
+born	O
+at	O
+the	O
+end	O
+of	O
+July	O
+
+# sent_id = 800502
+# text = Yes! But he thinks it's her son! He intends to hunt them down now! To kill them!
+Yes	O
+!	O
+But	O
+he	O
+thinks	O
+it	O
+'s	O
+her	O
+son	O
+!	O
+He	O
+intends	O
+to	O
+hunt	O
+them	O
+down	O
+now	O
+!	O
+To	O
+kill	O
+them	O
+!	O
+
+# sent_id = 800503
+# text = If she means so much to you, surely Lord Voldemort would spare her in exchange for the boy.
+If	O
+she	O
+means	O
+so	O
+much	O
+to	O
+you	O
+,	O
+surely	O
+Lord	B-PER
+Voldemort	I-PER
+would	O
+spare	O
+her	O
+in	O
+exchange	O
+for	O
+the	O
+boy	O
+.	O
+
+# sent_id = 800504
+# text = I have asked.
+I	O
+have	O
+asked	O
+.	O
+
+# sent_id = 800505
+# text = You disgust me. You would sacrifice the life of an innocent child over a schoolboy crush?
+You	O
+disgust	O
+me	O
+.	O
+You	O
+would	O
+sacrifice	O
+the	O
+life	O
+of	O
+an	O
+innocent	O
+child	O
+over	O
+a	O
+schoolboy	O
+crush	O
+?	O
+
+# sent_id = 800506
+# text = She's more than that! She's different! Beautiful. Kind.
+She	O
+'s	O
+more	O
+than	O
+that	O
+!	O
+She	O
+'s	O
+different	O
+!	O
+Beautiful	O
+.	O
+Kind	O
+.	O
+
+# sent_id = 800507
+# text = And should I do so, what will you give me in return, Severus?
+And	O
+should	O
+I	O
+do	O
+so	O
+,	O
+what	O
+will	O
+you	O
+give	O
+me	O
+in	O
+return	O
+,	O
+Severus	B-PER
+?	O
+
+# sent_id = 800508
+# text = Anything.
+Anything	O
+.	O
+
+# sent_id = 800509
+# text = You said you would keep her safe!
+You	O
+said	O
+you	O
+would	O
+keep	O
+her	O
+safe	O
+!	O
+
+# sent_id = 800510
+# text = Lily and James put their faith in the wrong person. Rather like you, Severus.
+Lily	B-PER
+and	O
+James	B-PER
+put	O
+their	O
+faith	O
+in	O
+the	O
+wrong	O
+person	O
+.	O
+Rather	O
+like	O
+you	O
+,	O
+Severus	B-PER
+.	O
+
+# sent_id = 800511
+# text = The boy survives.
+The	O
+boy	O
+survives	O
+.	O
+
+# sent_id = 800512
+# text = He has her eyes.
+He	O
+has	O
+her	O
+eyes	O
+.	O
+
+# sent_id = 800513
+# text = He doesn't need protection. The Dark Lord has gone --
+He	O
+does	O
+n't	O
+need	O
+protection	O
+.	O
+The	O
+Dark	B-PER
+Lord	I-PER
+has	O
+gone	O
+
+# sent_id = 800514
+# text = The Dark Lord will return. And the boy will be in terrible danger when he does.
+The	O
+Dark	B-PER
+Lord	I-PER
+will	O
+return	O
+.	O
+And	O
+the	O
+boy	O
+will	O
+be	O
+in	O
+terrible	O
+danger	O
+when	O
+he	O
+does	O
+.	O
+
+# sent_id = 800515
+# text = No one can know. Your word.
+No	O
+one	O
+can	O
+know	O
+.	O
+Your	O
+word	O
+.	O
+
+# sent_id = 800516
+# text = My word that I shall never reveal the best of you, Severus? If you insist.
+My	O
+word	O
+that	O
+I	O
+shall	O
+never	O
+reveal	O
+the	O
+best	O
+of	O
+you	O
+,	O
+Severus	B-PER
+?	O
+If	O
+you	O
+insist	O
+.	O
+
+# sent_id = 800517
+# text = He exhibits no measurable talent. His arrogance rivals even his father's. And he seems to relish his fame.
+He	O
+exhibits	O
+no	O
+measurable	O
+talent	O
+.	O
+His	O
+arrogance	O
+rivals	O
+even	O
+his	O
+father	O
+'s	O
+.	O
+And	O
+he	O
+seems	O
+to	O
+relish	O
+his	O
+fame	O
+.	O
+
+# sent_id = 800518
+# text = Sometimes we see what we expect to see, Severus. Other teachers indicate the boy is modest, likeable and while no prodigy, possesses above-average gifts. Personally, I find him rather engaging.
+Sometimes	O
+we	O
+see	O
+what	O
+we	O
+expect	O
+to	O
+see	O
+,	O
+Severus	B-PER
+.	O
+Other	O
+teachers	O
+indicate	O
+the	O
+boy	O
+is	O
+modest	O
+,	O
+likeable	O
+and	O
+while	O
+no	O
+prodigy	O
+,	O
+possesses	O
+above	O
+average	O
+gifts	O
+.	O
+Personally	O
+,	O
+I	O
+find	O
+him	O
+rather	O
+engaging	O
+.	O
+
+# sent_id = 800519
+# text = You see what you want to see.
+You	O
+see	O
+what	O
+you	O
+want	O
+to	O
+see	O
+.	O
+
+# sent_id = 800520
+# text = Perhaps. oOh. Severus.
+Perhaps	O
+.	O
+oOh	O
+.	O
+Severus	B-PER
+.	O
+
+# sent_id = 800521
+# text = Why did you put it on? Surely you realized it carried a curse.
+Why	O
+did	O
+you	O
+put	O
+it	O
+on	O
+?	O
+Surely	O
+you	O
+realized	O
+it	O
+carried	O
+a	O
+curse	O
+.	O
+
+# sent_id = 800522
+# text = I was... foolish... greedy...
+I	O
+was	O
+...	O
+foolish	O
+...	O
+greedy	O
+...	O
+
+# sent_id = 800523
+# text = Drink the rest. It will contain the curse to the hand for the time being.
+Drink	O
+the	O
+rest	O
+.	O
+It	O
+will	O
+contain	O
+the	O
+curse	O
+to	O
+the	O
+hand	O
+for	O
+the	O
+time	O
+being	O
+.	O
+
+# sent_id = 800524
+# text = For the time being?
+For	O
+the	O
+time	O
+being	O
+?	O
+
+# sent_id = 800525
+# text = It will spread.
+It	O
+will	O
+spread	O
+.	O
+
+# sent_id = 800526
+# text = How long?
+How	O
+long	O
+?	O
+
+# sent_id = 800527
+# text = Maybe a year.
+Maybe	O
+a	O
+year	O
+.	O
+
+# sent_id = 800528
+# text = Well, this makes matters much more straightforward.
+Well	O
+,	O
+this	O
+makes	O
+matters	O
+much	O
+more	O
+straightforward	O
+.	O
+
+# sent_id = 800529
+# text = Do not ignore me, Severus. Was it not you who told me of Lord Voldemort's plan to have the Malfoy boy murder me?
+Do	O
+not	O
+ignore	O
+me	O
+,	O
+Severus	B-PER
+.	O
+Was	O
+it	O
+not	O
+you	O
+who	O
+told	O
+me	O
+of	O
+Lord	B-PER
+Voldemort	I-PER
+'s	O
+plan	O
+to	O
+have	O
+the	O
+Malfoy	B-PER
+boy	O
+murder	O
+me	O
+?	O
+
+# sent_id = 800530
+# text = It is not expected that he will succeed.
+It	O
+is	O
+not	O
+expected	O
+that	O
+he	O
+will	O
+succeed	O
+.	O
+
+# sent_id = 800531
+# text = You must agree.
+You	O
+must	O
+agree	O
+.	O
+
+# sent_id = 800532
+# text = Yes. You must be the one to kill me, Severus. It is the only way. Only then will the Dark Lord trust you completely.
+Yes	O
+.	O
+You	O
+must	O
+be	O
+the	O
+one	O
+to	O
+kill	O
+me	O
+,	O
+Severus	B-PER
+.	O
+It	O
+is	O
+the	O
+only	O
+way	O
+.	O
+Only	O
+then	O
+will	O
+the	O
+Dark	O
+Lord	O
+trust	O
+you	O
+completely	O
+.	O
+
+# sent_id = 800533
+# text = You ask too much.
+You	O
+ask	O
+too	O
+much	O
+.	O
+
+# sent_id = 800534
+# text = There will come a time when Harry Potter must be told something. But you must wait until Voldemort is at his most vulnerable.
+There	O
+will	O
+come	O
+a	O
+time	O
+when	O
+Harry	B-PER
+Potter	I-PER
+must	O
+be	O
+told	O
+something	O
+.	O
+But	O
+you	O
+must	O
+wait	O
+until	O
+Voldemort	B-PER
+is	O
+at	O
+his	O
+most	O
+vulnerable	O
+.	O
+
+# sent_id = 800535
+# text = Tell him what?
+Tell	O
+him	O
+what	O
+?	O
+
+# sent_id = 800536
+# text = On the night Lord Voldemort went to Godric's Hollow to kill Harry, and Lily Potter cast herself between them, the curse rebounded. When that happened, a part of Lord Voldemort's soul latched itself onto the only living thing it could find: Harry himself.
+On	O
+the	O
+night	O
+Lord	B-PER
+Voldemort	I-PER
+went	O
+to	O
+Godric	B-LOC
+'s	I-LOC
+Hollow	I-LOC
+to	O
+kill	O
+Harry	B-PER
+,	O
+and	O
+Lily	B-PER
+Potter	I-PER
+cast	O
+herself	O
+between	O
+them	O
+,	O
+the	O
+curse	O
+rebounded	O
+.	O
+When	O
+that	O
+happened	O
+,	O
+a	O
+part	O
+of	O
+Lord	B-PER
+Voldemort	I-PER
+'s	O
+soul	O
+latched	O
+itself	O
+onto	O
+the	O
+only	O
+living	O
+thing	O
+it	O
+could	O
+find	O
+:	O
+Harry	B-PER
+himself	O
+.	O
+
+# sent_id = 800537
+# text = There's a reason Harry can speak with snakes. There's a reason he can look into Lord Voldemort's mind. A part of Lord Voldemort lives inside him.
+There	O
+'s	O
+a	O
+reason	O
+Harry	B-PER
+can	O
+speak	O
+with	O
+snakes	O
+.	O
+There	O
+'s	O
+a	O
+reason	O
+he	O
+can	O
+look	O
+into	O
+Lord	B-PER
+Voldemort	I-PER
+'s	O
+mind	O
+.	O
+A	O
+part	O
+of	O
+Lord	B-PER
+Voldemort	I-PER
+lives	O
+inside	O
+him	O
+.	O
+
+# sent_id = 800538
+# text = So when the time comes, the boy must die.
+So	O
+when	O
+the	O
+time	O
+comes	O
+,	O
+the	O
+boy	O
+must	O
+die	O
+.	O
+
+# sent_id = 800539
+# text = You've kept him alive so that he can die at the proper moment. You've been raising him like a pig for slaughter.
+You	O
+'ve	O
+kept	O
+him	O
+alive	O
+so	O
+that	O
+he	O
+can	O
+die	O
+at	O
+the	O
+proper	O
+moment	O
+.	O
+You	O
+'ve	O
+been	O
+raising	O
+him	O
+like	O
+a	O
+pig	O
+for	O
+slaughter	O
+.	O
+
+# sent_id = 800540
+# text = But this is touching, Severus. Don't tell me you've grown to care for the boy?
+But	O
+this	O
+is	O
+touching	O
+,	O
+Severus	B-PER
+.	O
+Do	O
+n't	O
+tell	O
+me	O
+you	O
+'ve	O
+grown	O
+to	O
+care	O
+for	O
+the	O
+boy	O
+?	O
+
+# sent_id = 800541
+# text = Expecto Patronum!
+Expecto	B-SPL
+Patronum	I-SPL
+!	O
+
+# sent_id = 800542
+# text = Lily. After all this time?
+Lily	B-PER
+.	O
+After	O
+all	O
+this	O
+time	O
+?	O
+
+# sent_id = 800543
+# text = Always... We GO TO BLACK...
+Always	O
+...	O
+We	O
+GO	O
+TO	O
+BLACK	O
+...	O
+
+# sent_id = 800544
+# text = The irony of course, Severus, is that -- in the end -- you and the boy desire the same thing...
+The	O
+irony	O
+of	O
+course	O
+,	O
+Severus	B-PER
+,	O
+is	O
+that	O
+in	O
+the	O
+end	O
+you	O
+and	O
+the	O
+boy	O
+desire	O
+the	O
+same	O
+thing	O
+...	O
+
+# sent_id = 800545
+# text = Where've you been?
+Where	O
+'ve	O
+you	O
+been	O
+?	O
+
+# sent_id = 800546
+# text = We thought you'd gone to the forest, we thought you might be --
+We	O
+thought	O
+you	O
+'d	O
+gone	O
+to	O
+the	O
+forest	O
+,	O
+we	O
+thought	O
+you	O
+might	O
+be	O
+
+# sent_id = 800547
+# text = I'm going there now.
+I	O
+'m	O
+going	O
+there	O
+now	O
+.	O
+
+# sent_id = 800548
+# text = Are you mad! No!
+Are	O
+you	O
+mad	O
+!	O
+No	O
+!	O
+
+# sent_id = 800549
+# text = It's... meant to be.
+It	O
+'s	O
+...	O
+meant	O
+to	O
+be	O
+.	O
+
+# sent_id = 800550
+# text = Rubbish! You can't just give yourself up to him -- Hermione squeezes Ron's arm, silencing him.
+Rubbish	O
+!	O
+You	O
+ca	O
+n't	O
+just	O
+give	O
+yourself	O
+up	O
+to	O
+him	O
+Hermione	B-PER
+squeezes	O
+Ron	B-PER
+'s	O
+arm	O
+,	O
+silencing	O
+him	O
+.	O
+
+# sent_id = 800551
+# text = What is it, Harry? What is it you
+What	O
+is	O
+it	O
+,	O
+Harry	B-PER
+?	O
+What	O
+is	O
+it	O
+you	O
+
+# sent_id = 800552
+# text = There's a reason I can... hear them -- the Horcruxes.
+There	O
+'s	O
+a	O
+reason	O
+I	O
+can	O
+...	O
+hear	O
+them	O
+the	O
+Horcruxes	O
+.	O
+
+# sent_id = 800553
+# text = I think I've known for awhile.
+I	O
+think	O
+I	O
+'ve	O
+known	O
+for	O
+awhile	O
+.	O
+
+# sent_id = 800554
+# text = I'll go with you. I/'ll --
+I	O
+'ll	O
+go	O
+with	O
+you	O
+.	O
+I	O
+'ll	O
+
+# sent_id = 800555
+# text = Kill the snake. Kill the snake and then it's just him. Then it will be over.
+Kill	o
+the	O
+snake	O
+.	O
+Kill	o
+the	O
+snake	O
+and	O
+then	O
+it	O
+'s	O
+just	O
+him	O
+.	O
+Then	O
+it	O
+will	O
+be	O
+over	O
+.	O
+
+# sent_id = 800556
+# text = I'll take him from here.
+I	O
+'ll	O
+take	O
+him	O
+from	O
+here	O
+.	O
+
+# sent_id = 800557
+# text = It's all right. We're going to get you inside.
+It	O
+'s	O
+all	O
+right	O
+.	O
+We	O
+'re	O
+going	O
+to	O
+get	O
+you	O
+inside	O
+.	O
+
+# sent_id = 800558
+# text = I kept calling. No one came.
+I	O
+kept	O
+calling	O
+.	O
+No	O
+one	O
+came	O
+.	O
+
+# sent_id = 800559
+# text = Don't worry. I won't leave you. I promise.
+Do	O
+n't	O
+worry	O
+.	O
+I	O
+wo	O
+n't	O
+leave	O
+you	O
+.	O
+I	O
+promise	O
+.	O
+
+# sent_id = 800560
+# text = You've been so brave, sweetheart.
+You	O
+'ve	O
+been	O
+so	O
+brave	O
+,	O
+sweetheart	O
+.	O
+
+# sent_id = 800561
+# text = Why are you here? All of you?
+Why	O
+are	O
+you	O
+here	O
+?	O
+All	O
+of	O
+you	O
+?	O
+
+# sent_id = 800562
+# text = We never left, dear.
+We	O
+never	O
+left	O
+,	O
+dear	O
+.	O
+
+# sent_id = 800563
+# text = Does it hurt? Dying?
+Does	O
+it	O
+hurt	O
+?	O
+Dying	O
+?	O
+
+# sent_id = 800564
+# text = Quicker than falling asleep.
+Quicker	O
+than	O
+falling	O
+asleep	O
+.	O
+
+# sent_id = 800565
+# text = And he will want it to be quick.
+And	O
+he	O
+will	O
+want	O
+it	O
+to	O
+be	O
+quick	O
+.	O
+
+# sent_id = 800566
+# text = You're nearly there, son.
+You	O
+'re	O
+nearly	O
+there	O
+,	O
+son	O
+.	O
+
+# sent_id = 800567
+# text = I'm sorry. I didn't want any of you to die for me. And Remus, your son...
+I	O
+'m	O
+sorry	O
+.	O
+I	O
+did	O
+n't	O
+want	O
+any	O
+of	O
+you	O
+to	O
+die	O
+for	O
+me	O
+.	O
+And	O
+Remus	B-PER
+,	O
+your	O
+son	O
+...	O
+
+# sent_id = 800568
+# text = Others will tell him what his mother and father died for. Someday he'll understand...
+Others	O
+will	O
+tell	O
+him	O
+what	O
+his	O
+mother	O
+and	O
+father	O
+died	O
+for	O
+.	O
+Someday	O
+he	O
+'ll	O
+understand	O
+...	O
+
+# sent_id = 800569
+# text = You'll stay with me?
+You	O
+'ll	O
+stay	O
+with	O
+me	O
+?	O
+
+# sent_id = 800570
+# text = Until the end.
+Until	O
+the	O
+end	O
+.	O
+
+# sent_id = 800571
+# text = He won't be able to see you?
+He	O
+wo	O
+n't	O
+be	O
+able	O
+to	O
+see	O
+you	O
+?	O
+
+# sent_id = 800572
+# text = No. We're here, you see.
+No	O
+.	O
+We	O
+'re	O
+here	O
+,	O
+you	O
+see	O
+.	O
+
+# sent_id = 800573
+# text = Stay close to me.
+Stay	O
+close	O
+to	O
+me	O
+.	O
+
+# sent_id = 800574
+# text = Always...
+Always	O
+...	O
+
+# sent_id = 800575
+# text = No sign of him, my Lord.
+No	O
+sign	O
+of	O
+him	O
+,	O
+my	O
+Lord	O
+.	O
+
+# sent_id = 800576
+# text = I thought he would come. I was, it seems... mistaken.
+I	O
+thought	O
+he	O
+would	O
+come	O
+.	O
+I	O
+was	O
+,	O
+it	O
+seems	O
+...	O
+mistaken	O
+.	O
+
+# sent_id = 800577
+# text = You weren't.
+You	O
+were	O
+n't	O
+.	O
+
+# sent_id = 800578
+# text = Quiet!
+Quiet	O
+!	O
+
+# sent_id = 800579
+# text = Harry Potter. The Boy Who Lived. Come to die. Nagini HISSES behind her protective guard of Death Eaters. Harry's gaze shifts to her when Voldemort raises
+Harry	B-PER
+Potter	I-PER
+.	O
+The	O
+Boy	B-PER
+Who	I-PER
+Lived	I-PER
+.	O
+Come	O
+to	O
+die	O
+.	O
+Nagini	B-PER
+HISSES	O
+behind	O
+her	O
+protective	O
+guard	O
+of	O
+Death	B-ORG
+Eaters	I-ORG
+.	O
+Harry	B-PER
+'s	O
+gaze	O
+shifts	O
+to	O
+her	O
+when	O
+Voldemort	B-PER
+raises	O
+
+# sent_id = 800580
+# text = You cannot help.
+You	O
+cannot	O
+help	O
+.	O
+
+# sent_id = 800581
+# text = Harry. You wonderful boy. You brave, brave man. Let us walk.
+Harry	B-PER
+.	O
+You	O
+wonderful	O
+boy	O
+.	O
+You	O
+brave	O
+,	O
+brave	O
+man	O
+.	O
+Let	O
+us	O
+walk	O
+.	O
+
+# sent_id = 800582
+# text = Sir, this, is this... I mean, forgive me, but you are dead, aren't you, sir?
+Sir	O
+,	O
+this	O
+,	O
+is	O
+this	O
+...	O
+I	O
+mean	O
+,	O
+forgive	O
+me	O
+,	O
+but	O
+you	O
+are	O
+dead	O
+,	O
+are	O
+n't	O
+you	O
+,	O
+sir	O
+?	O
+
+# sent_id = 800583
+# text = Oh, yes.
+Oh	O
+,	O
+yes	O
+.	O
+
+# sent_id = 800584
+# text = Then... I'm dead too?
+Then	O
+...	O
+I	O
+'m	O
+dead	O
+too	O
+?	O
+
+# sent_id = 800585
+# text = Not?
+Not	O
+?	O
+
+# sent_id = 800586
+# text = Not.
+Not	O
+.	O
+
+# sent_id = 800587
+# text = But I didn't defend myself. I let him kill me.
+But	O
+I	O
+did	O
+n't	O
+defend	O
+myself	O
+.	O
+I	O
+let	O
+him	O
+kill	O
+me	O
+.	O
+
+# sent_id = 800588
+# text = It's true, isn't it, sir? A bit of him lives in me, doesn't it?
+It	O
+'s	O
+true	O
+,	O
+is	O
+n't	O
+it	O
+,	O
+sir	O
+?	O
+A	O
+bit	O
+of	O
+him	O
+lives	O
+in	O
+me	O
+,	O
+does	O
+n't	O
+it	O
+?	O
+
+# sent_id = 800589
+# text = Did. It was just destroyed only moments ago by none other than Voldemort himself.
+Did	O
+.	O
+It	O
+was	O
+just	O
+destroyed	O
+only	O
+moments	O
+ago	O
+by	O
+none	O
+other	O
+than	O
+Voldemort	B-PER
+himself	O
+.	O
+
+# sent_id = 800590
+# text = You were the seventh Horcrux, Harry; the Horcrux he never meant to make.
+You	O
+were	O
+the	O
+seventh	O
+Horcrux	O
+,	O
+Harry	B-PER
+;	O
+the	O
+Horcrux	B-MAG
+he	O
+never	O
+meant	O
+to	O
+make	O
+.	O
+
+# sent_id = 800591
+# text = And you knew this? That's why you were certain I wouldn't die?
+And	O
+you	O
+knew	O
+this	O
+?	O
+That	O
+'s	O
+why	O
+you	O
+were	O
+certain	O
+I	O
+would	O
+n't	O
+die	O
+?	O
+
+# sent_id = 800592
+# text = Certain? No. Little is certain in this world, Harry. Call it an educated guess.
+Certain	O
+?	O
+No	O
+.	O
+Little	O
+is	O
+certain	O
+in	O
+this	O
+world	O
+,	O
+Harry	B-PER
+.	O
+Call	O
+it	O
+an	O
+educated	O
+guess	O
+.	O
+
+# sent_id = 800593
+# text = Professor, is that -- ?
+Professor	O
+,	O
+is	O
+that	O
+?	O
+
+# sent_id = 800594
+# text = Exactly where are we, sir?
+Exactly	O
+where	O
+are	O
+we	O
+,	O
+sir	O
+?	O
+
+# sent_id = 800595
+# text = I was going to ask you that. Where would you say that we are?
+I	O
+was	O
+going	O
+to	O
+ask	O
+you	O
+that	O
+.	O
+Where	O
+would	O
+you	O
+say	O
+that	O
+we	O
+are	O
+?	O
+
+# sent_id = 800596
+# text = It looks like King's Cross station -- only a lot cleaner. And without the trains.
+It	O
+looks	O
+like	O
+King	B-LOC
+'s	I-LOC
+Cross	I-LOC
+station	O
+only	O
+a	O
+lot	O
+cleaner	O
+.	O
+And	O
+without	O
+the	O
+trains	O
+.	O
+
+# sent_id = 800597
+# text = King's Cross! Is that right? Well, this is, as they say, your party.
+King	B-LOC
+'s	I-LOC
+Cross	I-LOC
+!	O
+Is	O
+that	O
+right	O
+?	O
+Well	O
+,	O
+this	O
+is	O
+,	O
+as	O
+they	O
+say	O
+,	O
+your	O
+party	O
+.	O
+
+# sent_id = 800598
+# text = Sir, why didn't you just tell me about the Deathly Hallows?
+Sir	O
+,	O
+why	O
+did	O
+n't	O
+you	O
+just	O
+tell	O
+me	O
+about	O
+the	O
+Deathly	B-MAG
+Hallows	I-MAG
+?	O
+
+# sent_id = 800599
+# text = You will have to forgive me, Harry. You see... I didn't trust
+You	O
+will	O
+have	O
+to	O
+forgive	O
+me	O
+,	O
+Harry	B-PER
+.	O
+You	O
+see	O
+...	O
+I	O
+did	O
+n't	O
+trust	O
+
+# sent_id = 800600
+# text = I feared that you would make the same mistake I made, that you would be intoxicated by the power the Hallows promise their possessor. But I crave your pardon, Harry. It's clear to me now, as it should have been all along, that you are the better man.
+I	O
+feared	O
+that	O
+you	O
+would	O
+make	O
+the	O
+same	O
+mistake	O
+I	O
+made	O
+,	O
+that	O
+you	O
+would	O
+be	O
+intoxicated	O
+by	O
+the	O
+power	O
+the	O
+Hallows	B-MAG
+promise	O
+their	O
+possessor	O
+.	O
+But	O
+I	O
+crave	O
+your	O
+pardon	O
+,	O
+Harry	B-PER
+.	O
+It	O
+'s	O
+clear	O
+to	O
+me	O
+now	O
+,	O
+as	O
+it	O
+should	O
+have	O
+been	O
+all	O
+along	O
+,	O
+that	O
+you	O
+are	O
+the	O
+better	O
+man	O
+.	O
+
+# sent_id = 800601
+# text = Sir --
+Sir	O
+
+# sent_id = 800602
+# text = You are the worthy possessor of the Hallows, Harry, not me. I was fit to own the Elder Wand, because I took it not for gain, but to save others from it. But I took the Stone because I longed to recall someone who has long been at peace and for that I paid with my life.
+You	O
+are	O
+the	O
+worthy	O
+possessor	O
+of	O
+the	O
+Hallows	B-MAG
+,	O
+Harry	B-PER
+,	O
+not	O
+me	O
+.	O
+I	O
+was	O
+fit	O
+to	O
+own	O
+the	O
+Elder	B-MAG
+Wand	I-MAG
+,	O
+because	O
+I	O
+took	O
+it	O
+not	O
+for	O
+gain	O
+,	O
+but	O
+to	O
+save	O
+others	O
+from	O
+it	O
+.	O
+But	O
+I	O
+took	O
+the	O
+Stone	B-MAG
+because	O
+I	O
+longed	O
+to	O
+recall	O
+someone	O
+who	O
+has	O
+long	O
+been	O
+at	O
+peace	O
+and	O
+for	O
+that	O
+I	O
+paid	O
+with	O
+my	O
+life	O
+.	O
+
+# sent_id = 800603
+# text = You wanted to see Ariana again, didn't you, sir?
+You	O
+wanted	O
+to	O
+see	O
+Ariana	B-PER
+again	O
+,	O
+did	O
+n't	O
+you	O
+,	O
+sir	O
+?	O
+
+# sent_id = 800604
+# text = Yes.
+Yes	O
+.	O
+
+# sent_id = 800605
+# text = I used the Stone as well, sir, only a little while ago when I entered the Forest. I saw my mum and dad, and Sirius and Lupin...
+I	O
+used	O
+the	O
+Stone	B-MAG
+as	O
+well	O
+,	O
+sir	O
+,	O
+only	O
+a	O
+little	O
+while	O
+ago	O
+when	O
+I	O
+entered	O
+the	O
+Forest	B-LOC
+.	O
+I	O
+saw	O
+my	O
+mum	O
+and	O
+dad	O
+,	O
+and	O
+Sirius	B-PER
+and	O
+Lupin	B-PER
+...	O
+
+# sent_id = 800606
+# text = True. But ask yourself this: were you calling them? Or were they calling you?
+True	O
+.	O
+But	O
+ask	O
+yourself	O
+this	O
+:	O
+were	O
+you	O
+calling	O
+them	O
+?	O
+Or	O
+were	O
+they	O
+calling	O
+you	O
+?	O
+
+# sent_id = 800607
+# text = I've got to go back, haven't I?
+I	O
+'ve	O
+got	O
+to	O
+go	O
+back	O
+,	O
+have	O
+n't	O
+I	O
+?	O
+
+# sent_id = 800608
+# text = That is up to you.
+That	O
+is	O
+up	O
+to	O
+you	O
+.	O
+
+# sent_id = 800609
+# text = I've got a choice?
+I	O
+'ve	O
+got	O
+a	O
+choice	O
+?	O
+
+# sent_id = 800610
+# text = Oh yes. We are in King's Cross, you say? I think, should you so decide, you would be able to, let's say, board a train.
+Oh	O
+yes	O
+.	O
+We	O
+are	O
+in	O
+King	B-LOC
+'s	I-LOC
+Cross	I-LOC
+,	O
+you	O
+say	O
+?	O
+I	O
+think	O
+,	O
+should	O
+you	O
+so	O
+decide	O
+,	O
+you	O
+would	O
+be	O
+able	O
+to	O
+,	O
+let	O
+'s	O
+say	O
+,	O
+board	O
+a	O
+train	O
+.	O
+
+# sent_id = 800611
+# text = And where would it take me?
+And	O
+where	O
+would	O
+it	O
+take	O
+me	O
+?	O
+
+# sent_id = 800612
+# text = On.
+On	O
+.	O
+
+# sent_id = 800613
+# text = Voldemort's got the Elder Wand.
+Voldemort	B-PER
+'s	O
+got	O
+the	O
+Elder	B-MAG
+Wand	I-MAG
+.	O
+
+# sent_id = 800614
+# text = True.
+True	O
+.	O
+
+# sent_id = 800615
+# text = And the snake lives.
+And	O
+the	O
+snake	O
+lives	O
+.	O
+
+# sent_id = 800616
+# text = Yes.
+Yes	O
+.	O
+
+# sent_id = 800617
+# text = And I've nothing to kill it with.
+And	O
+I	O
+'ve	O
+nothing	O
+to	O
+kill	O
+it	O
+with	O
+.	O
+
+# sent_id = 800618
+# text = 'Help will always be given at Hogwarts to those who ask for it.'
+'	O
+Help	O
+will	O
+always	O
+be	O
+given	O
+at	O
+Hogwarts	B-ORG
+to	O
+those	O
+who	O
+ask	O
+for	O
+it	O
+.	O
+'	O
+
+# sent_id = 800619
+# text = I have always prized my ability to turn a phrase -- words are, in my
+I	O
+have	O
+always	O
+prized	O
+my	O
+ability	O
+to	O
+turn	O
+a	O
+phrase	O
+words	O
+are	O
+,	O
+in	O
+my	O
+
+# sent_id = 800620
+# text = With all due respect, sir, I think what we need here is a miracle.
+With	O
+all	O
+due	O
+respect	O
+,	O
+sir	O
+,	O
+I	O
+think	O
+what	O
+we	O
+need	O
+here	O
+is	O
+a	O
+miracle	O
+.	O
+
+# sent_id = 800621
+# text = I've never put much stock in miracles, Harry. On the other hand, I can attest wholly to the extensive advantages of a related phenomenon.
+I	O
+'ve	O
+never	O
+put	O
+much	O
+stock	O
+in	O
+miracles	O
+,	O
+Harry	B-PER
+.	O
+On	O
+the	O
+other	O
+hand	O
+,	O
+I	O
+can	O
+attest	O
+wholly	O
+to	O
+the	O
+extensive	O
+advantages	O
+of	O
+a	O
+related	O
+phenomenon	O
+.	O
+
+# sent_id = 800622
+# text = Which would be, sir?
+Which	O
+would	O
+be	O
+,	O
+sir	O
+?	O
+
+# sent_id = 800623
+# text = Luck.
+Luck	O
+.	O
+
+# sent_id = 800624
+# text = Do not pity the dead, Harry. Pity the living and, above all, those who live without love.
+Do	O
+not	O
+pity	O
+the	O
+dead	O
+,	O
+Harry	B-PER
+.	O
+Pity	O
+the	O
+living	O
+and	O
+,	O
+above	O
+all	O
+,	O
+those	O
+who	O
+live	O
+without	O
+love	O
+.	O
+
+# sent_id = 800625
+# text = Sir, my mother's Patronus. It was a doe, wasn't it? Just like Professor Snape's. Curious, don't you think?
+Sir	O
+,	O
+my	O
+mother	O
+'s	O
+Patronus	B-MAG
+.	O
+It	O
+was	O
+a	O
+doe	O
+,	O
+was	O
+n't	O
+it	O
+?	O
+Just	O
+like	O
+Professor	O
+Snape	B-PER
+'s	O
+.	O
+Curious	O
+,	O
+do	O
+n't	O
+you	O
+think	O
+?	O
+
+# sent_id = 800626
+# text = Actually, if I think about it... it doesn't seem curious at all.
+Actually	O
+,	O
+if	O
+I	O
+think	O
+about	O
+it	O
+...	O
+it	O
+does	O
+n't	O
+seem	O
+curious	O
+at	O
+all	O
+.	O
+
+# sent_id = 800627
+# text = Professor.
+Professor	O
+.	O
+
+# sent_id = 800628
+# text = Is this real? Or has this been happening inside my head?
+Is	O
+this	O
+real	O
+?	O
+Or	O
+has	O
+this	O
+been	O
+happening	O
+inside	O
+my	O
+head	O
+?	O
+
+# sent_id = 800629
+# text = Of course it is happening inside your head, Harry. But why should that mean that it is not real?
+Of	O
+course	O
+it	O
+is	O
+happening	O
+inside	O
+your	O
+head	O
+,	O
+Harry	B-PER
+.	O
+But	O
+why	O
+should	O
+that	O
+mean	O
+that	O
+it	O
+is	O
+not	O
+real	O
+?	O
+
+# sent_id = 800630
+# text = My lord, let me help you --
+My	O
+lord	O
+,	O
+let	O
+me	O
+help	O
+you	O
+
+# sent_id = 800631
+# text = I do not require assistance.
+I	O
+do	O
+not	O
+require	O
+assistance	O
+.	O
+
+# sent_id = 800632
+# text = The boy. Is he dead?
+The	O
+boy	O
+.	O
+Is	O
+he	O
+dead	O
+?	O
+
+# sent_id = 800633
+# text = Is he alive? Draco?
+Is	O
+he	O
+alive	O
+?	O
+Draco	B-PER
+?	O
+
+# sent_id = 800634
+# text = Don't despair, Longbottom. I put you in Gryffindor for good reason...
+Do	O
+n't	O
+despair	O
+,	O
+Longbottom	B-PER
+.	O
+I	O
+put	O
+you	O
+in	O
+Gryffindor	B-HOUSE
+for	O
+good	O
+reason	O
+...	O
+
+# sent_id = 800635
+# text = Who's that?
+Who	O
+'s	O
+that	O
+?	O
+
+# sent_id = 800636
+# text = ... Hagrid's carrying?
+...	O
+Hagrid	B-PER
+'s	O
+carrying	O
+?	O
+
+# sent_id = 800637
+# text = Neville, who is that?
+Neville	B-PER
+,	O
+who	O
+is	O
+that	O
+?	O
+
+# sent_id = 800638
+# text = What's going on here, Neville?
+What	O
+'s	O
+going	O
+on	O
+here	O
+,	O
+Neville	B-PER
+?	O
+
+# sent_id = 800639
+# text = Behold, Nagini. Our work is done.
+Behold	O
+,	O
+Nagini	B-PER
+.	O
+Our	O
+work	O
+is	O
+done	O
+.	O
+
+# sent_id = 800640
+# text = No... NO!
+No	O
+...	O
+NO	O
+!	O
+
+# sent_id = 800641
+# text = Stupid girl. You cry for that?
+Stupid	O
+girl	O
+.	O
+You	O
+cry	O
+for	O
+that	O
+?	O
+
+# sent_id = 800642
+# text = While your hands ran dark with the blood of mothers and sons, fathers and daughters, brothers and sisters, his were clasped in prayer -- but it was a prayer for one and one only. While you battled courageously, until you could no longer will yourself to stand, he had long since fallen to his knees. While you cursed me until your voices grew ragged, he begged me for mercy in a voice as meek as a child's.
+While	O
+your	O
+hands	O
+ran	O
+dark	O
+with	O
+the	O
+blood	O
+of	O
+mothers	O
+and	O
+sons	O
+,	O
+fathers	O
+and	O
+daughters	O
+,	O
+brothers	O
+and	O
+sisters	O
+,	O
+his	O
+were	O
+clasped	O
+in	O
+prayer	O
+but	O
+it	O
+was	O
+a	O
+prayer	O
+for	O
+one	O
+and	O
+one	O
+only	O
+.	O
+While	O
+you	O
+battled	O
+courageously	O
+,	O
+until	O
+you	O
+could	O
+no	O
+longer	O
+will	O
+yourself	O
+to	O
+stand	O
+,	O
+he	O
+had	O
+long	O
+since	O
+fallen	O
+to	O
+his	O
+knees	O
+.	O
+While	O
+you	O
+cursed	O
+me	O
+until	O
+your	O
+voices	O
+grew	O
+ragged	O
+,	O
+he	O
+begged	O
+me	O
+for	O
+mercy	O
+in	O
+a	O
+voice	O
+as	O
+meek	O
+as	O
+a	O
+child	O
+'s	O
+.	O
+
+# sent_id = 800643
+# text = So do not cry for that. He's not worthy of your tears. And do not despair of his betrayal. You were never in his heart. Not for one single solitary beat.
+So	O
+do	O
+not	O
+cry	O
+for	O
+that	O
+.	O
+He	O
+'s	O
+not	O
+worthy	O
+of	O
+your	O
+tears	O
+.	O
+And	O
+do	O
+not	O
+despair	O
+of	O
+his	O
+betrayal	O
+.	O
+You	O
+were	O
+never	O
+in	O
+his	O
+heart	O
+.	O
+Not	O
+for	O
+one	O
+single	O
+solitary	O
+beat	O
+.	O
+
+# sent_id = 800644
+# text = Liar!
+Liar	O
+!	O
+
+# sent_id = 800645
+# text = Did you not hear me! Harry Potter is dead! From this day forward, you put your faith in me or suffer the consequences. HARRY POTTER Is
+Did	O
+you	O
+not	O
+hear	O
+me	O
+!	O
+Harry	B-PER
+Potter	I-PER
+is	O
+dead	O
+!	O
+From	O
+this	O
+day	O
+forward	O
+,	O
+you	O
+put	O
+your	O
+faith	O
+in	O
+me	O
+or	O
+suffer	O
+the	O
+consequences	O
+.	O
+HARRY	B-PER
+POTTER	I-PER
+Is	O
+
+# sent_id = 800646
+# text = Now is the time to declare yourself.
+Now	O
+is	O
+the	O
+time	O
+to	O
+declare	O
+yourself	O
+.	O
+
+# sent_id = 800647
+# text = Draco...
+Draco	B-PER
+...	O
+
+# sent_id = 800648
+# text = Draco, don't be stupid --
+Draco	B-PER
+,	O
+do	O
+n't	O
+be	O
+stupid	O
+
+# sent_id = 800649
+# text = Come, Draco.
+Come	O
+,	O
+Draco	B-PER
+.	O
+
+# sent_id = 800650
+# text = He saved your life.
+He	O
+saved	O
+your	O
+life	O
+.	O
+
+# sent_id = 800651
+# text = Well done, Draco. Who will be next? Hm? Come now, don't be shy.
+Well	O
+done	O
+,	O
+Draco	B-PER
+.	O
+Who	O
+will	O
+be	O
+next	O
+?	O
+Hm	O
+?	O
+Come	O
+now	O
+,	O
+do	O
+n't	O
+be	O
+shy	O
+.	O
+
+# sent_id = 800652
+# text = Well, I must say, I'd hoped for better. Is this truly the best Hogwarts has to offer?
+Well	O
+,	O
+I	O
+must	O
+say	O
+,	O
+I	O
+'d	O
+hoped	O
+for	O
+better	O
+.	O
+Is	O
+this	O
+truly	O
+the	O
+best	O
+Hogwarts	B-ORG
+has	O
+to	O
+offer	O
+?	O
+
+# sent_id = 800653
+# text = Who might you be, young man?
+Who	O
+might	O
+you	O
+be	O
+,	O
+young	O
+man	O
+?	O
+
+# sent_id = 800654
+# text = Neville Longbottom.
+Neville	B-PER
+Longbottom	I-PER
+.	O
+
+# sent_id = 800655
+# text = Well, welcome, Neville. I'm sure we can find a place for you in our ranks.
+Well	O
+,	O
+welcome	O
+,	O
+Neville	B-PER
+.	O
+I	O
+'m	O
+sure	O
+we	O
+can	O
+find	O
+a	O
+place	O
+for	O
+you	O
+in	O
+our	O
+ranks	O
+.	O
+
+# sent_id = 800656
+# text = Someone has to do the washing.
+Someone	O
+has	O
+to	O
+do	O
+the	O
+washing	O
+.	O
+
+# sent_id = 800657
+# text = Now, now, Bellatrix. Let's not underestimate our young friend. By stepping forward, he lives to see another day...
+Now	O
+,	O
+now	O
+,	O
+Bellatrix	B-PER
+.	O
+Let	O
+'s	O
+not	O
+underestimate	O
+our	O
+young	O
+friend	O
+.	O
+By	O
+stepping	O
+forward	O
+,	O
+he	O
+lives	O
+to	O
+see	O
+another	O
+day	O
+...	O
+
+# sent_id = 800658
+# text = I'd like to say something.
+I	O
+'d	O
+like	O
+to	O
+say	O
+something	O
+.	O
+
+# sent_id = 800659
+# text = Very well, Neville. I'm sure we'd all be fascinated to hear what you have to say.
+Very	O
+well	O
+,	O
+Neville	B-PER
+.	O
+I	O
+'m	O
+sure	O
+we	O
+'d	O
+all	O
+be	O
+fascinated	O
+to	O
+hear	O
+what	O
+you	O
+have	O
+to	O
+say	O
+.	O
+
+# sent_id = 800660
+# text = It doesn't matter that Harry is gone. A troubled MURMUR ripples through the crowd.
+It	O
+does	O
+n't	O
+matter	O
+that	O
+Harry	B-PER
+is	O
+gone	O
+.	O
+A	O
+troubled	O
+MURMUR	O
+ripples	O
+through	O
+the	O
+crowd	O
+.	O
+
+# sent_id = 800661
+# text = This isn't over.
+This	O
+is	O
+n't	O
+over	O
+.	O
+
+# sent_id = 800662
+# text = Potter! Harry turns. Draco's hand whips forward and -- to Harry's shock -- tosses him his wand. Ron GRINS.
+Potter	B-PER
+!	O
+Harry	B-PER
+turns	O
+.	O
+Draco	B-PER
+'s	O
+hand	O
+whips	O
+forward	O
+and	O
+to	O
+Harry	B-PER
+'s	O
+shock	O
+tosses	O
+him	O
+his	O
+wand	O
+.	O
+Ron	B-PER
+GRINS	O
+.	O
+
+# sent_id = 800663
+# text = Well done, Malfoy!
+Well	O
+done	O
+,	O
+Malfoy	B-PER
+!	O
+
+# sent_id = 800664
+# text = Confringo!
+Confringo	B-SPL
+!	O
+
+# sent_id = 800665
+# text = The snake! We've got to kill the snake!
+The	O
+snake	O
+!	O
+We	O
+'ve	O
+got	O
+to	O
+kill	O
+the	O
+snake	O
+!	O
+
+# sent_id = 800666
+# text = Harry! Look out!
+Harry	B-PER
+!	O
+Look	O
+out	O
+!	O
+
+# sent_id = 800667
+# text = Nagini! With me!
+Nagini	B-PER
+!	O
+With	O
+me	O
+!	O
+
+# sent_id = 800668
+# text = Leave her!
+Leave	O
+her	O
+!	O
+
+# sent_id = 800669
+# text = I said LEAVE HER!
+I	O
+said	O
+LEAVE	O
+HER	O
+!	O
+
+# sent_id = 800670
+# text = Nagini
+Nagini	B-PER
+
+# sent_id = 800671
+# text = Die! Die
+Die	O
+!	O
+Die	O
+
+# sent_id = 800672
+# text = Why do you live!
+Why	O
+do	O
+you	O
+live	O
+!	O
+
+# sent_id = 800673
+# text = Because I have something worth living for.
+Because	O
+I	O
+have	O
+something	O
+worth	O
+living	O
+for	O
+.	O
+
+# sent_id = 800674
+# text = Confringo!
+Confringo	B-SPL
+!	O
+
+# sent_id = 800675
+# text = Come on, granny, give us your best.
+Come	O
+on	O
+,	O
+granny	O
+,	O
+give	O
+us	O
+your	O
+best	O
+.	O
+
+# sent_id = 800676
+# text = Back off, boys! She's mine!  You will never touch my chiidren again!
+Back	O
+off	O
+,	O
+boys	O
+!	O
+She	O
+'s	O
+mine	O
+!	O
+You	O
+will	O
+never	O
+touch	O
+my	O
+chiidren	O
+again	O
+!	O
+
+# sent_id = 800677
+# text = Be thankful we only took one. Besides...
+Be	O
+thankful	O
+we	O
+only	O
+took	O
+one	O
+.	O
+Besides	O
+...	O
+
+# sent_id = 800678
+# text = Hermione!
+Hermione	B-PER
+!	O
+
+# sent_id = 800679
+# text = Yes!
+Yes	O
+!	O
+
+# sent_id = 800680
+# text = I don't want you to say anything you wouldn't say if we weren't about to be killed by a giant snake! It'll just ruin it!
+I	O
+do	O
+n't	O
+want	O
+you	O
+to	O
+say	O
+anything	O
+you	O
+would	O
+n't	O
+say	O
+if	O
+we	O
+were	O
+n't	O
+about	O
+to	O
+be	O
+killed	O
+by	O
+a	O
+giant	O
+snake	O
+!	O
+It	O
+'ll	O
+just	O
+ruin	O
+it	O
+!	O
+
+# sent_id = 800681
+# text = You were right.
+You	O
+were	O
+right	O
+.	O
+
+# sent_id = 800682
+# text = When you told Professor Snape it was failing you. It will always fail you.
+When	O
+you	O
+told	O
+Professor	O
+Snape	B-PER
+it	O
+was	O
+failing	O
+you	O
+.	O
+It	O
+will	O
+always	O
+fail	O
+you	O
+.	O
+
+# sent_id = 800683
+# text = It belongs to me! I killed Snape!
+It	O
+belongs	O
+to	O
+me	O
+!	O
+I	O
+killed	O
+Snape	B-PER
+!	O
+
+# sent_id = 800684
+# text = Together.
+Together	O
+.	O
+
+# sent_id = 800685
+# text = What's the matter with her?
+What	O
+'s	O
+the	O
+matter	O
+with	O
+her	O
+?	O
+
+# sent_id = 800686
+# text = There's more to me than incense and tea leaves, Mr. Finnegan.
+There	O
+'s	O
+more	O
+to	O
+me	O
+than	O
+incense	O
+and	O
+tea	O
+leaves	O
+,	O
+Mr.	O
+Finnegan	B-PER
+.	O
+
+# sent_id = 800687
+# text = I told you: it's useless to you.
+I	O
+told	O
+you	O
+:	O
+it	O
+'s	O
+useless	O
+to	O
+you	O
+.	O
+
+# sent_id = 800688
+# text = Not exactly leaving the place better than we found it, are we?
+Not	O
+exactly	O
+leaving	O
+the	O
+place	O
+better	O
+than	O
+we	O
+found	O
+it	O
+,	O
+are	O
+we	O
+?	O
+
+# sent_id = 800689
+# text = Can't make an omelette without breaking a few eggs.
+Ca	O
+n't	O
+make	O
+an	O
+omelette	O
+without	O
+breaking	O
+a	O
+few	O
+eggs	O
+.	O
+
+# sent_id = 800690
+# text = Something my mum used to say.
+Something	O
+my	O
+mum	O
+used	O
+to	O
+say	O
+.	O
+
+# sent_id = 800691
+# text = Why didn't it work for him? The Elder wand.
+Why	O
+did	O
+n't	O
+it	O
+work	O
+for	O
+him	O
+?	O
+The	O
+Elder	O
+wand	O
+.	O
+
+# sent_id = 800692
+# text = Because it answers to another.
+Because	O
+it	O
+answers	O
+to	O
+another	O
+.	O
+
+# sent_id = 800693
+# text = When he killed Snape, he thought the wand would become his. But the thing is... it never belonged to Snape.
+When	O
+he	O
+killed	O
+Snape	B-PER
+,	O
+he	O
+thought	O
+the	O
+wand	O
+would	O
+become	O
+his	O
+.	O
+But	O
+the	O
+thing	O
+is	O
+...	O
+it	O
+never	O
+belonged	O
+to	O
+Snape	B-PER
+.	O
+
+# sent_id = 800694
+# text = But that means...
+But	O
+that	O
+means	O
+...	O
+
+# sent_id = 800695
+# text = It answers to me.
+It	O
+answers	O
+to	O
+me	O
+.	O
+
+# sent_id = 800696
+# text = What do you reckon we should do with it?
+What	O
+do	O
+you	O
+reckon	O
+we	O
+should	O
+do	O
+with	O
+it	O
+?	O
+
+# sent_id = 800697
+# text = We?
+We	O
+?	O
+
+# sent_id = 800698
+# text = Well, it wasn't boring, was it?
+Well	O
+,	O
+it	O
+was	O
+n't	O
+boring	O
+,	O
+was	O
+it	O
+?	O
+
+# sent_id = 800699
+# text = Together?
+Together	O
+?	O
+
+# sent_id = 800700
+# text = Don't forget to give Professor Longbottom our best.
+Do	O
+n't	O
+forget	O
+to	O
+give	O
+Professor	O
+Longbottom	B-PER
+our	O
+best	O
+.	O
+
+# sent_id = 800701
+# text = Will there really be thestrals pulling the carriages?
+Will	O
+there	O
+really	O
+be	O
+thestrals	B-CRT
+pulling	O
+the	O
+carriages	O
+?	O
+
+# sent_id = 800702
+# text = There's nothing scary about thestrals. They're gentle things. Anyway, you won't be going up to school in the carriages. You/'be going in the boats, remember?
+There	O
+'s	O
+nothing	O
+scary	O
+about	O
+thestrals	B-CRT
+.	O
+They	O
+'re	O
+gentle	O
+things	O
+.	O
+Anyway	O
+,	O
+you	O
+wo	O
+n't	O
+be	O
+going	O
+up	O
+to	O
+school	O
+in	O
+the	O
+carriages	O
+.	O
+You	O
+'	O
+be	O
+going	O
+in	O
+the	O
+boats	O
+,	O
+remember	O
+?	O
+
+# sent_id = 800703
+# text = Dad?
+Dad	O
+?	O
+
+# sent_id = 800704
+# text = Yes?
+Yes	O
+?	O
+
+# sent_id = 800705
+# text = What if I'm put in Slytherin?
+What	O
+if	O
+I	O
+'m	O
+put	O
+in	O
+Slytherin	B-HOUSE
+?	O
+
+# sent_id = 800706
+# text = Albus Severus Potter. You were named after two Headmasters of Hogwarts. One of them was a Slytherin. And he was probably the bravest man I ever knew.
+Albus	B-PER
+Severus	I-PER
+Potter	I-PER
+.	O
+You	O
+were	O
+named	O
+after	O
+two	O
+Headmasters	O
+of	O
+Hogwarts	B-ORG
+.	O
+One	O
+of	O
+them	O
+was	O
+a	O
+Slytherin	B-HOUSE
+.	O
+And	O
+he	O
+was	O
+probably	O
+the	O
+bravest	O
+man	O
+I	O
+ever	O
+knew	O
+.	O
+
+# sent_id = 800707
+# text = But just say I am --
+But	O
+just	O
+say	O
+I	O
+am	O
+
+# sent_id = 800708
+# text = Then Slytherin House will have gained a wonderful wizard. But listen, if it means so much to you, you can choose Gryffindor. The Sorting Hat takes your choice into account.
+Then	O
+Slytherin	B-HOUSE
+House	O
+will	O
+have	O
+gained	O
+a	O
+wonderful	O
+wizard	O
+.	O
+But	O
+listen	O
+,	O
+if	O
+it	O
+means	O
+so	O
+much	O
+to	O
+you	O
+,	O
+you	O
+can	O
+choose	O
+Gryffindor	B-HOUSE
+.	O
+The	O
+Sorting	O
+Hat	O
+takes	O
+your	O
+choice	O
+into	O
+account	O
+.	O
+
+# sent_id = 800709
+# text = Really?
+Really	O
+?	O
+
+# sent_id = 800710
+# text = Really.
+Really	O
+.	O
+
+# sent_id = 800711
+# text = Ready?
+Ready	O
+?	O
+
+# sent_id = 800712
+# text = Ready.
+Ready	O
+.	O
+

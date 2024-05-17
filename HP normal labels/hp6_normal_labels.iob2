@@ -3555,7 +3555,7 @@
 
 # sent_id = 600237
 # text = Professor Slughorn, I'm happy to say, has agreed to resume his old post of Potions master.  Meanwhile the post of Defense Against the Dark Arts will be assumed by Professor Snape.
-1	Professor	O	-	-
+1	Professor	B-TTL	-	-
 2	Slughorn	B-PER	-	-
 3	,	O	-	-
 4	I	O	-	-

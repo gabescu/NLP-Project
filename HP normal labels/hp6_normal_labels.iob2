@@ -3639,7 +3639,7 @@
 13	in	O	-	-
 14	this	O	-	-
 15	very	O	-	-
-16	Hall	O	-	-
+16	Hall	B-LOC	-	-
 17	.	O	-	-
 18	Walked	O	-	-
 19	this	O	-	-
@@ -3673,7 +3673,7 @@
 47	Riddle	I-PER	-	-
 48	.	O	-	-
 49	The	O	-	-
-50	Hall	O	-	-
+50	Hall	B-LOC	-	-
 51	goes	O	-	-
 52	utterly	O	-	-
 53	silent	O	-	-

@@ -1,0 +1,297 @@
+# newdoc id = AItesting.csv
+# sent_id = ai01
+# text = Remember, this shield charm is our armor against the dark forces.
+1	Remember	O	-	-
+2	,	O	-	-
+3	this	O	-	-
+4	shield	O	-	-
+5	charm	O	-	-
+6	is	O	-	-
+7	our	O	-	-
+8	armor	O	-	-
+9	against	O	-	-
+10	the	O	-	-
+11	dark	O	-	-
+12	forces	O	-	-
+13	.	O	-	-
+
+# sent_id = ai02
+# text = Even against He Who Must Not Be Named?
+1	Even	O	-	-
+2	against	O	-	-
+3	He	O	-	-
+4	Who	O	-	-
+5	Must	O	-	-
+6	Not	O	-	-
+7	Be	O	-	-
+8	Named	O	-	-
+9	?	O	-	-
+
+# sent_id = ai03
+# text = Especially him. Every incantation is a stand against tyranny.
+1	Especially	O	-	-
+2	him	O	-	-
+3	.	O	-	-
+4	Every	O	-	-
+5	incantation	O	-	-
+6	is	O	-	-
+7	a	O	-	-
+8	stand	O	-	-
+9	against	O	-	-
+10	tyranny	O	-	-
+11	.	O	-	-
+
+# sent_id = ai04
+# text = Protego Horribilis!
+1	Protego	O	-	-
+2	Horribilis	O	-	-
+3	!	O	-	-
+
+# sent_id = ai05
+# text = Brilliant! Now, let's try again, with more conviction.
+1	Brilliant	O	-	-
+2	!	O	-	-
+3	Now	O	-	-
+4	,	O	-	-
+5	let	O	-	-
+6	's	O	-	-
+7	try	O	-	-
+8	again	O	-	-
+9	,	O	-	-
+10	with	O	-	-
+11	more	O	-	-
+12	conviction	O	-	-
+13	.	O	-	-
+
+# sent_id = ai06
+# text = What's this potion here?
+1	What	O	-	-
+2	's	O	-	-
+3	this	O	-	-
+4	potion	O	-	-
+5	here	O	-	-
+6	?	O	-	-
+
+# sent_id = ai07
+# text = Felix Felicis. Liquid Luck, for when we need it most.
+1	Felix	O	-	-
+2	Felicis	O	-	-
+3	.	O	-	-
+4	Liquid	O	-	-
+5	Luck	O	-	-
+6	,	O	-	-
+7	for	O	-	-
+8	when	O	-	-
+9	we	O	-	-
+10	need	O	-	-
+11	it	O	-	-
+12	most	O	-	-
+13	.	O	-	-
+
+# sent_id = ai08
+# text = And this creature?
+1	And	O	-	-
+2	this	O	-	-
+3	creature	O	-	-
+4	?	O	-	-
+
+# sent_id = ai09
+# text = A Bowtruckle. Guardians of wand-wood trees. Useful, aren't they?
+1	A	O	-	-
+2	Bowtruckle	O	-	-
+3	.	O	-	-
+4	Guardians	O	-	-
+5	of	O	-	-
+6	wand	O	-	-
+7	wood	O	-	-
+8	trees	O	-	-
+9	.	O	-	-
+10	Useful	O	-	-
+11	,	O	-	-
+12	are	O	-	-
+13	n't	O	-	-
+14	they	O	-	-
+15	?	O	-	-
+
+# sent_id = ai10
+# text = Definitely. I wish I could see Thestrals.
+1	Definitely	O	-	-
+2	.	O	-	-
+3	I	O	-	-
+4	wish	O	-	-
+5	I	O	-	-
+6	could	O	-	-
+7	see	O	-	-
+8	Thestrals	O	-	-
+9	.	O	-	-
+
+# sent_id = ai11
+# text = Be glad you can't. It means you've been spared from grief.
+1	Be	O	-	-
+2	glad	O	-	-
+3	you	O	-	-
+4	ca	O	-	-
+5	n't	O	-	-
+6	.	O	-	-
+7	It	O	-	-
+8	means	O	-	-
+9	you	O	-	-
+10	've	O	-	-
+11	been	O	-	-
+12	spared	O	-	-
+13	from	O	-	-
+14	grief	O	-	-
+15	.	O	-	-
+
+# sent_id = ai12
+# text = I want to be an Auror, fight against the darkness.
+1	I	O	-	-
+2	want	O	-	-
+3	to	O	-	-
+4	be	O	-	-
+5	an	O	-	-
+6	Auror	O	-	-
+7	,	O	-	-
+8	fight	O	-	-
+9	against	O	-	-
+10	the	O	-	-
+11	darkness	O	-	-
+12	.	O	-	-
+
+# sent_id = ai13
+# text = You will. We all will.
+1	You	O	-	-
+2	will	O	-	-
+3	.	O	-	-
+4	We	O	-	-
+5	all	O	-	-
+6	will	O	-	-
+7	.	O	-	-
+
+# sent_id = ai14
+# text = Dark Arts are rising. We must be ready.
+1	Dark	O	-	-
+2	Arts	O	-	-
+3	are	O	-	-
+4	rising	O	-	-
+5	.	O	-	-
+6	We	O	-	-
+7	must	O	-	-
+8	be	O	-	-
+9	ready	O	-	-
+10	.	O	-	-
+
+# sent_id = ai15
+# text = The Ministry won't help us. We're on our own.
+1	The	O	-	-
+2	Ministry	O	-	-
+3	wo	O	-	-
+4	n't	O	-	-
+5	help	O	-	-
+6	us	O	-	-
+7	.	O	-	-
+8	We	O	-	-
+9	're	O	-	-
+10	on	O	-	-
+11	our	O	-	-
+12	own	O	-	-
+13	.	O	-	-
+
+# sent_id = ai16
+# text = That's why we have the DA. To learn, to fight.
+1	That	O	-	-
+2	's	O	-	-
+3	why	O	-	-
+4	we	O	-	-
+5	have	O	-	-
+6	the	O	-	-
+7	DA	O	-	-
+8	.	O	-	-
+9	To	O	-	-
+10	learn	O	-	-
+11	,	O	-	-
+12	to	O	-	-
+13	fight	O	-	-
+14	.	O	-	-
+
+# sent_id = ai17
+# text = Fight and survive. For our future.
+1	Fight	O	-	-
+2	and	O	-	-
+3	survive	O	-	-
+4	.	O	-	-
+5	For	O	-	-
+6	our	O	-	-
+7	future	O	-	-
+8	.	O	-	-
+
+# sent_id = ai18
+# text = For everyone's future.
+1	For	O	-	-
+2	everyone	O	-	-
+3	's	O	-	-
+4	future	O	-	-
+5	.	O	-	-
+
+# sent_id = ai19
+# text = The Room of Requirement gives us what we need.
+1	The	O	-	-
+2	Room	O	-	-
+3	of	O	-	-
+4	Requirement	O	-	-
+5	gives	O	-	-
+6	us	O	-	-
+7	what	O	-	-
+8	we	O	-	-
+9	need	O	-	-
+10	.	O	-	-
+
+# sent_id = ai20
+# text = And right now, we need hope.
+1	And	O	-	-
+2	right	O	-	-
+3	now	O	-	-
+4	,	O	-	-
+5	we	O	-	-
+6	need	O	-	-
+7	hope	O	-	-
+8	.	O	-	-
+
+# sent_id = ai21
+# text = Hope, and the strength to resist.
+1	Hope	O	-	-
+2	,	O	-	-
+3	and	O	-	-
+4	the	O	-	-
+5	strength	O	-	-
+6	to	O	-	-
+7	resist	O	-	-
+8	.	O	-	-
+
+# sent_id = ai22
+# text = We'll meet again next week. Keep practicing.
+1	We	O	-	-
+2	'll	O	-	-
+3	meet	O	-	-
+4	again	O	-	-
+5	next	O	-	-
+6	week	O	-	-
+7	.	O	-	-
+8	Keep	O	-	-
+9	practicing	O	-	-
+10	.	O	-	-
+
+# sent_id = ai23
+# text = Stay vigilant. Stay brave.
+1	Stay	O	-	-
+2	vigilant	O	-	-
+3	.	O	-	-
+4	Stay	O	-	-
+5	brave	O	-	-
+6	.	O	-	-
+
+# sent_id = ai24
+# text = Always.
+1	Always	O	-	-
+2	.	O	-	-
+

@@ -2750,9 +2750,9 @@
 4	he	O	-	-
 5	doing	O	-	-
 6	in	O	-	-
-7	Borgin	B-LOC	-	-
-8	and	I-LOC	-	-
-9	Burke	I-LOC	-	-
+7	Borgin	B-ORG	-	-
+8	and	I-ORG	-	-
+9	Burke	I-ORG	-	-
 10	's	O	-	-
 11	?	O	-	-
 12	Browsing	O	-	-
@@ -10116,8 +10116,8 @@
 3	an	O	-	-
 4	agent	O	-	-
 5	to	O	-	-
-6	Borgin	B-LOC	-	-
-7	Burkes	I-LOC	-	-
+6	Borgin	B-ORG	-	-
+7	Burkes	I-ORG	-	-
 8	.	O	-	-
 9	From	O	-	-
 10	what	O	-	-
@@ -10230,8 +10230,8 @@
 6	The	O	-	-
 7	one	O	-	-
 8	at	O	-	-
-9	Borgin	B-LOC	-	-
-10	Burkes	I-LOC	-	-
+9	Borgin	B-ORG	-	-
+10	Burkes	I-ORG	-	-
 11	?	O	-	-
 
 # sent_id = 600614
@@ -10529,8 +10529,8 @@
 18	that	O	-	-
 19	night	O	-	-
 20	at	O	-	-
-21	Borgin	B-LOC	-	-
-22	Burkes	I-LOC	-	-
+21	Borgin	B-ORG	-	-
+22	Burkes	I-ORG	-	-
 23	?	O	-	-
 24	It	O	-	-
 25	seems	O	-	-
@@ -15638,8 +15638,8 @@
 12	The	O	-	-
 13	one	O	-	-
 14	at	O	-	-
-15	Borgin	B-LOC	-	-
-16	Burke	I-LOC	-	-
+15	Borgin	B-ORG	-	-
+16	Burke	I-ORG	-	-
 17	's	O	-	-
 18	?	O	-	-
 19	It	O	-	-
@@ -17171,8 +17171,8 @@
 # sent_id = 601008
 # text = In Borgin & Burkes.  They form --
 1	In	O	-	-
-2	Borgin	B-LOC	-	-
-3	Burkes	I-LOC	-	-
+2	Borgin	B-ORG	-	-
+3	Burkes	I-ORG	-	-
 4	.	O	-	-
 5	They	O	-	-
 6	form	O	-	-

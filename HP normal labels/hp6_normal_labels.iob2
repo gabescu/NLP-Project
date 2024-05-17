@@ -747,7 +747,7 @@
 11	with	O	-	-
 12	it	O	-	-
 13	,	O	-	-
-14	sir	O	-	-
+14	sir	B-TTL	-	-
 15	.	O	-	-
 
 # sent_id = 600049
@@ -1495,7 +1495,7 @@
 
 # sent_id = 600080
 # text = Sir, exactly what was that all --
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	,	O	-	-
 3	exactly	O	-	-
 4	what	O	-	-
@@ -1586,7 +1586,7 @@
 2	's	O	-	-
 3	alright	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	.	O	-	-
 7	I	O	-	-
 8	'll	O	-	-
@@ -1618,7 +1618,7 @@
 # text = But, sir.  What about Hedwig?  And there's my trunk --
 1	But	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	What	O	-	-
 6	about	O	-	-
@@ -1641,7 +1641,7 @@
 
 # sent_id = 600087
 # text = Sir?
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	?	O	-	-
 
 # sent_id = 600088
@@ -4004,7 +4004,7 @@
 1	Ron	B-PER	-	-
 2	Weasley	B-PER	-	-
 3	,	O	-	-
-4	sir	O	-	-
+4	sir		B-TTL-	-
 5	.	O	-	-
 6	But	O	-	-
 7	I	O	-	-
@@ -4059,7 +4059,7 @@
 2	,	O	-	-
 3	sorry	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	,	O	-	-
 7	but	O	-	-
 8	I	O	-	-
@@ -4128,7 +4128,7 @@
 # text = Granger, sir.  That one there is Veritaserum.  And that would be Polyjuice Potion.  And that is Amortentia! The most powerful love potion in the world.
 1	Granger	B-PER	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	That	O	-	-
 6	one	O	-	-
@@ -4256,7 +4256,7 @@
 
 # sent_id = 600264
 # text = Sir, you haven't told us what's in that one.
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	,	O	-	-
 3	you	O	-	-
 4	have	O	-	-
@@ -4406,7 +4406,7 @@
 4	taken	O	-	-
 5	it	O	-	-
 6	,	O	-	-
-7	sir	O	-	-
+7	sir	B-TTL	-	-
 8	?	O	-	-
 
 # sent_id = 600272
@@ -4693,7 +4693,7 @@
 # text = Fine, sir.
 1	Fine	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 
 # sent_id = 600285
@@ -4724,7 +4724,7 @@
 5	my	O	-	-
 6	abilities	O	-	-
 7	,	O	-	-
-8	sir	O	-	-
+8	sir	B-TTL	-	-
 9	.	O	-	-
 
 # sent_id = 600287
@@ -4758,7 +4758,7 @@
 
 # sent_id = 600290
 # text = Sir?
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	?	O	-	-
 
 # sent_id = 600291
@@ -5471,7 +5471,7 @@
 2	you	O	-	-
 3	know	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	?	O	-	-
 7	Then	O	-	-
 8	?	O	-	-
@@ -5547,7 +5547,7 @@
 13	did	O	-	-
 14	you	O	-	-
 15	,	O	-	-
-16	sir	O	-	-
+16	sir	B-TTL	-	-
 17	?	O	-	-
 
 # sent_id = 600334
@@ -6654,7 +6654,7 @@
 # text = Hello, sir.  Wonderful to see you.
 1	Hello	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TLL	-	-
 4	.	O	-	-
 5	Wonderful	O	-	-
 6	to	O	-	-
@@ -6670,7 +6670,7 @@
 4	you	O	-	-
 5	here	O	-	-
 6	,	O	-	-
-7	sir	O	-	-
+7	sir	B-TTL	-	-
 8	?	O	-	-
 
 # sent_id = 600405
@@ -6763,7 +6763,7 @@
 5	an	O	-	-
 6	honor	O	-	-
 7	,	O	-	-
-8	sir	O	-	-
+8	sir	B-TTL	-	-
 9	.	O	-	-
 
 # sent_id = 600409
@@ -6782,7 +6782,7 @@
 1	Be	O	-	-
 2	delighted	O	-	-
 3	,	O	-	-
-4	sir	O	-	-
+4	sir	B-TTL	-	-
 5	.	O	-	-
 
 # sent_id = 600411
@@ -7559,7 +7559,7 @@
 # text = Yes, sir.  In fact, I'm meant to go hunting with him and the Minister for Magic over holiday.
 1	Yes	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	In	O	-	-
 6	fact	O	-	-
@@ -7839,7 +7839,7 @@
 # text = Sorry, sir, I was just admiring your hourglass.
 1	Sorry	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	,	O	-	-
 5	I	O	-	-
 6	was	O	-	-
@@ -7940,7 +7940,7 @@
 1	The	O	-	-
 2	shelf	O	-	-
 3	,	O	-	-
-4	sir	O	-	-
+4	sir	B-TTL	-	-
 5	?	O	-	-
 
 # sent_id = 600483
@@ -7983,7 +7983,7 @@
 8	answer	O	-	-
 9	that	O	-	-
 10	,	O	-	-
-11	sir	O	-	-
+11	sir	B-TTL	-	-
 12	.	O	-	-
 
 # sent_id = 600485
@@ -8022,7 +8022,7 @@
 5	the	O	-	-
 6	shelf	O	-	-
 7	,	O	-	-
-8	sir	O	-	-
+8	sir	B-TTL	-	-
 9	?	O	-	-
 
 # sent_id = 600487
@@ -8035,7 +8035,7 @@
 6	n't	O	-	-
 7	you	O	-	-
 8	,	O	-	-
-9	sir	O	-	-
+9	sir	B-TTL	-	-
 10	?	O	-	-
 11	Tom	B-PER	-	-
 12	Riddle	I-PER	-	-
@@ -8073,7 +8073,7 @@
 2	'm	O	-	-
 3	sorry	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	.	O	-	-
 7	Forgive	O	-	-
 8	me	O	-	-
@@ -9348,7 +9348,7 @@
 6	the	O	-	-
 7	party	O	-	-
 8	,	O	-	-
-9	sir	O	-	-
+9	sir	B-TTL	-	-
 10	.	O	-	-
 11	My	O	-	-
 12	date	O	-	-
@@ -9452,7 +9452,7 @@
 1	Professor	B-TTL	-	-
 2	Slughorn	B-PER	-	-
 3	,	O	-	-
-4	sir	O	-	-
+4	sir	B-TTL	-	-
 5	!	O	-	-
 6	I	O	-	-
 7	've	O	-	-
@@ -10628,7 +10628,7 @@
 
 # sent_id = 600643
 # text = Sir, is it true that Professor Merrythought is retiring?
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	,	O	-	-
 3	is	O	-	-
 4	it	O	-	-
@@ -10807,7 +10807,7 @@
 # text = Yes, sir.  I couldn't think of anyone else to go to.  The other professors, well, they're not like you.  They might... misunderstand.
 1	Yes	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	I	O	-	-
 6	could	O	-	-
@@ -11075,7 +11075,7 @@
 6	that	O	-	-
 7	well	O	-	-
 8	,	O	-	-
-9	sir	O	-	-
+9	sir	B-TTL	-	-
 
 # sent_id = 600664
 # text = You're the Chosen One, Harry.  And Horace is, at heart, a decent man. Provide the proper circumstances and he will confess his sins.
@@ -11221,7 +11221,7 @@
 # text = Well, sir, I wondered if I might ask you something.
 1	Well	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	,	O	-	-
 5	I	O	-	-
 6	wondered	O	-	-
@@ -11373,7 +11373,7 @@
 11	to	O	-	-
 12	eye	O	-	-
 13	,	O	-	-
-14	sir	O	-	-
+14	sir	B-TTL	-	-
 15	.	O	-	-
 16	What	O	-	-
 17	I	O	-	-
@@ -11443,7 +11443,7 @@
 7	Tom	B-PER	-	-
 8	Riddle	I-PER	-	-
 9	,	O	-	-
-10	sir	O	-	-
+10	sir	B-TTL	-	-
 11	?	O	-	-
 12	When	O	-	-
 13	he	O	-	-
@@ -11472,7 +11472,7 @@
 
 # sent_id = 600678
 # text = Sir --
-1	Sir	O	-	-
+1	sir	B-TTL	-	-
 
 # sent_id = 600679
 # text = Dead. Did you actually expect you could just walk up to Ol' Sluggy and ask him to reveal his deepest, darkest secret?  Honestly, Harry, sometimes I think the Daily Prophet should call you the Dim One.
@@ -11928,7 +11928,7 @@
 
 # sent_id = 600710
 # text = Sir.  I'm sorry.  I wouldn't bother you if it weren't absolutely --
-1	Sir	O	-	-
+1	sir	B-TTL	-	-
 2	.	O	-	-
 3	I	O	-	-
 4	'm	O	-	-
@@ -12012,7 +12012,7 @@
 8	practiced	O	-	-
 9	hand	O	-	-
 10	,	O	-	-
-11	sir	O	-	-
+11	sir	B-TTL	-	-
 12	.	O	-	-
 
 # sent_id = 600716
@@ -12042,7 +12042,7 @@
 2	'm	O	-	-
 3	sorry	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	.	O	-	-
 7	About	O	-	-
 8	the	O	-	-
@@ -12115,7 +12115,7 @@
 # text = Yes, sir.  It's just, well, Dumbledore once said that fear of a name only increases fear of the thing itself.  It seemed sensible.
 1	Yes	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	It	O	-	-
 6	's	O	-	-
@@ -13355,7 +13355,7 @@
 # text = Sorry, sir.  I should've announced myself.  Cleared my throat. Coughed.  You probably feared I was Madam Sprout.
 1	Sorry	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	I	O	-	-
 6	should	O	-	-
@@ -13374,7 +13374,7 @@
 19	feared	O	-	-
 20	I	O	-	-
 21	was	O	-	-
-22	Madam	O	-	-
+22	Madam	B-TTL	-	-
 23	Sprout	B-PER	-	-
 24	.	O	-	-
 
@@ -13399,7 +13399,7 @@
 3	general	O	-	-
 4	behavior	O	-	-
 5	,	O	-	-
-6	sir	O	-	-
+6	sir	B-TTL	-	-
 7	.	O	-	-
 8	The	O	-	-
 9	sneaking	O	-	-
@@ -13504,7 +13504,7 @@
 3	front	O	-	-
 4	doors	O	-	-
 5	,	O	-	-
-6	sir	O	-	-
+6	sir	B-TTL	-	-
 7	.	O	-	-
 8	I	O	-	-
 9	'm	O	-	-
@@ -13551,7 +13551,7 @@
 
 # sent_id = 600809
 # text = Sir?
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	?	O	-	-
 
 # sent_id = 600810
@@ -13589,7 +13589,7 @@
 7	come	O	-	-
 8	along	O	-	-
 9	,	O	-	-
-10	sir	O	-	-
+10	sir	B-TTL	-	-
 11	.	O	-	-
 
 # sent_id = 600812
@@ -13616,7 +13616,7 @@
 3	be	O	-	-
 4	counterproductive	O	-	-
 5	,	O	-	-
-6	sir	O	-	-
+6	sir	B-TTL	-	-
 7	.	O	-	-
 
 # sent_id = 600814
@@ -13660,7 +13660,7 @@
 5	I	O	-	-
 6	think	O	-	-
 7	,	O	-	-
-8	sir	O	-	-
+8	sir	B-TTL	-	-
 9	.	O	-	-
 
 # sent_id = 600819
@@ -14570,7 +14570,7 @@
 
 # sent_id = 600859
 # text = Sir, is it true that Professor Merrythought is retiring?
-1	Sir	O	-	-
+1	sir	B-TTL	-	-
 2	,	O	-	-
 3	is	O	-	-
 4	it	O	-	-
@@ -14750,7 +14750,7 @@
 # text = Yes, sir.  I couldn't think of anyone else to go to.  The other Professors, well, they're not like you.  They might... misunderstand.
 1	Yes	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	I	O	-	-
 6	could	O	-	-
@@ -14893,7 +14893,7 @@
 # text = Yes, sir.  Which is why I came to you.  I mean no disrespect to the rest of the staff, but I thought if anyone could tell me... it would be you.
 1	Yes	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 5	Which	O	-	-
 6	is	O	-	-
@@ -14970,7 +14970,7 @@
 18	that	O	-	-
 19	works	O	-	-
 20	,	O	-	-
-21	sir	O	-	-
+21	sir	B-TTL	-	-
 22	.	O	-	-
 
 # sent_id = 600875
@@ -15043,7 +15043,7 @@
 5	his	O	-	-
 6	soul	O	-	-
 7	,	O	-	-
-8	sir	O	-	-
+8	sir	B-TTL	-	-
 9	?	O	-	-
 
 # sent_id = 600879
@@ -15098,7 +15098,7 @@
 2	of	O	-	-
 3	curiosity	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	can	O	-	-
 7	you	O	-	-
 8	only	O	-	-
@@ -15172,7 +15172,7 @@
 1	Of	O	-	-
 2	course	O	-	-
 3	,	O	-	-
-4	sir	O	-	-
+4	sir	B-TTL	-	-
 5	.	O	-	-
 6	And	O	-	-
 7	I	O	-	-
@@ -15195,7 +15195,7 @@
 
 # sent_id = 600886
 # text = Sir --
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 
 # sent_id = 600887
 # text = This is beyond anything I imagined.  In my life I have seen things that are unimaginably horrific.  I know now... you will see worse.
@@ -15238,7 +15238,7 @@
 6	he	O	-	-
 7	succeeded	O	-	-
 8	,	O	-	-
-9	sir	O	-	-
+9	sir	B-TTL	-	-
 10	?	O	-	-
 11	In	O	-	-
 12	making	O	-	-
@@ -15490,7 +15490,7 @@
 10	n't	O	-	-
 11	it	O	-	-
 12	,	O	-	-
-13	sir	O	-	-
+13	sir	B-TTL	-	-
 14	?	O	-	-
 15	When	O	-	-
 16	you	O	-	-
@@ -15840,7 +15840,7 @@
 5	to	O	-	-
 6	me	O	-	-
 7	,	O	-	-
-8	sir	O	-	-
+8	sir	B-TTL	-	-
 9	.	O	-	-
 
 # sent_id = 600922
@@ -15921,7 +15921,7 @@
 # text = Yes, sir.
 1	Yes	O	-	-
 2	,	O	-	-
-3	sir	O	-	-
+3	sir	B-TTL	-	-
 4	.	O	-	-
 
 # sent_id = 600926
@@ -16004,7 +16004,7 @@
 
 # sent_id = 600933
 # text = Sir, I thought one couldn't Apparate within Hogwarts.
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	,	O	-	-
 3	I	O	-	-
 4	thought	O	-	-
@@ -16117,7 +16117,7 @@
 
 # sent_id = 600938
 # text = Sir!
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	!	O	-	-
 
 # sent_id = 600939
@@ -16149,7 +16149,7 @@
 4	let	O	-	-
 5	me	O	-	-
 6	,	O	-	-
-7	sir	O	-	-
+7	sir	B-TTL	-	-
 8	.	O	-	-
 
 # sent_id = 600941
@@ -16210,7 +16210,7 @@
 10	Summoning	O	-	-
 11	Charm	O	-	-
 12	,	O	-	-
-13	sir	O	-	-
+13	sir	B-TTL	-	-
 14	?	O	-	-
 
 # sent_id = 600945
@@ -16236,7 +16236,7 @@
 
 # sent_id = 600948
 # text = Sir... have you ever taken Felix Felicis?
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	...	O	-	-
 3	have	O	-	-
 4	you	O	-	-
@@ -16300,7 +16300,7 @@
 7	in	O	-	-
 8	there	O	-	-
 9	,	O	-	-
-10	sir	O	-	-
+10	sir	B-TTL	-	-
 11	?	O	-	-
 
 # sent_id = 600954
@@ -16405,7 +16405,7 @@
 5	drink	O	-	-
 6	it	O	-	-
 7	,	O	-	-
-8	sir	O	-	-
+8	sir	B-TTL	-	-
 9	?	O	-	-
 
 # sent_id = 600958
@@ -16507,7 +16507,7 @@
 1	It	O	-	-
 2	will	O	-	-
 3	,	O	-	-
-4	sir	O	-	-
+4	sir	B-TTL	-	-
 5	.	O	-	-
 6	It	O	-	-
 7	'll	O	-	-
@@ -16640,7 +16640,7 @@
 2	did	O	-	-
 3	it	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	.	O	-	-
 7	Look	O	-	-
 
@@ -16655,7 +16655,7 @@
 2	'm	O	-	-
 3	trying	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	.	O	-	-
 7	I	O	-	-
 8	'm	O	-	-
@@ -16680,7 +16680,7 @@
 2	n't	O	-	-
 3	worry	O	-	-
 4	,	O	-	-
-5	sir	O	-	-
+5	sir	B-TTL	-	-
 6	.	O	-	-
 7	We	O	-	-
 8	're	O	-	-
@@ -16725,10 +16725,10 @@
 8	the	O	-	-
 9	hospital	O	-	-
 10	,	O	-	-
-11	sir	O	-	-
+11	sir	B-TTL	-	-
 12	,	O	-	-
 13	to	O	-	-
-14	Madam	O	-	-
+14	Madam	B-TTL	-	-
 15	Pomfrey	B-PER	-	-
 
 # sent_id = 600985
@@ -16781,7 +16781,7 @@
 
 # sent_id = 600988
 # text = Sir, are you... praying?
-1	Sir	O	-	-
+1	Sir	B-TTL	-	-
 2	,	O	-	-
 3	are	O	-	-
 4	you	O	-	-

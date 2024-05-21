@@ -13665,11 +13665,11 @@
 
 # sent_id = 600819
 # text = 'Arry.  'Orace.
-1	'	O	-	-
-2	Arry	O	-	-
+1	'	B-PER	-	-
+2	Arry	I-PER	-	-
 3	.	O	-	-
-4	'	O	-	-
-5	Orace	O	-	-
+4	'	B-PER	-	-
+5	Orace	I-PER	-	-
 6	.	O	-	-
 
 # sent_id = 600820
@@ -17693,8 +17693,8 @@
 19	's	O	-	-
 20	Dumbledore	O	-	-
 21	,	O	-	-
-22	'	O	-	-
-23	arry	O	-	-
+22	'	B-PER	-	-
+23	arry	I-PER	-	-
 24	?	O	-	-
 25	Where	O	-	-
 26	's	O	-	-

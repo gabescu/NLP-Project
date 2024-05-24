@@ -7,6 +7,8 @@ from transformers import TrainingArguments
 from transformers import TrainingArguments, Trainer
 import numpy as np
 import pandas as pd
+import os
+
 
 batch_size = 16
 
@@ -92,14 +94,14 @@ def compute_metrics(p):
         "accuracy": results["overall_accuracy"],
     }
     
-dataset_train = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp1_custom_labels.iob2", data1)
-dataset_train = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp2_custom_labels.iob2", data1)
-dataset_train = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp3_custom_labels.iob2", data1)
-dataset_train = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp4_custom_labels.iob2", data1)
-dataset_eval = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp5-custom-labels.iob2", data2)
-dataset_eval = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp6_custom_labels.iob2", data2)
-dataset_test = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp7_custom_labels.iob2", data3)
-#dataset_test = read_iob2_file("C:/Programming/NLP-Project-1/HP custom labels/hp8_custom_labels.iob2", data3)
+cwd = os.getcwd()
+dataset_train = read_iob2_file(f"{cwd[0:-11]}HP custom labels\hp1_custom_labels.iob2", data1)
+dataset_train = read_iob2_file(f"{cwd[0:-11]}HP custom labels\hp2_custom_labels.iob2", data1)
+dataset_train = read_iob2_file(f"{cwd[0:-11]}HP custom labels\hp3_custom_labels.iob2", data1)
+dataset_train = read_iob2_file(f"{cwd[0:-11]}HP custom labels\hp4_custom_labels.iob2", data1)
+dataset_eval = read_iob2_file(f"{cwd[0:-11]}HP custom labels\hp5-custom-labels.iob2", data2)
+dataset_eval = read_iob2_file(f"{cwd[0:-11]}HP custom labels\hp6_custom_labels.iob2", data2)
+dataset_test = read_iob2_file(f"{cwd[0:-11]}HP custom labels\hp7_custom_labels.iob2", data3)
 
 model_checkpoint = "distilbert/distilbert-base-uncased"
 tokenizer = AutoTokenizer.from_pretrained(model_checkpoint, padding = True)

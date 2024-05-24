@@ -1,1 +1,5 @@
+All the code is in NLP-Project with the exception of the tokenizer, which is in the "text only dialog" folder. 
 
+The Harry_Potter_Model_2.zip file should be decompressed into NLP-Project together with the rest of the code and then Predictions.py file should be able to run and use the model.
+
+Predictions.py will create a new file where the predictions and the labels are written in that order.
